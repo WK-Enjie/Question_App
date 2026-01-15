@@ -95,7 +95,7 @@
         "A ∪ B",
         "A ∩ B",
         "A' ∩ B'",
-        "A Δ B (symmetric difference)"
+        "A' ∪ B"
       ],
       "correct": 1,
       "explanation": "Only the overlapping region shaded = intersection A ∩ B = elements common to both sets."
