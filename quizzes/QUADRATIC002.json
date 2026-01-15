@@ -1,0 +1,152 @@
+{
+  "quizTitle": "O-Level E-Math: Quadratic Functions",
+  "quizCode": "QUADRATIC002",
+  "instructions": "Answer all questions. Show working. Calculator allowed.",
+  "timeLimit": 900,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Express x² - 10x + 20 in completed square form.",
+      "options": [
+        "(x - 5)² - 5",
+        "(x - 5)² + 20",
+        "(x - 10)² - 80",
+        "(x - 5)² - 25"
+      ],
+      "correct": 0,
+      "explanation": "x² - 10x + 20 = (x² - 10x + 25) - 25 + 20 = (x - 5)² - 5"
+    },
+    {
+      "id": 2,
+      "question": "The curve y = 3x² - 6x + 1 cuts the y-axis at:",
+      "options": [
+        "(0, 1)",
+        "(0, -6)",
+        "(0, 3)",
+        "(0, 0)"
+      ],
+      "correct": 0,
+      "explanation": "y-intercept: set x=0 → y = 3(0) - 6(0) + 1 = 1 → point (0,1)."
+    },
+    {
+      "id": 3,
+      "question": "Using quadratic formula, solve: 2x² - 9x + 7 = 0",
+      "options": [
+        "x = 1 and x = 3.5",
+        "x = -1 and x = -3.5",
+        "x = 2 and x = 3.5",
+        "x = 1.5 and x = 2.5"
+      ],
+      "correct": 0,
+      "explanation": "a=2,b=-9,c=7 → x = [9 ± √(81-56)]/4 = [9 ± √25]/4 = [9 ± 5]/4 → x=14/4=3.5 or x=4/4=1."
+    },
+    {
+      "id": 4,
+      "question": "Complete the square for: 3x² + 12x - 5",
+      "options": [
+        "3(x + 2)² - 17",
+        "3(x + 4)² - 53",
+        "(x + 2)² - 9",
+        "3(x + 2)² - 7"
+      ],
+      "correct": 0,
+      "explanation": "3x²+12x-5 = 3(x²+4x) -5 = 3[(x+2)²-4] -5 = 3(x+2)² -12 -5 = 3(x+2)² -17."
+    },
+    {
+      "id": 5,
+      "question": "Find the x-intercepts of y = x² + 4x - 12",
+      "options": [
+        "(-6, 0) and (2, 0)",
+        "(6, 0) and (-2, 0)",
+        "(3, 0) and (-4, 0)",
+        "No x-intercepts"
+      ],
+      "correct": 1,
+      "explanation": "Set y=0 → x²+4x-12=0 → (x+6)(x-2)=0 → x=-6 or x=2 → points (-6,0) and (2,0)."
+    },
+    {
+      "id": 6,
+      "question": "A rectangle has area 60 m². The length is 4 m more than the width. Find the perimeter.",
+      "options": [
+        "32 m",
+        "34 m",
+        "28 m",
+        "30 m"
+      ],
+      "correct": 0,
+      "explanation": "Let width = w → length = w+4 → w(w+4)=60 → w²+4w-60=0 → (w+10)(w-6)=0 → w=6 m, length=10 m. Perimeter = 2(6+10)=32 m."
+    },
+    {
+      "id": 7,
+      "question": "Solve by completing square: x² - 6x + 7 = 0",
+      "options": [
+        "x = 3 ± √2",
+        "x = 3 ± √7",
+        "x = 6 ± √29",
+        "x = -3 ± √2"
+      ],
+      "correct": 0,
+      "explanation": "x²-6x+7=0 → (x-3)² -9+7=0 → (x-3)²=2 → x-3=±√2 → x=3±√2."
+    },
+    {
+      "id": 8,
+      "question": "A ball is thrown upward from height 2 m. Height h(t) = -5t² + 20t + 2. What is its maximum height?",
+      "options": [
+        "22 m",
+        "20 m",
+        "18 m",
+        "12 m"
+      ],
+      "correct": 0,
+      "explanation": "Complete square: h = -5(t²-4t) +2 = -5[(t-2)²-4] +2 = -5(t-2)²+20+2 = -5(t-2)²+22. Maximum = 22 m at t=2 s."
+    },
+    {
+      "id": 9,
+      "question": "The curve y = ax² + bx - 8 passes through (2, 0) and (-4, 0). Find a and b.",
+      "options": [
+        "a=1, b=2",
+        "a=1, b=-2",
+        "a=-1, b=-2",
+        "a=2, b=1"
+      ],
+      "correct": 0,
+      "explanation": "x-intercepts at x=2 and x=-4 → y = a(x-2)(x+4) = a(x²+2x-8). Compare with y=ax²+bx-8 → -8a=-8 → a=1. Then b=2a=2."
+    },
+    {
+      "id": 10,
+      "question": "The sum of two numbers is 12 and their product is 35. Find the numbers.",
+      "options": [
+        "5 and 7",
+        "3 and 9",
+        "4 and 8",
+        "6 and 6"
+      ],
+      "correct": 0,
+      "explanation": "Let numbers be p and q → p+q=12, pq=35. Quadratic: x² - 12x + 35=0 → (x-5)(x-7)=0 → numbers are 5 and 7."
+    },
+    {
+      "id": 11,
+      "question": "Express 4x² - 20x + 18 in completed square form.",
+      "options": [
+        "4(x - 2.5)² - 7",
+        "4(x - 5)² - 82",
+        "2(x - 5)² - 32",
+        "4(x - 2.5)² + 18"
+      ],
+      "correct": 0,
+      "explanation": "4x²-20x+18 = 4(x²-5x) +18 = 4[(x-2.5)²-6.25] +18 = 4(x-2.5)² -25 +18 = 4(x-2.5)² -7."
+    },
+    {
+      "id": 12,
+      "question": "A garden's length is 3 m more than its width. If the area is 54 m², find the width.",
+      "options": [
+        "6 m",
+        "9 m",
+        "7 m",
+        "8 m"
+      ],
+      "correct": 0,
+      "explanation": "width = w → length = w+3 → w(w+3)=54 → w²+3w-54=0 → (w+9)(w-6)=0 → w=6 m."
+    }
+  ]
+}
