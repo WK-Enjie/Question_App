@@ -1,0 +1,104 @@
+{
+  "quizTitle": "Primary 4 Mathematics: Whole Numbers up to 100,000 (Challenging)",
+  "quizCode": "WHOLE001",
+  "instructions": "Solve challenging whole number problems. Choose the correct answer from the options given. Show your working.",
+  "timeLimit": 900,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which number is 5,000 less than 78,452 when rounded to the nearest thousand?",
+      "options": [
+        "72,000",
+        "73,000",
+        "74,000",
+        "75,000"
+      ],
+      "correct": 1,
+      "explanation": "First, round 78,452 to nearest thousand: 78,452 → 78,000 (since hundreds digit is 4, which is less than 5). Then subtract 5,000: 78,000 - 5,000 = 73,000."
+    },
+    {
+      "id": 2,
+      "question": "The sum of two numbers is 84,765. If one number is 37,892, what is the other number rounded to the nearest hundred?",
+      "options": [
+        "46,800",
+        "46,900",
+        "47,000",
+        "46,870"
+      ],
+      "correct": 1,
+      "explanation": "First find the other number: 84,765 - 37,892 = 46,873. Now round 46,873 to nearest hundred: Look at tens digit (7) which is 5 or more, so round up. 46,873 → 46,900."
+    },
+    {
+      "id": 3,
+      "question": "In the number pattern: 45, □, 55, 60, 65, □, 75... What is the sum of the two missing numbers?",
+      "options": [
+        "105",
+        "110",
+        "115",
+        "120"
+      ],
+      "correct": 3,
+      "explanation": "Pattern increases by 5: 45, 50, 55, 60, 65, 70, 75. Missing numbers are 50 and 70. Sum = 50 + 70 = 120."
+    },
+    {
+      "id": 4,
+      "question": "A library has 48,765 books. After a donation, it has 52,000 books when rounded to the nearest thousand. What is the smallest possible number of books donated?",
+      "options": [
+        "2,735",
+        "3,235",
+        "3,500",
+        "4,235"
+      ],
+      "correct": 0,
+      "explanation": "After donation, total must be between 51,500 and 52,499 to round to 52,000. For smallest donation, we want the smallest new total: 51,500. Donation = 51,500 - 48,765 = 2,735. This is the smallest possible donation that makes the total round to 52,000."
+    },
+    {
+      "id": 5,
+      "question": "Mr. Lee has 65,428 stamps. He wants to arrange them in albums that can hold 100 stamps each. After filling as many albums as possible, how many stamps will be left?",
+      "options": [
+        "28",
+        "38",
+        "48",
+        "58"
+      ],
+      "correct": 0,
+      "explanation": "Divide 65,428 by 100. 65,400 stamps fill 654 albums (65,400 ÷ 100 = 654). Remainder = 65,428 - 65,400 = 28 stamps left."
+    },
+    {
+      "id": 6,
+      "question": "What is the difference between the largest and smallest 5-digit numbers that can be formed using the digits 4, 7, 2, 9, 1 without repeating any digit?",
+      "options": [
+        "84,951",
+        "84,942",
+        "85,932",
+        "86,931"
+      ],
+      "correct": 1,
+      "explanation": "Largest: 97,421. Smallest: 12,479. Difference: 97,421 - 12,479 = 84,942."
+    },
+    {
+      "id": 7,
+      "question": "A factory produced between 55,000 and 56,000 toys. When counting the toys in groups of 8, there were 3 left over. When counting in groups of 9, there were 5 left over. How many toys were produced?",
+      "options": [
+        "55,043",
+        "55,059",
+        "55,067",
+        "55,075"
+      ],
+      "correct": 2,
+      "explanation": "Find number between 55,000-56,000 that leaves remainder 3 when ÷8, and remainder 5 when ÷9. Test: 55,067 ÷ 8 = 6,883 remainder 3. 55,067 ÷ 9 = 6,118 remainder 5. So 55,067 satisfies both conditions."
+    },
+    {
+      "id": 8,
+      "question": "A number when rounded to the nearest thousand is 23,000. When rounded to the nearest hundred, it is 23,500. What is the smallest possible value of this number?",
+      "options": [
+        "23,450",
+        "23,499",
+        "23,500",
+        "23,549"
+      ],
+      "correct": 0,
+      "explanation": "For nearest thousand = 23,000: number is between 22,500 and 23,499. For nearest hundred = 23,500: number is between 23,450 and 23,549. Intersection: 23,450 to 23,499. Smallest = 23,450."
+    }
+  ]
+}
