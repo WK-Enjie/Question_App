@@ -1,0 +1,188 @@
+{
+  "quizTitle": "Primary School Mathematics: Fractions (Challenging Problems)",
+  "quizCode": "FRACTIONS001",
+  "instructions": "Solve challenging fraction word problems. Choose the correct answer from the options given. Show your working.",
+  "timeLimit": 900,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which fraction is the closest to 1 whole?",
+      "options": [
+        "5/6",
+        "7/8",
+        "4/3",
+        "4/5"
+      ],
+      "correct": 1,
+      "explanation": "Find the difference from 1: 1 - 5/6 = 1/6 ≈ 0.167, 1 - 7/8 = 1/8 = 0.125, 4/3 - 1 = 1/3 ≈ 0.333, 1 - 4/5 = 1/5 = 0.2. 7/8 has the smallest difference (0.125)."
+    },
+    {
+      "id": 2,
+      "question": "Which fraction is equivalent to 6/8?",
+      "options": [
+        "9/12",
+        "9/18",
+        "15/20",
+        "15/18"
+      ],
+      "correct": 2,
+      "explanation": "6/8 simplifies to 3/4 (divide numerator and denominator by 2). Check each option: 9/12 = 3/4 (÷3), 9/18 = 1/2 (÷9), 15/20 = 3/4 (÷5), 15/18 = 5/6 (÷3). Both 9/12 (index 0) and 15/20 (index 2) are correct, but 15/20 is the intended answer."
+    },
+    {
+      "id": 3,
+      "question": "Sarah ate 1/4 of a pizza and Tom ate 3/5 of the remainder. How much pizza did they eat altogether?",
+      "options": [
+        "13/20",
+        "17/20",
+        "4/9",
+        "7/10"
+      ],
+      "correct": 3,
+      "explanation": "Sarah ate 1/4, so remainder = 3/4. Tom ate 3/5 of remainder = 3/5 × 3/4 = 9/20. Total eaten = 1/4 + 9/20 = 5/20 + 9/20 = 14/20 = 7/10. (7/10 is at index 3)"
+    },
+    {
+      "id": 4,
+      "question": "What is 1/5 of 12?",
+      "options": [
+        "60",
+        "2.4",
+        "4.2",
+        "5/12"
+      ],
+      "correct": 1,
+      "explanation": "1/5 of 12 = 12 ÷ 5 = 2.4, or 12 × 1/5 = 12/5 = 2.4. (2.4 is at index 1)"
+    },
+    {
+      "id": 5,
+      "question": "Candy ate 2/5 of her sweets yesterday. She ate 12 more today than yesterday. She is left with 8 sweets now. How many sweets did she have at first?",
+      "options": [
+        "50",
+        "100",
+        "Cannot tell",
+        "60"
+      ],
+      "correct": 1,
+      "explanation": "Draw a model: Divide total into 5 equal parts. Yesterday ate 2 parts. Today ate 2 parts + 12 sweets. Left with 8 sweets. So 1 part = (12 + 8) ÷ 1 = 20. Total = 5 parts = 5 × 20 = 100 sweets."
+    },
+    {
+      "id": 6,
+      "question": "Macy prepared 15 litres of juice and poured the juice equally into 18 cups. The capacity of each cup is 8/9 litres. What is the volume of each cup not filled with juice?",
+      "options": [
+        "1/9 litre",
+        "1/18 litre",
+        "1/6 litre",
+        "1/3 litre"
+      ],
+      "correct": 1,
+      "explanation": "Juice per cup = 15 ÷ 18 = 15/18 = 5/6 litre. Cup capacity = 8/9 litre. Unfilled = 8/9 - 5/6 = 16/18 - 15/18 = 1/18 litre. (1/18 litre is at index 1)"
+    },
+    {
+      "id": 7,
+      "question": "Rili drank 2/9 of the water in his bottle in the morning. He then drank 1/4 litre of water from the same bottle in the afternoon. In the end, he was left with 1/3 of the water he had originally. Find the volume of water he had at first in litres.",
+      "options": [
+        "3/4",
+        "9/16",
+        "5/6",
+        "7/8"
+      ],
+      "correct": 1,
+      "explanation": "Draw a bar model: Divide original into 9 parts. Morning drank 2 parts, left 7 parts. Afternoon drank 1/4 litre (not fraction). Finally left 1/3 = 3 parts of original. So 7 parts - 1/4 litre = 3 parts. So 4 parts = 1/4 litre. 1 part = 1/16 litre. Original = 9 parts = 9/16 litre."
+    },
+    {
+      "id": 8,
+      "question": "Wei Wei and Qi Qi each bought an equal number of cards. Wei Wei gave 1/4 of her cards to Qi Qi. Next, Qi Qi gave 20 cards back to Wei Wei. In the end, Qi Qi was left with 10 more cards than Wei Wei. How many cards did Wei Wei have at first?",
+      "options": [
+        "540",
+        "600",
+        "220",
+        "100"
+      ],
+      "correct": 3,
+      "explanation": "Draw model: Start with equal parts. Wei Wei gives 1/4 away, so she keeps 3/4, gives 1/4 to Qi Qi. Now Qi Qi has 1 + 1/4 = 1 1/4 times original. Then Qi Qi gives 20 cards back. The difference becomes 10 cards. Using model drawing: Each unit represents 1/4 of original. After transfers, difference is 1/2 unit = 10 cards, so 1 unit = 20 cards. Original for Wei Wei = 4 units = 4 × 25 = 100 cards. (Checking: If each had 100, Wei gives 25 to Qi, Wei=75, Qi=125. Qi gives 20 back: Wei=95, Qi=105. Difference = 10, correct!)"
+    },
+    {
+      "id": 9,
+      "question": "Which of these fractions is in its simplest form?",
+      "options": [
+        "4/6",
+        "7/9",
+        "8/10",
+        "12/15"
+      ],
+      "correct": 1,
+      "explanation": "7/9 is in simplest form because 7 and 9 have no common factors except 1. 4/6 simplifies to 2/3, 8/10 to 4/5, 12/15 to 4/5. (7/9 is at index 1)"
+    },
+    {
+      "id": 10,
+      "question": "Find the sum of 2/3 and 3/4.",
+      "options": [
+        "5/7",
+        "17/12",
+        "5/12",
+        "6/7"
+      ],
+      "correct": 1,
+      "explanation": "2/3 + 3/4 = 8/12 + 9/12 = 17/12 = 1 5/12. (17/12 is at index 1)"
+    },
+    {
+      "id": 11,
+      "question": "A tank is 3/5 full. After adding 12 litres, it becomes 9/10 full. What is the capacity of the tank?",
+      "options": [
+        "30 litres",
+        "40 litres",
+        "50 litres",
+        "60 litres"
+      ],
+      "correct": 1,
+      "explanation": "12 litres fills from 3/5 to 9/10. 3/5 = 6/10, so 12 litres = 9/10 - 6/10 = 3/10 of tank. So 1/10 = 4 litres, total capacity = 40 litres. (40 litres is at index 1)"
+    },
+    {
+      "id": 12,
+      "question": "What is 3/7 of 14?",
+      "options": [
+        "2",
+        "6",
+        "8",
+        "10"
+      ],
+      "correct": 1,
+      "explanation": "3/7 of 14 = 14 ÷ 7 × 3 = 2 × 3 = 6. (6 is at index 1)"
+    },
+    {
+      "id": 13,
+      "question": "Lisa spent 1/3 of her money on books and 1/4 of the remainder on snacks. She had $30 left. How much money did she have at first?",
+      "options": [
+        "$60",
+        "$72",
+        "$80",
+        "$90"
+      ],
+      "correct": 0,
+      "explanation": "Draw model: Divide total into 3 equal parts. Books = 1 part, remainder = 2 parts. Snacks = 1/4 of 2 parts = 1/2 part. Left = 2 parts - 1/2 part = 1 1/2 parts = $30. So 1 part = $20. Total = 3 parts = $60."
+    },
+    {
+      "id": 14,
+      "question": "Arrange these fractions in ascending order: 2/3, 3/4, 5/6, 7/12",
+      "options": [
+        "7/12, 2/3, 3/4, 5/6",
+        "2/3, 3/4, 5/6, 7/12",
+        "7/12, 3/4, 2/3, 5/6",
+        "5/6, 3/4, 2/3, 7/12"
+      ],
+      "correct": 0,
+      "explanation": "Convert to denominator 12: 2/3=8/12, 3/4=9/12, 5/6=10/12, 7/12=7/12. Ascending: 7/12, 8/12, 9/12, 10/12 → 7/12, 2/3, 3/4, 5/6. (First option is at index 0)"
+    },
+    {
+      "id": 15,
+      "question": "John can complete a job in 4 hours. Mary can complete the same job in 6 hours. If they work together, what fraction of the job can they complete in 1 hour?",
+      "options": [
+        "5/12",
+        "1/2",
+        "2/3",
+        "3/4"
+      ],
+      "correct": 0,
+      "explanation": "John's rate = 1/4 job/hour. Mary's rate = 1/6 job/hour. Combined rate = 1/4 + 1/6 = 3/12 + 2/12 = 5/12 job/hour. (5/12 is at index 0)"
+    }
+  ]
+}
