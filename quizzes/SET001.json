@@ -1,0 +1,128 @@
+{
+  "quizTitle": "O-Level E-Math: Set Language & Notation",
+  "quizCode": "SET001",
+  "instructions": "Choose the correct answer for each question on set theory. Diagrams may help visualize the sets.",
+  "timeLimit": 600,
+  "questions": [
+    {
+      "id": 1,
+      "question": "If ξ = {1,2,3,4,5,6,7,8,9,10}, A = {even numbers}, and B = {prime numbers}, what is A ∩ B?",
+      "options": [
+        "{2}",
+        "{2, 3, 5, 7}",
+        "{2, 4, 6, 8, 10}",
+        "{1, 2, 3, 5, 7}"
+      ],
+      "correct": 0,
+      "explanation": "A = {2,4,6,8,10}, B = {2,3,5,7}. Intersection A ∩ B = elements in both = {2}."
+    },
+    {
+      "id": 2,
+      "question": "Which symbol represents 'is an element of'?",
+      "options": [
+        "⊆",
+        "∈",
+        "⊂",
+        "∩"
+      ],
+      "correct": 1,
+      "explanation": "∈ means 'is an element of'. ⊆ means 'is a subset of', ⊂ means 'is a proper subset of', ∩ means 'intersection'."
+    },
+    {
+      "id": 3,
+      "question": "Given P = {x: x is a factor of 12} and Q = {x: x is a factor of 18}, what is P ∪ Q?",
+      "options": [
+        "{1, 2, 3, 4, 6, 12}",
+        "{1, 2, 3, 6, 9, 18}",
+        "{1, 2, 3, 4, 6, 9, 12, 18}",
+        "{6}"
+      ],
+      "correct": 2,
+      "explanation": "P = {1,2,3,4,6,12}, Q = {1,2,3,6,9,18}. Union = all elements from both = {1,2,3,4,6,9,12,18}."
+    },
+    {
+      "id": 4,
+      "question": "If A = {1,2,3} and B = {3,4,5}, what is (A ∩ B)' in the universal set ξ = {1,2,3,4,5,6}?",
+      "options": [
+        "{3}",
+        "{1,2,4,5,6}",
+        "{1,2,3,4,5}",
+        "{6}"
+      ],
+      "correct": 1,
+      "explanation": "A ∩ B = {3}. Complement (A ∩ B)' = all elements in ξ except {3} = {1,2,4,5,6}."
+    },
+    {
+      "id": 5,
+      "question": "Which Venn diagram represents A' ∩ B?",
+      "options": [
+        "Region outside A but inside B",
+        "Region inside both A and B",
+        "Region outside B but inside A",
+        "Region outside both A and B"
+      ],
+      "correct": 0,
+      "explanation": "A' means NOT A. A' ∩ B means elements that are NOT in A BUT are in B = region outside A but inside B."
+    },
+    {
+      "id": 6,
+      "question": "If n(A) = 8, n(B) = 5, and n(A ∪ B) = 11, what is n(A ∩ B)?",
+      "options": [
+        "2",
+        "3",
+        "13",
+        "1"
+      ],
+      "correct": 0,
+      "explanation": "Using formula: n(A ∪ B) = n(A) + n(B) - n(A ∩ B). 11 = 8 + 5 - n(A ∩ B) → n(A ∩ B) = 2."
+    },
+    {
+      "id": 7,
+      "question": "Which set is equal to {x | x ∈ ℤ, -2 < x ≤ 3}?",
+      "options": [
+        "{-1, 0, 1, 2}",
+        "{-1, 0, 1, 2, 3}",
+        "{-2, -1, 0, 1, 2, 3}",
+        "{-2, -1, 0, 1, 2}"
+      ],
+      "correct": 1,
+      "explanation": "-2 < x means x > -2 (not including -2). x ≤ 3 includes 3. Integers: -1, 0, 1, 2, 3."
+    },
+    {
+      "id": 8,
+      "question": "What does the shaded region represent in this Venn diagram? (Two overlapping circles A and B, only the overlapping part is shaded)",
+      "options": [
+        "A ∪ B",
+        "A ∩ B",
+        "A' ∩ B'",
+        "A Δ B (symmetric difference)"
+      ],
+      "correct": 1,
+      "explanation": "Only the overlapping region shaded = intersection A ∩ B = elements common to both sets."
+    },
+    {
+      "id": 9,
+      "question": "If ξ = {students in class}, M = {students who like Math}, E = {students who like English}, and n(M ∩ E') = 12, n(M' ∩ E) = 8, n(M ∩ E) = 5, how many students like Math?",
+      "options": [
+        "17",
+        "20",
+        "13",
+        "25"
+      ],
+      "correct": 0,
+      "explanation": "Students who like Math = n(M ∩ E') + n(M ∩ E) = 12 + 5 = 17."
+    },
+    {
+      "id": 10,
+      "question": "Which notation represents 'the number of elements in set A'?",
+      "options": [
+        "|A|",
+        "n(A)",
+        "Both |A| and n(A)",
+        "card(A)"
+      ],
+      "correct": 2,
+      "explanation": "Both |A| and n(A) are accepted notations for the cardinality (number of elements) of set A."
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "quizTitle": "O-Level E-Math: Quadratic Equations & Graphs (Comprehensive)",
+  "quizCode": "QUADRATIC101",
+  "instructions": "Answer all questions. Use algebraic methods, graphical reasoning, or real-world application as appropriate.",
+  "timeLimit": 900,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Solve by factorizing: x² - 7x + 12 = 0",
+      "options": [
+        "x = 3, x = 4",
+        "x = -3, x = -4",
+        "x = 2, x = 6",
+        "x = 1, x = 12"
+      ],
+      "correct": 0,
+      "explanation": "x² - 7x + 12 = (x-3)(x-4) = 0 → x = 3 or x = 4."
+    },
+    {
+      "id": 2,
+      "question": "Express x² + 6x - 4 in completed square form.",
+      "options": [
+        "(x + 3)² - 13",
+        "(x + 3)² - 5",
+        "(x + 6)² - 40",
+        "(x + 3)² + 5"
+      ],
+      "correct": 0,
+      "explanation": "x² + 6x - 4 = (x² + 6x + 9) - 9 - 4 = (x+3)² - 13."
+    },
+    {
+      "id": 3,
+      "question": "Using the quadratic formula, solve: 2x² - 5x - 3 = 0",
+      "options": [
+        "x = 3 and x = -0.5",
+        "x = -3 and x = 0.5",
+        "x = 1.5 and x = -1",
+        "x = 6 and x = -1"
+      ],
+      "correct": 0,
+      "explanation": "a=2, b=-5, c=-3 → x = [5 ± √(25 + 24)]/(4) = [5 ± √49]/4 = [5 ± 7]/4 → x = 3 or x = -0.5."
+    },
+    {
+      "id": 4,
+      "question": "A quadratic curve has turning point (2, -3). How many times does it intersect the horizontal line y = 1?",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "Cannot be determined"
+      ],
+      "correct": 2,
+      "explanation": "Turning point at y=-3 (minimum since coefficient of x² positive). Horizontal line y=1 is above the turning point, so it will intersect at two points (curve goes up both sides)."
+    },
+    {
+      "id": 5,
+      "question": "Find the intersection points of y = x² - 5x + 6 and the horizontal line y = 2.",
+      "options": [
+        "x = 1 and x = 4",
+        "x = 2 and x = 3",
+        "x = 0.5 and x = 4.5",
+        "No intersection"
+      ],
+      "correct": 0,
+      "explanation": "Set x² - 5x + 6 = 2 → x² - 5x + 4 = 0 → (x-1)(x-4)=0 → x = 1 and x = 4."
+    },
+    {
+      "id": 6,
+      "question": "The quadratic y = -2x² + 8x - 5 has a maximum point. What is the maximum value of y?",
+      "options": [
+        "3",
+        "5",
+        "11",
+        "-5"
+      ],
+      "correct": 0,
+      "explanation": "Complete square: -2(x²-4x) -5 = -2[(x-2)²-4] -5 = -2(x-2)² + 8 -5 = -2(x-2)² + 3. Maximum is 3 when x=2."
+    },
+    {
+      "id": 7,
+      "question": "A ball is thrown upward. Its height h (meters) at time t (seconds) is h = -5t² + 20t + 1.5. What is the maximum height reached?",
+      "options": [
+        "21.5 m",
+        "20.5 m",
+        "1.5 m",
+        "41.5 m"
+      ],
+      "correct": 0,
+      "explanation": "Maximum at t = -b/(2a) = -20/(2×-5) = 2 seconds. h_max = -5(4) + 20(2) + 1.5 = -20 + 40 + 1.5 = 21.5 m."
+    },
+    {
+      "id": 8,
+      "question": "A quadratic curve has turning point (-1, 4). It intersects the horizontal line y = 4 at how many points?",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "Cannot say"
+      ],
+      "correct": 1,
+      "explanation": "The turning point itself lies on y=4. Since it's the turning point, the curve touches the line at exactly one point (tangent)."
+    },
+    {
+      "id": 9,
+      "question": "Solve by completing square: x² - 8x + 11 = 0",
+      "options": [
+        "x = 4 ± √5",
+        "x = 8 ± √11",
+        "x = 4 ± √11",
+        "x = -4 ± √5"
+      ],
+      "correct": 0,
+      "explanation": "x² - 8x + 11 = (x² - 8x + 16) -16 +11 = (x-4)² -5 = 0 → (x-4)² = 5 → x = 4 ± √5."
+    },
+    {
+      "id": 10,
+      "question": "The area of a rectangle is 60 cm². The length is 4 cm more than the width. Find the width.",
+      "options": [
+        "6 cm",
+        "10 cm",
+        "5 cm",
+        "8 cm"
+      ],
+      "correct": 0,
+      "explanation": "Let width = w → length = w+4. Area = w(w+4)=60 → w²+4w-60=0 → (w+10)(w-6)=0 → w=6 cm (positive)."
+    },
+    {
+      "id": 11,
+      "question": "If a quadratic curve has turning point (3, -2), which horizontal line will NOT intersect it?",
+      "options": [
+        "y = -3",
+        "y = -2",
+        "y = 0",
+        "y = 5"
+      ],
+      "correct": 0,
+      "explanation": "Turning point is minimum if positive x² coefficient. y=-3 is below the minimum point y=-2, so the curve never goes that low → no intersection."
+    },
+    {
+      "id": 12,
+      "question": "Using quadratic formula, which equation has x = [3 ± √17] / 4 as solutions?",
+      "options": [
+        "2x² - 3x - 1 = 0",
+        "2x² + 3x - 1 = 0",
+        "4x² - 3x - 2 = 0",
+        "4x² - 6x - 1 = 0"
+      ],
+      "correct": 0,
+      "explanation": "Formula gives x = [3 ± √(9+8)]/(4) = [3 ± √17]/4. That matches 2x² - 3x - 1 = 0 (a=2,b=-3,c=-1)."
+    }
+  ]
+}
