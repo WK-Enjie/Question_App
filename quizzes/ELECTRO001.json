@@ -1,0 +1,80 @@
+{
+  "quizTitle": "O-Level Pure Chemistry: Electrolysis of Salts",
+  "quizCode": "ELECTRO001",
+  "instructions": "Answer all electrolysis questions. Consider inert electrodes unless specified.",
+  "timeLimit": 600,
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is produced at the cathode during electrolysis of molten sodium chloride (NaCl)?",
+      "options": [
+        "Sodium metal",
+        "Chlorine gas",
+        "Hydrogen gas",
+        "Oxygen gas"
+      ],
+      "correct": 0,
+      "explanation": "Molten NaCl: Na⁺ ions migrate to cathode, gain electrons → Na(l). Cl⁻ ions to anode → Cl₂(g)."
+    },
+    {
+      "id": 2,
+      "question": "During electrolysis of dilute aqueous sodium chloride (NaCl) using inert electrodes, what forms at the anode?",
+      "options": [
+        "Chlorine gas",
+        "Oxygen gas",
+        "Hydrogen gas",
+        "Sodium metal"
+      ],
+      "correct": 1,
+      "explanation": "Aqueous NaCl: OH⁻ and Cl⁻ go to anode. OH⁻ discharged preferentially (dilute) → oxygen gas. Chlorine forms only with concentrated solution."
+    },
+    {
+      "id": 3,
+      "question": "Electrolysis of molten lead(II) bromide (PbBr₂) produces:",
+      "options": [
+        "Lead at cathode, bromine at anode",
+        "Bromine at cathode, lead at anode",
+        "Hydrogen at cathode, oxygen at anode",
+        "Lead and bromine both at anode"
+      ],
+      "correct": 0,
+      "explanation": "Molten PbBr₂: Pb²⁺ reduced at cathode → Pb(l). Br⁻ oxidised at anode → Br₂(g)."
+    },
+    {
+      "id": 4,
+      "question": "Why is aluminium extracted by electrolysis of molten alumina (Al₂O₃) and not aqueous solution?",
+      "options": [
+        "Aluminium reacts with water",
+        "Al³⁺ ions are not discharged in aqueous solution",
+        "Aluminium is less reactive than hydrogen",
+        "Alumina is insoluble in water"
+      ],
+      "correct": 0,
+      "explanation": "Aluminium is more reactive than hydrogen. In aqueous solution, H⁺ would be discharged instead of Al³⁺, so no Al forms. Molten state needed."
+    },
+    {
+      "id": 5,
+      "question": "Electrolysis of concentrated aqueous copper(II) chloride (CuCl₂) produces:",
+      "options": [
+        "Copper at cathode, chlorine at anode",
+        "Hydrogen at cathode, oxygen at anode",
+        "Copper at anode, chlorine at cathode",
+        "Hydrogen at cathode, chlorine at anode"
+      ],
+      "correct": 0,
+      "explanation": "Concentrated CuCl₂(aq): Cu²⁺ reduced at cathode → Cu(s). Cl⁻ oxidised at anode → Cl₂(g). No H⁺/OH⁻ discharged due to concentration and lower discharge potential of Cl⁻ over OH⁻ here."
+    },
+    {
+      "id": 6,
+      "question": "What is the key difference between electrolysis of molten salt and aqueous salt?",
+      "options": [
+        "Aqueous involves water molecules that may be discharged",
+        "Molten salts conduct electricity better",
+        "Aqueous electrolysis always produces hydrogen and oxygen",
+        "Molten salts require higher voltage"
+      ],
+      "correct": 0,
+      "explanation": "In aqueous solutions, H⁺ and OH⁻ ions from water are present and may be discharged depending on concentration and position in electrochemical series."
+    }
+  ]
+}

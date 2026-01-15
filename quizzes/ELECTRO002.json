@@ -1,0 +1,128 @@
+{
+  "quizTitle": "O-Level Chemistry: Electrolysis & Electroplating",
+  "quizCode": "ELECTRO002",
+  "instructions": "Answer all questions on electrolysis and electroplating.",
+  "timeLimit": 600,
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is electroplating?",
+      "options": [
+        "Using electricity to coat an object with a metal",
+        "Extracting metals from ores",
+        "Producing electricity from chemical reactions",
+        "Splitting water into hydrogen and oxygen"
+      ],
+      "correct": 0,
+      "explanation": "Electroplating uses electrolysis to deposit a thin layer of metal onto an object (e.g., silver-plating cutlery)."
+    },
+    {
+      "id": 2,
+      "question": "In silver plating, the object to be plated is placed at the:",
+      "options": [
+        "Cathode",
+        "Anode",
+        "Both electrodes",
+        "Not connected to circuit"
+      ],
+      "correct": 0,
+      "explanation": "The object to be plated is made the cathode, so positive metal ions (Ag⁺) are attracted and reduced onto it."
+    },
+    {
+      "id": 3,
+      "question": "In copper refining, impure copper is made the:",
+      "options": [
+        "Anode",
+        "Cathode",
+        "Electrolyte",
+        "Not used"
+      ],
+      "correct": 0,
+      "explanation": "Impure copper is the anode. It dissolves, Cu²⁺ ions go into solution, then pure copper deposits on the cathode."
+    },
+    {
+      "id": 4,
+      "question": "Why is direct current (DC) used in electroplating, not alternating current (AC)?",
+      "options": [
+        "DC provides one-way flow to deposit metal steadily",
+        "AC is too expensive",
+        "DC is safer",
+        "AC causes overheating"
+      ],
+      "correct": 0,
+      "explanation": "DC ensures metal ions always move toward the cathode and deposit. AC would reverse direction, preventing steady plating."
+    },
+    {
+      "id": 5,
+      "question": "Which is a common use of electroplating?",
+      "options": [
+        "Chromium plating car bumpers",
+        "Making batteries",
+        "Producing chlorine",
+        "Electrolysis of water"
+      ],
+      "correct": 0,
+      "explanation": "Chromium plating is used for decoration and corrosion resistance on cars, taps, etc."
+    },
+    {
+      "id": 6,
+      "question": "In electroplating, the electrolyte contains:",
+      "options": [
+        "Ions of the plating metal",
+        "Ions of the object metal",
+        "Only water",
+        "Acid only"
+      ],
+      "correct": 0,
+      "explanation": "The electrolyte contains ions of the metal to be plated (e.g., Ag⁺ for silver plating)."
+    },
+    {
+      "id": 7,
+      "question": "During electroplating, oxidation occurs at the:",
+      "options": [
+        "Anode",
+        "Cathode",
+        "Both electrodes",
+        "Neither"
+      ],
+      "correct": 0,
+      "explanation": "Anode = oxidation (loss of electrons). In silver plating, silver anode oxidizes: Ag → Ag⁺ + e⁻."
+    },
+    {
+      "id": 8,
+      "question": "What happens if the object to be plated is made the anode instead of cathode?",
+      "options": [
+        "It dissolves instead of being coated",
+        "Plating happens faster",
+        "Nothing happens",
+        "It gets plated with wrong metal"
+      ],
+      "correct": 0,
+      "explanation": "If object is anode, it loses electrons and dissolves instead of gaining metal coating."
+    },
+    {
+      "id": 9,
+      "question": "Electroplating is used to:",
+      "options": [
+        "Prevent corrosion and improve appearance",
+        "Generate electricity",
+        "Produce metals from ores",
+        "Decompose compounds"
+      ],
+      "correct": 0,
+      "explanation": "Main uses: corrosion resistance (e.g., zinc-plating iron) and decorative finish (e.g., gold-plating jewelry)."
+    },
+    {
+      "id": 10,
+      "question": "For successful electroplating, the object must be:",
+      "options": [
+        "Clean and grease-free",
+        "Made of the same metal as the plating",
+        "Very large",
+        "Magnetic"
+      ],
+      "correct": 0,
+      "explanation": "Surface must be clean so metal adheres well. Grease or dirt would cause poor plating."
+    }
+  ]
+}
