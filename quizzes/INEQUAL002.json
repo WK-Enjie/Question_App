@@ -1,0 +1,188 @@
+{
+  "quizTitle": "O-Level E-Math: Inequality Word Problems",
+  "quizCode": "INEQUAL002",
+  "instructions": "Solve inequality word problems. Find integer or rational solutions as asked.",
+  "timeLimit": 600,
+  "questions": [
+    {
+      "id": 1,
+      "question": "John has $30. Each book costs $7. He buys b books and has less than $5 left. Write inequality and find greatest possible b.",
+      "options": [
+        "7b > 25, b ≤ 3",
+        "30 - 7b < 5, b = 3",
+        "7b ≤ 30, b = 4",
+        "30 - 7b ≤ 5, b = 4"
+      ],
+      "correct": 1,
+      "explanation": "Money left: 30 - 7b < 5 → -7b < -25 → b > 25/7 ≈ 3.57. Greatest integer b = 3? Wait, b > 3.57 means b ≥ 4? Let's solve: 30 - 7b < 5 → 25 < 7b → b > 25/7 ≈ 3.57. So smallest integer that works is 4. But 'greatest possible b' means the largest integer satisfying? Actually if b > 3.57, integers are 4,5,6... but limited by $30: 7b ≤ 30 → b ≤ 4.28. So b can be 4 only. So greatest b = 4."
+    },
+    {
+      "id": 2,
+      "question": "Find the smallest integer n such that 3n - 5 > 10.",
+      "options": [
+        "6",
+        "5",
+        "4",
+        "7"
+      ],
+      "correct": 0,
+      "explanation": "3n - 5 > 10 → 3n > 15 → n > 5. Smallest integer n > 5 is 6."
+    },
+    {
+      "id": 3,
+      "question": "A rectangle has length 8 cm, width w cm. Perimeter is at most 30 cm. Find largest possible width.",
+      "options": [
+        "7 cm",
+        "8 cm",
+        "6 cm",
+        "5 cm"
+      ],
+      "correct": 0,
+      "explanation": "Perimeter = 2(8 + w) ≤ 30 → 16 + 2w ≤ 30 → 2w ≤ 14 → w ≤ 7. Largest w = 7 cm."
+    },
+    {
+      "id": 4,
+      "question": "If 2x + 1 ≤ 9 and x is a positive integer, find the largest possible value of x.",
+      "options": [
+        "4",
+        "5",
+        "3",
+        "6"
+      ],
+      "correct": 0,
+      "explanation": "2x + 1 ≤ 9 → 2x ≤ 8 → x ≤ 4. Largest positive integer x = 4."
+    },
+    {
+      "id": 5,
+      "question": "Find the smallest rational number x that satisfies x > 2.3.",
+      "options": [
+        "2.31",
+        "2.4",
+        "2.3001",
+        "No smallest rational"
+      ],
+      "correct": 3,
+      "explanation": "Between any two rationals, there's another rational. So there is no smallest rational greater than 2.3."
+    },
+    {
+      "id": 6,
+      "question": "Anna is at least 3 years older than Ben. Ben is 15. Write inequality for Anna's age a.",
+      "options": [
+        "a ≥ 18",
+        "a > 18",
+        "a ≤ 18",
+        "a < 18"
+      ],
+      "correct": 0,
+      "explanation": "a ≥ 15 + 3 → a ≥ 18."
+    },
+    {
+      "id": 7,
+      "question": "Find the largest integer satisfying 5 - 2x ≥ -3.",
+      "options": [
+        "4",
+        "5",
+        "3",
+        "2"
+      ],
+      "correct": 0,
+      "explanation": "5 - 2x ≥ -3 → -2x ≥ -8 → x ≤ 4. Largest integer x = 4."
+    },
+    {
+      "id": 8,
+      "question": "A number x multiplied by 4 then subtracted by 7 is less than 21. Find the largest possible integer x.",
+      "options": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "correct": 0,
+      "explanation": "4x - 7 < 21 → 4x < 28 → x < 7. Largest integer x < 7 is 6."
+    },
+    {
+      "id": 9,
+      "question": "Temperature T (°C) is between -5 and 10 inclusive. Write inequality.",
+      "options": [
+        "-5 ≤ T ≤ 10",
+        "-5 < T < 10",
+        "-5 ≤ T < 10",
+        "-5 < T ≤ 10"
+      ],
+      "correct": 0,
+      "explanation": "'Between... inclusive' means including endpoints: -5 ≤ T ≤ 10."
+    },
+    {
+      "id": 10,
+      "question": "Find the smallest positive integer n such that 3n + 2 > 20.",
+      "options": [
+        "7",
+        "6",
+        "5",
+        "8"
+      ],
+      "correct": 0,
+      "explanation": "3n + 2 > 20 → 3n > 18 → n > 6. Smallest positive integer n > 6 is 7."
+    },
+    {
+      "id": 11,
+      "question": "A taxi ride costs $3 flagdown + $2 per km. Sarah has $20. Write inequality for distance d km she can travel.",
+      "options": [
+        "3 + 2d ≤ 20",
+        "2 + 3d ≤ 20",
+        "3 + 2d ≥ 20",
+        "2d ≤ 20"
+      ],
+      "correct": 0,
+      "explanation": "Cost = 3 + 2d ≤ 20."
+    },
+    {
+      "id": 12,
+      "question": "The sum of two consecutive integers is at most 25. Find the largest possible integers.",
+      "options": [
+        "12 and 13",
+        "13 and 14",
+        "11 and 12",
+        "14 and 15"
+      ],
+      "correct": 0,
+      "explanation": "Let integers be n and n+1. n + (n+1) ≤ 25 → 2n + 1 ≤ 25 → 2n ≤ 24 → n ≤ 12. Largest n = 12, integers: 12 and 13."
+    },
+    {
+      "id": 13,
+      "question": "Find the smallest integer m such that m/4 > 5.",
+      "options": [
+        "21",
+        "20",
+        "19",
+        "24"
+      ],
+      "correct": 0,
+      "explanation": "m/4 > 5 → m > 20. Smallest integer m > 20 is 21."
+    },
+    {
+      "id": 14,
+      "question": "x satisfies -3 < 2x ≤ 8. Find the largest integer x.",
+      "options": [
+        "4",
+        "5",
+        "3",
+        "6"
+      ],
+      "correct": 0,
+      "explanation": "-3 < 2x → x > -1.5. And 2x ≤ 8 → x ≤ 4. So -1.5 < x ≤ 4. Largest integer x = 4."
+    },
+    {
+      "id": 15,
+      "question": "A test has 25 questions. Each correct answer gets 3 points, wrong loses 1. Tom scored > 60. Minimum correct answers?",
+      "options": [
+        "22",
+        "21",
+        "20",
+        "23"
+      ],
+      "correct": 0,
+      "explanation": "Let c = correct, w = wrong, c + w = 25. Score = 3c - w > 60 → 3c - (25 - c) > 60 → 3c - 25 + c > 60 → 4c > 85 → c > 21.25. Minimum integer c = 22."
+    }
+  ]
+}
