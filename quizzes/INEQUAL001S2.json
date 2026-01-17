@@ -1,0 +1,188 @@
+{
+  "quizTitle": "Secondary 2: Basic Inequalities Practice",
+  "quizCode": "INEQUAL001S2",
+  "instructions": "Solve each inequality. For word problems, first translate into inequality, then solve. Choose the correct answer.",
+  "timeLimit": 900,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Ahmad has $20. He wants to buy pens that cost $3 each. If he buys x pens, which inequality represents the situation if he wants to have at least $5 left?",
+      "options": [
+        "20 - 3x ≥ 5",
+        "20 - 3x ≤ 5",
+        "3x + 5 ≥ 20",
+        "3x - 5 ≤ 20"
+      ],
+      "correct": 0,
+      "explanation": "Cost of pens = 3x. Money left = 20 - 3x. 'At least $5 left' means 20 - 3x ≥ 5."
+    },
+    {
+      "id": 2,
+      "question": "The temperature in a refrigerator must be below 4°C but above -2°C. If t represents the temperature, which inequality is correct?",
+      "options": [
+        "-2 < t < 4",
+        "-2 ≤ t ≤ 4",
+        "t < 4 and t > -2",
+        "Both A and C"
+      ],
+      "correct": 3,
+      "explanation": "Below 4°C means t < 4. Above -2°C means t > -2. Combined: -2 < t < 4. Options A and C both represent this."
+    },
+    {
+      "id": 3,
+      "question": "Solve: 2x + 7 > 15",
+      "options": [
+        "x > 4",
+        "x > 11",
+        "x < 4",
+        "x < 11"
+      ],
+      "correct": 0,
+      "explanation": "2x + 7 > 15 → 2x > 8 → x > 4."
+    },
+    {
+      "id": 4,
+      "question": "Which number line represents x ≤ 3?",
+      "options": [
+        "Closed circle at 3, arrow left",
+        "Open circle at 3, arrow left",
+        "Closed circle at 3, arrow right",
+        "Open circle at 3, arrow right"
+      ],
+      "correct": 0,
+      "explanation": "x ≤ 3 includes 3 (closed circle) and all numbers less than 3 (arrow left)."
+    },
+    {
+      "id": 5,
+      "question": "Sarah is at least 150 cm tall but less than 165 cm tall. If h is her height in cm, write the inequality.",
+      "options": [
+        "150 ≤ h < 165",
+        "150 < h ≤ 165",
+        "h ≥ 150 and h < 165",
+        "Both A and C"
+      ],
+      "correct": 3,
+      "explanation": "'At least 150' means h ≥ 150. 'Less than 165' means h < 165. Combined: 150 ≤ h < 165. Options A and C both represent this."
+    },
+    {
+      "id": 6,
+      "question": "Solve: 5 - 2x ≤ 11",
+      "options": [
+        "x ≥ -3",
+        "x ≤ -3",
+        "x ≥ 3",
+        "x ≤ 3"
+      ],
+      "correct": 0,
+      "explanation": "5 - 2x ≤ 11 → -2x ≤ 6 → x ≥ -3 (reverse inequality sign when dividing by negative)."
+    },
+    {
+      "id": 7,
+      "question": "The greatest possible integer satisfying x < 4.5 is:",
+      "options": [
+        "4",
+        "5",
+        "4.5",
+        "4.4"
+      ],
+      "correct": 0,
+      "explanation": "x < 4.5 means x can be 4, 3, 2, ... The greatest integer less than 4.5 is 4."
+    },
+    {
+      "id": 8,
+      "question": "A bus can carry at most 40 passengers. If there are already 17 passengers, and p more can board, write an inequality.",
+      "options": [
+        "17 + p ≤ 40",
+        "17 + p < 40",
+        "p ≤ 40",
+        "p < 40"
+      ],
+      "correct": 0,
+      "explanation": "Total passengers = 17 + p. 'At most 40' means ≤ 40. So 17 + p ≤ 40."
+    },
+    {
+      "id": 9,
+      "question": "Solve: 3(x - 2) ≥ 12",
+      "options": [
+        "x ≥ 6",
+        "x ≤ 6",
+        "x ≥ 2",
+        "x ≤ 2"
+      ],
+      "correct": 0,
+      "explanation": "3(x - 2) ≥ 12 → 3x - 6 ≥ 12 → 3x ≥ 18 → x ≥ 6."
+    },
+    {
+      "id": 10,
+      "question": "The smallest possible integer satisfying x > -3.2 is:",
+      "options": [
+        "-3",
+        "-4",
+        "-3.2",
+        "-3.1"
+      ],
+      "correct": 0,
+      "explanation": "x > -3.2 means x can be -3, -2, -1, ... The smallest integer greater than -3.2 is -3."
+    },
+    {
+      "id": 11,
+      "question": "A packet of sweets is divided equally among 5 children. Each gets at least 4 sweets. If S is the total sweets, which inequality is correct?",
+      "options": [
+        "S/5 ≥ 4",
+        "5S ≥ 4",
+        "S ≥ 20",
+        "Both A and C"
+      ],
+      "correct": 3,
+      "explanation": "Each child gets S/5 sweets. 'At least 4' means S/5 ≥ 4 → S ≥ 20. Both A and C are correct forms."
+    },
+    {
+      "id": 12,
+      "question": "List all integers satisfying -4 ≤ x < 2",
+      "options": [
+        "-4, -3, -2, -1, 0, 1",
+        "-3, -2, -1, 0, 1",
+        "-4, -3, -2, -1, 0, 1, 2",
+        "-3, -2, -1, 0, 1, 2"
+      ],
+      "correct": 0,
+      "explanation": "-4 ≤ x includes -4. x < 2 excludes 2. Integers: -4, -3, -2, -1, 0, 1."
+    },
+    {
+      "id": 13,
+      "question": "Solve: (x/3) + 2 < 5",
+      "options": [
+        "x < 9",
+        "x > 9",
+        "x < 7",
+        "x > 7"
+      ],
+      "correct": 0,
+      "explanation": "(x/3) + 2 < 5 → x/3 < 3 → x < 9."
+    },
+    {
+      "id": 14,
+      "question": "A number plus 8 is greater than 15. Which inequality represents this?",
+      "options": [
+        "n + 8 > 15",
+        "n + 8 < 15",
+        "8n > 15",
+        "n - 8 > 15"
+      ],
+      "correct": 0,
+      "explanation": "'A number plus 8' = n + 8. 'Is greater than 15' means > 15. So n + 8 > 15."
+    },
+    {
+      "id": 15,
+      "question": "The rational number 3.5 satisfies which inequality?",
+      "options": [
+        "x ≥ 3.5",
+        "x > 3",
+        "x ≤ 4",
+        "All of the above"
+      ],
+      "correct": 3,
+      "explanation": "3.5 ≥ 3.5 ✓, 3.5 > 3 ✓, 3.5 ≤ 4 ✓. So all are true."
+    }
+  ]
+}
