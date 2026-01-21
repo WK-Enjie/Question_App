@@ -1,0 +1,188 @@
+{
+  "quizTitle": "Secondary 2 Physics: Forces and Energy Transfer",
+  "quizCode": "PHYFORCE001",
+  "instructions": "Answer the following questions on forces and energy. Choose the correct option. Understanding of concepts is more important than calculation.",
+  "timeLimit": 900,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which force always pulls objects toward the center of the Earth?",
+      "options": [
+        "Frictional force",
+        "Gravitational force",
+        "Elastic force",
+        "Magnetic force"
+      ],
+      "correct": 1,
+      "explanation": "Gravitational force is the pull that the Earth exerts on all objects, pulling them toward its center. This is what gives objects weight."
+    },
+    {
+      "id": 2,
+      "question": "Which force always opposes the motion or attempted motion of an object?",
+      "options": [
+        "Gravitational force",
+        "Frictional force",
+        "Elastic force",
+        "Magnetic force"
+      ],
+      "correct": 1,
+      "explanation": "Friction always acts opposite to the direction of motion or attempted motion. It resists the sliding of surfaces against each other."
+    },
+    {
+      "id": 3,
+      "question": "A spring balance is used in two ways: hanging a mass from it (extension) and placing a mass on top of it (compression). What remains the same in both situations?",
+      "options": [
+        "The direction of spring movement",
+        "The type of force being measured",
+        "The way the scale is read",
+        "The spring's unstretched length"
+      ],
+      "correct": 1,
+      "explanation": "Both measure weight (gravitational force). Extension balances measure by stretching, compression balances by squashing, but both measure the same force type."
+    },
+    {
+      "id": 4,
+      "question": "Which statement about mass and weight is CORRECT?",
+      "options": [
+        "Mass is a force, weight is the amount of matter",
+        "Mass changes with location, weight is constant",
+        "Mass is measured in kg, weight is measured in N",
+        "Mass and weight are the same thing measured differently"
+      ],
+      "correct": 2,
+      "explanation": "Mass (amount of matter) is measured in kg and constant anywhere. Weight (force of gravity) is measured in Newtons and varies with gravitational field strength."
+    },
+    {
+      "id": 5,
+      "question": "Two identical springs are tested. Spring A stretches 5 cm with 2 N load. Spring B stretches 10 cm with 2 N load. Which statement is true?",
+      "options": [
+        "Spring A is stiffer/less elastic",
+        "Spring B is stiffer/less elastic",
+        "Both have same elasticity",
+        "Spring A has reached its elastic limit"
+      ],
+      "correct": 0,
+      "explanation": "Stiffer springs extend less for the same force. Spring A extends less (5 cm vs 10 cm) for same 2 N, so it's stiffer/has greater spring constant."
+    },
+    {
+      "id": 6,
+      "question": "A bungee jumper falls off a platform. At which point does she have maximum gravitational potential energy?",
+      "options": [
+        "Just as she starts falling",
+        "Halfway through the fall",
+        "When the cord starts stretching",
+        "At the lowest point of fall"
+      ],
+      "correct": 0,
+      "explanation": "Gravitational PE = mgh, depends on height. Maximum height = maximum PE, which is at the starting point before falling."
+    },
+    {
+      "id": 7,
+      "question": "A car accelerates from rest. What happens to its kinetic energy?",
+      "options": [
+        "Decreases then increases",
+        "Remains constant",
+        "Increases proportionally with time",
+        "Increases with square of speed"
+      ],
+      "correct": 3,
+      "explanation": "KE = ½mv². If speed doubles, KE increases by 4 times (2²=4). KE increases with the square of speed, not proportionally with speed or time."
+    },
+    {
+      "id": 8,
+      "question": "A stretched rubber band stores energy. What type of energy is this?",
+      "options": [
+        "Kinetic energy",
+        "Gravitational potential energy",
+        "Elastic potential energy",
+        "Chemical potential energy"
+      ],
+      "correct": 2,
+      "explanation": "Stretched or compressed elastic objects store elastic potential energy, which can be released when they return to original shape."
+    },
+    {
+      "id": 9,
+      "question": "A pendulum swings from point A (highest) to point B (lowest). If we ignore air resistance, which energy conversion occurs?",
+      "options": [
+        "PE → KE → PE",
+        "KE → PE → KE",
+        "Elastic PE → KE → Gravitational PE",
+        "Chemical PE → KE → Heat"
+      ],
+      "correct": 0,
+      "explanation": "At highest point: max PE, zero KE. As falls: PE converts to KE. At lowest: max KE, min PE. As rises: KE converts back to PE."
+    },
+    {
+      "id": 10,
+      "question": "Which factor does NOT affect the gravitational potential energy of an object?",
+      "options": [
+        "Mass of object",
+        "Height above reference point",
+        "Gravitational field strength",
+        "Speed of object"
+      ],
+      "correct": 3,
+      "explanation": "GPE = mgh, depends on mass (m), height (h), and gravitational field strength (g). Speed affects kinetic energy, not GPE."
+    },
+    {
+      "id": 11,
+      "question": "A force is applied to compress a spring. What happens if the force exceeds the spring's elastic limit?",
+      "options": [
+        "Spring becomes stiffer",
+        "Spring obeys Hooke's Law better",
+        "Spring becomes more elastic",
+        "Spring deforms permanently"
+      ],
+      "correct": 3,
+      "explanation": "Beyond elastic limit, material undergoes plastic deformation - it won't return to original shape when force is removed. Permanent deformation occurs."
+    },
+    {
+      "id": 12,
+      "question": "Two boxes are lifted to the same shelf. Box A is heavier than Box B. Which has more gravitational potential energy?",
+      "options": [
+        "Box A only",
+        "Box B only",
+        "Both have the same",
+        "Cannot determine without heights"
+      ],
+      "correct": 0,
+      "explanation": "GPE = mgh. Same height (h), same g. Larger mass (m) means larger GPE. Box A (heavier) has more GPE."
+    },
+    {
+      "id": 13,
+      "question": "A ball is thrown vertically upward. Ignoring air resistance, what is true about its total mechanical energy during flight?",
+      "options": [
+        "Increases then decreases",
+        "Decreases steadily",
+        "Remains constant",
+        "Increases steadily"
+      ],
+      "correct": 2,
+      "explanation": "With no air resistance, total mechanical energy (KE + GPE) is conserved - remains constant. KE converts to GPE on way up, GPE converts to KE on way down."
+    },
+    {
+      "id": 14,
+      "question": "Which type of force can act at a distance without physical contact?",
+      "options": [
+        "Frictional force",
+        "Normal force",
+        "Tension force",
+        "Magnetic force"
+      ],
+      "correct": 3,
+      "explanation": "Magnetic force can act through empty space without contact. Friction, normal force, and tension all require physical contact between objects."
+    },
+    {
+      "id": 15,
+      "question": "A toy car rolls down a ramp, across a flat surface, and up another ramp. It reaches a lower height on the second ramp. What accounts for the 'lost' energy?",
+      "options": [
+        "Energy was destroyed",
+        "Energy converted to heat/sound through friction",
+        "Gravity became weaker",
+        "Energy was stored in the car"
+      ],
+      "correct": 1,
+      "explanation": "Energy is conserved but converts to other forms. Friction converts mechanical energy (KE/PE) to thermal energy (heat) and sound, so less mechanical energy remains."
+    }
+  ]
+}
