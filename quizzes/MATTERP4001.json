@@ -1,0 +1,188 @@
+{
+  "quizTitle": "Primary 4 Science: States of Matter",
+  "quizCode": "MATTERP4001",
+  "instructions": "Choose the correct answer for each question about solids, liquids and gases.",
+  "timeLimit": 600,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which state of matter has a fixed shape and fixed volume?",
+      "options": [
+        "Solid",
+        "Liquid",
+        "Gas",
+        "Plasma"
+      ],
+      "correct": 0,
+      "explanation": "Solids have a fixed shape and fixed volume. Think of a toy brick - it keeps its shape and size no matter what container you put it in."
+    },
+    {
+      "id": 2,
+      "question": "Which property do liquids and gases share?",
+      "options": [
+        "Fixed shape",
+        "Fixed volume",
+        "No fixed shape",
+        "Cannot be compressed"
+      ],
+      "correct": 2,
+      "explanation": "Both liquids and gases have no fixed shape - they take the shape of their container. Water takes the shape of a cup, and air takes the shape of a balloon."
+    },
+    {
+      "id": 3,
+      "question": "Which of these is a property of gases?",
+      "options": [
+        "Have fixed volume",
+        "Have fixed shape",
+        "Can be compressed",
+        "Cannot flow"
+      ],
+      "correct": 2,
+      "explanation": "Gases can be squashed or compressed into smaller spaces. For example, you can squeeze more air into a bicycle tire."
+    },
+    {
+      "id": 4,
+      "question": "In an experiment, three different substances were tested: Substance A fills its container completely, Substance B takes the shape of its container but has a flat surface, Substance C keeps its own shape. Which is solid, liquid and gas?",
+      "options": [
+        "A-gas, B-liquid, C-solid",
+        "A-liquid, B-solid, C-gas",
+        "A-solid, B-gas, C-liquid",
+        "A-liquid, B-gas, C-solid"
+      ],
+      "correct": 0,
+      "explanation": "Substance A fills container completely = gas, Substance B takes shape with flat surface = liquid, Substance C keeps own shape = solid."
+    },
+    {
+      "id": 5,
+      "question": "A student has three identical boxes. She puts a stone in Box 1, water in Box 2, and air in Box 3. Which box will feel the lightest?",
+      "options": [
+        "Box 1 (stone)",
+        "Box 2 (water)",
+        "Box 3 (air)",
+        "All will feel the same"
+      ],
+      "correct": 2,
+      "explanation": "Air (gas) is much lighter than water or stone. That's why balloons filled with helium float in the air."
+    },
+    {
+      "id": 6,
+      "question": "Which item would be BEST to use in an experiment to show that gases have no fixed shape?",
+      "options": [
+        "A wooden block",
+        "A cup of water",
+        "A balloon",
+        "An ice cube"
+      ],
+      "correct": 2,
+      "explanation": "A balloon shows gases have no fixed shape - when you blow into it, the air takes the balloon's shape. If you squeeze it, the air changes shape again."
+    },
+    {
+      "id": 7,
+      "question": "What is the BEST way to prove that air (a gas) takes up space?",
+      "options": [
+        "Weigh an empty balloon and a blown-up balloon",
+        "Try to push an upside-down cup into water",
+        "Watch smoke rise into the air",
+        "Measure how much water evaporates"
+      ],
+      "correct": 1,
+      "explanation": "When you push an upside-down cup into water, the air trapped inside stops water from filling the cup completely. This shows air takes up space."
+    },
+    {
+      "id": 8,
+      "question": "Which of these is a solid?",
+      "options": [
+        "Milk",
+        "Oxygen",
+        "Sand",
+        "Juice"
+      ],
+      "correct": 2,
+      "explanation": "Sand is a solid - each grain has its own fixed shape. Milk and juice are liquids, and oxygen is a gas we breathe."
+    },
+    {
+      "id": 9,
+      "question": "In a classification activity, students sorted items: Group X: pencil, eraser, book. Group Y: oil, vinegar, milk. Group Z: helium, oxygen, carbon dioxide. What property were they using to sort?",
+      "options": [
+        "Colour",
+        "Weight",
+        "State of matter",
+        "Temperature"
+      ],
+      "correct": 2,
+      "explanation": "Group X are solids (keep their shape), Group Y are liquids (take container shape), Group Z are gases (fill containers completely)."
+    },
+    {
+      "id": 10,
+      "question": "Which experiment shows that solids have fixed shape?",
+      "options": [
+        "Pouring water from one cup to another",
+        "Blowing up different shaped balloons",
+        "Putting a toy car in different containers",
+        "Watching steam rise from hot water"
+      ],
+      "correct": 2,
+      "explanation": "A toy car keeps its car shape whether it's in a box, on a table, or in your hand. This shows solids don't change shape like liquids or gases do."
+    },
+    {
+      "id": 11,
+      "question": "What property do ALL solids have?",
+      "options": [
+        "They are hard",
+        "They are heavy",
+        "They have fixed shape",
+        "They can flow"
+      ],
+      "correct": 2,
+      "explanation": "All solids have fixed shape. Some solids like cotton wool are soft, and some like feathers are light, but they all keep their shape."
+    },
+    {
+      "id": 12,
+      "question": "Why can you pour a liquid from one container to another?",
+      "options": [
+        "Because it has fixed shape",
+        "Because it can flow",
+        "Because it is heavy",
+        "Because it is wet"
+      ],
+      "correct": 1,
+      "explanation": "Liquids can flow, which means they can move and change shape. That's why you can pour juice from a carton into a glass."
+    },
+    {
+      "id": 13,
+      "question": "Which two states of matter can flow?",
+      "options": [
+        "Solid and liquid",
+        "Liquid and gas",
+        "Solid and gas",
+        "Only liquid"
+      ],
+      "correct": 1,
+      "explanation": "Both liquids and gases can flow. Liquids flow downhill like water in a river, and gases can flow like wind blowing through a window."
+    },
+    {
+      "id": 14,
+      "question": "A student blows air into a plastic bag and seals it. Then she tries to squeeze it. What property of gases is she showing?",
+      "options": [
+        "Gases have fixed shape",
+        "Gases can be compressed",
+        "Gases have fixed volume",
+        "Gases are always visible"
+      ],
+      "correct": 1,
+      "explanation": "When she squeezes the bag, the air inside gets squashed into a smaller space. This shows gases can be compressed or squashed."
+    },
+    {
+      "id": 15,
+      "question": "A student uses a syringe filled with air. She pushes the plunger down and can squash the air into a smaller space. What property of gases is she demonstrating?",
+      "options": [
+        "Gases have fixed volume",
+        "Gases can be compressed",
+        "Gases have fixed shape",
+        "Gases are visible"
+      ],
+      "correct": 1,
+      "explanation": "When she pushes the plunger, the air inside the syringe gets squashed into a smaller space. This shows that gases can be compressed, unlike solids and liquids which cannot be compressed easily."
+    }
+  ]
+}
