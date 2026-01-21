@@ -1,0 +1,188 @@
+{
+  "quizTitle": "Primary 6 Science: Photosynthesis & Respiration (Challenging Concepts)",
+  "quizCode": "PHOTORES001",
+  "instructions": "Answer the following questions about photosynthesis and respiration. Choose the correct option. Pay attention to experimental setups and factors affecting processes.",
+  "timeLimit": 900,
+  "questions": [
+    {
+      "id": 1,
+      "question": "A student destarched a plant and then covered part of a leaf with black paper for 48 hours. After testing with iodine solution, the covered part remained brown while the uncovered part turned blue-black. What does this experiment prove?",
+      "options": [
+        "Light is necessary for photosynthesis",
+        "Chlorophyll is necessary for photosynthesis",
+        "Carbon dioxide is necessary for photosynthesis",
+        "Oxygen is produced during photosynthesis"
+      ],
+      "correct": 0,
+      "explanation": "The black paper prevents light from reaching the covered part. No starch is produced there, so it stays brown with iodine. The uncovered part photosynthesizes and produces starch, turning blue-black. This shows light is necessary."
+    },
+    {
+      "id": 2,
+      "question": "In an experiment, two similar potted plants were placed under a bell jar each. Jar A had soda lime (absorbs CO₂), Jar B had sodium bicarbonate (releases CO₂). Both were placed in sunlight. After several hours, only the plant in Jar B tested positive for starch with iodine. What factor is being investigated?",
+      "options": [
+        "Light intensity",
+        "Carbon dioxide concentration",
+        "Temperature",
+        "Presence of chlorophyll"
+      ],
+      "correct": 1,
+      "explanation": "Soda lime removes CO₂, sodium bicarbonate provides CO₂. The difference in starch production shows that carbon dioxide is necessary for photosynthesis."
+    },
+    {
+      "id": 3,
+      "question": "A variegated leaf (green and white parts) was tested with iodine after being exposed to sunlight. Only the green parts turned blue-black. What conclusion can be drawn?",
+      "options": [
+        "Light is needed for photosynthesis",
+        "Chlorophyll is needed for photosynthesis",
+        "Carbon dioxide is needed for photosynthesis",
+        "Oxygen is produced only in green parts"
+      ],
+      "correct": 1,
+      "explanation": "Variegated leaves have chlorophyll only in green areas. Since starch is found only in green parts after iodine test, it proves chlorophyll is essential for photosynthesis."
+    },
+    {
+      "id": 4,
+      "question": "The rate of photosynthesis increases with light intensity up to a point, then levels off. What is the most likely reason it levels off?",
+      "options": [
+        "The chlorophyll gets damaged",
+        "Another factor like CO₂ concentration or temperature becomes limiting",
+        "The plant starts respiring instead",
+        "Light becomes harmful at high intensity"
+      ],
+      "correct": 1,
+      "explanation": "After a certain light intensity, photosynthesis no longer increases because another factor (e.g., CO₂ level or temperature) becomes the limiting factor."
+    },
+    {
+      "id": 5,
+      "question": "Which of the following is NOT a product of photosynthesis?",
+      "options": [
+        "Glucose",
+        "Oxygen",
+        "Water",
+        "Starch (stored form)"
+      ],
+      "correct": 2,
+      "explanation": "Water is a raw material (absorbed by roots), not a product. The main products are glucose and oxygen. Starch is a storage product made from glucose."
+    },
+    {
+      "id": 6,
+      "question": "What happens to most of the glucose produced during photosynthesis?",
+      "options": [
+        "It is released into the air as oxygen",
+        "It is converted to starch for storage in leaves and roots",
+        "It is converted to water for transport",
+        "It is used up immediately to produce carbon dioxide"
+      ],
+      "correct": 1,
+      "explanation": "Plants convert excess glucose into starch, which is insoluble and can be stored in leaves, stems, roots, and fruits for later use."
+    },
+    {
+      "id": 7,
+      "question": "Why do plants need to carry out respiration even though they can photosynthesize?",
+      "options": [
+        "To produce oxygen for other organisms",
+        "To release energy from food for growth and repair",
+        "To absorb carbon dioxide from the air",
+        "To produce water for transport of nutrients"
+      ],
+      "correct": 1,
+      "explanation": "Respiration releases energy stored in food (glucose). Plants need this energy for all life processes like growth, reproduction, and transporting nutrients."
+    },
+    {
+      "id": 8,
+      "question": "Which graph best shows how temperature affects the rate of photosynthesis?",
+      "options": [
+        "A straight line going up steadily",
+        "A straight line going down steadily",
+        "A curve that increases, peaks, then decreases",
+        "A curve that decreases, bottoms out, then increases"
+      ],
+      "correct": 2,
+      "explanation": "Photosynthesis increases with temperature up to an optimum point (around 25-30°C), then decreases as enzymes get damaged. This gives a curve that rises then falls."
+    },
+    {
+      "id": 9,
+      "question": "In the iodine test, what does a blue-black colour indicate?",
+      "options": [
+        "The presence of chlorophyll",
+        "The presence of starch",
+        "The presence of glucose",
+        "The presence of carbon dioxide"
+      ],
+      "correct": 1,
+      "explanation": "Iodine solution turns blue-black when it reacts with starch. This colour change is used to test if a leaf has been photosynthesizing."
+    },
+    {
+      "id": 10,
+      "question": "What is the main purpose of respiration in living things?",
+      "options": [
+        "To produce oxygen",
+        "To release energy from food",
+        "To remove carbon dioxide",
+        "To produce water"
+      ],
+      "correct": 1,
+      "explanation": "Respiration breaks down food (e.g., glucose) to release energy for life processes (movement, growth, etc.)."
+    },
+    {
+      "id": 11,
+      "question": "Which statement correctly compares photosynthesis and respiration?",
+      "options": [
+        "Both occur only in plants",
+        "Both occur only in the presence of light",
+        "Photosynthesis stores energy, respiration releases energy",
+        "They use the same raw materials"
+      ],
+      "correct": 2,
+      "explanation": "Photosynthesis converts light energy to chemical energy in food (stores energy). Respiration breaks down food to release that stored energy."
+    },
+    {
+      "id": 12,
+      "question": "In an experiment, a mouse is placed in a sealed container with a plant under a light. The mouse stays alive longer than if the plant were absent. Why?",
+      "options": [
+        "The plant provides food for the mouse",
+        "The plant produces oxygen through photosynthesis",
+        "The plant absorbs the mouse's waste",
+        "The plant produces carbon dioxide for the mouse"
+      ],
+      "correct": 1,
+      "explanation": "The plant photosynthesizes under light, producing oxygen which the mouse needs for respiration. It also absorbs the CO₂ the mouse breathes out."
+    },
+    {
+      "id": 13,
+      "question": "What would be the result if a plant is kept in a completely dark cupboard for 3 days?",
+      "options": [
+        "It would produce more starch than usual",
+        "It would use up its stored starch through respiration",
+        "It would stop respiring completely",
+        "It would start photosynthesizing using artificial light"
+      ],
+      "correct": 1,
+      "explanation": "Without light, photosynthesis stops. The plant continues to respire, using up stored starch for energy, so starch levels in leaves decrease."
+    },
+    {
+      "id": 14,
+      "question": "Why is it important to destarch a plant before starting a photosynthesis experiment?",
+      "options": [
+        "To make the plant hungry so it photosynthesizes faster",
+        "To ensure any starch found after the experiment was made during the experiment",
+        "To remove chlorophyll for clearer results",
+        "To weaken the plant's cells for iodine testing"
+      ],
+      "correct": 1,
+      "explanation": "Destarching (placing in dark for 48 hrs) removes existing starch. Any starch detected after the experimental treatment is definitely produced under the tested conditions."
+    },
+    {
+      "id": 15,
+      "question": "Which of the following is TRUE about the relationship between photosynthesis and respiration in plants during the day?",
+      "options": [
+        "Photosynthesis stops and only respiration occurs",
+        "Respiration stops and only photosynthesis occurs",
+        "Both processes occur at the same time",
+        "Neither process occurs during the day"
+      ],
+      "correct": 2,
+      "explanation": "During daylight, plants carry out both photosynthesis (producing food and oxygen) and respiration (using food to release energy) simultaneously."
+    }
+  ]
+}
