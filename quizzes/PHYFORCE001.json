@@ -102,15 +102,15 @@
     },
     {
       "id": 9,
-      "question": "A pendulum swings from point A (highest) to point B (lowest). If we ignore air resistance, which energy conversion occurs?",
+      "question": "A pendulum swings back and forth. At the highest point of its swing, what type of energy is maximum?",
       "options": [
-        "PE → KE → PE",
-        "KE → PE → KE",
-        "Elastic PE → KE → Gravitational PE",
-        "Chemical PE → KE → Heat"
+        "Kinetic energy",
+        "Elastic potential energy",
+        "Gravitational potential energy",
+        "Thermal energy"
       ],
-      "correct": 0,
-      "explanation": "At highest point: max PE, zero KE. As falls: PE converts to KE. At lowest: max KE, min PE. As rises: KE converts back to PE."
+      "correct": 2,
+      "explanation": "At the highest point, the pendulum has maximum height above its lowest point, so it has maximum gravitational potential energy. It has zero kinetic energy at this instant."
     },
     {
       "id": 10,
