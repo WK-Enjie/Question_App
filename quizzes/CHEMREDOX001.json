@@ -1,0 +1,188 @@
+{
+  "quizTitle": "Secondary 2 Chemistry: Redox Reactions",
+  "quizCode": "CHEMREDOX001",
+  "instructions": "Answer the following questions on redox reactions. Focus on concepts of oxygen change, hydrogen change, electron transfer, and oxidation state.",
+  "timeLimit": 900,
+  "questions": [
+    {
+      "id": 1,
+      "question": "What defines oxidation in terms of oxygen during a redox reaction?",
+      "options": [
+        "Loss of oxygen by a substance",
+        "Gain of oxygen by a substance",
+        "No change in oxygen content",
+        "Release of oxygen gas"
+      ],
+      "correct": 1,
+      "explanation": "Oxidation in terms of oxygen is specifically defined as the gain of oxygen by a substance."
+    },
+    {
+      "id": 2,
+      "question": "In the reaction 2Mg + O₂ → 2MgO, what happens to the magnesium?",
+      "options": [
+        "Magnesium gains oxygen and is reduced",
+        "Magnesium gains oxygen and is oxidised",
+        "Magnesium loses oxygen and is oxidised",
+        "Magnesium undergoes no redox change"
+      ],
+      "correct": 1,
+      "explanation": "Magnesium atoms combine with oxygen atoms to form magnesium oxide. Since magnesium gains oxygen, it undergoes oxidation."
+    },
+    {
+      "id": 3,
+      "question": "What process occurs when a substance loses hydrogen during a chemical reaction?",
+      "options": [
+        "Reduction in terms of hydrogen",
+        "Oxidation in terms of hydrogen",
+        "A neutralisation reaction",
+        "A decomposition reaction"
+      ],
+      "correct": 1,
+      "explanation": "The loss of hydrogen by a substance defines oxidation in terms of hydrogen."
+    },
+    {
+      "id": 4,
+      "question": "How is oxidation defined in terms of electron transfer?",
+      "options": [
+        "Gain of electrons",
+        "Loss of electrons",
+        "Sharing of electrons",
+        "Transfer of protons"
+      ],
+      "correct": 1,
+      "explanation": "Oxidation is fundamentally defined as the loss of electrons from a substance."
+    },
+    {
+      "id": 5,
+      "question": "What change occurs to the oxidation state of an element during oxidation?",
+      "options": [
+        "The oxidation state decreases",
+        "The oxidation state increases",
+        "The oxidation state remains constant",
+        "The oxidation state becomes zero"
+      ],
+      "correct": 1,
+      "explanation": "When a substance loses electrons during oxidation, its oxidation state becomes more positive (increases)."
+    },
+    {
+      "id": 6,
+      "question": "In the reaction H₂S + Br₂ → 2HBr + S, what happens to hydrogen sulfide in terms of hydrogen change?",
+      "options": [
+        "Hydrogen sulfide gains hydrogen and is reduced",
+        "Hydrogen sulfide loses hydrogen and is oxidised",
+        "The hydrogen content of hydrogen sulfide remains unchanged",
+        "Hydrogen sulfide gains sulfur atoms"
+      ],
+      "correct": 1,
+      "explanation": "Hydrogen sulfide loses its hydrogen atoms to form elemental sulfur. This loss of hydrogen constitutes oxidation."
+    },
+    {
+      "id": 7,
+      "question": "In the reaction CuO + H₂ → Cu + H₂O, what redox process occurs to hydrogen?",
+      "options": [
+        "Hydrogen gains oxygen and is oxidised",
+        "Hydrogen loses oxygen and is reduced",
+        "Hydrogen gains copper and is reduced",
+        "Hydrogen undergoes no redox change"
+      ],
+      "correct": 0,
+      "explanation": "Hydrogen gas combines with oxygen from copper oxide to form water. Gaining oxygen means hydrogen is oxidised."
+    },
+    {
+      "id": 8,
+      "question": "What happens to zinc atoms in the reaction Zn + Cu²⁺ → Zn²⁺ + Cu?",
+      "options": [
+        "Zinc atoms gain electrons to form Zn²⁺",
+        "Zinc atoms lose electrons to form Zn²⁺",
+        "Zinc atoms share electrons with copper",
+        "The oxidation state of zinc decreases"
+      ],
+      "correct": 1,
+      "explanation": "Each zinc atom loses two electrons to become a Zn²⁺ ion. This loss of electrons is oxidation."
+    },
+    {
+      "id": 9,
+      "question": "What oxidation state is assigned to atoms in their pure, elemental form?",
+      "options": [
+        "+1",
+        "-1",
+        "Depends on the specific element",
+        "0"
+      ],
+      "correct": 3,
+      "explanation": "By convention, all atoms in their elemental state (like O₂, H₂, Na, or Cl₂) have an oxidation state of zero."
+    },
+    {
+      "id": 10,
+      "question": "What is the oxidation state of carbon in carbon dioxide (CO₂)? (Oxygen's oxidation state is -2)",
+      "options": [
+        "+2",
+        "+4",
+        "-4",
+        "0"
+      ],
+      "correct": 1,
+      "explanation": "For the neutral CO₂ molecule: x + 2(-2) = 0. Solving gives x = +4 as the oxidation state of carbon."
+    },
+    {
+      "id": 11,
+      "question": "Which statement accurately describes all redox reactions?",
+      "options": [
+        "Oxygen must participate as a reactant",
+        "Oxidation states of elements always change",
+        "Hydrogen transfer must occur",
+        "They are exclusively combustion reactions"
+      ],
+      "correct": 1,
+      "explanation": "The transfer of electrons, which defines redox reactions, is always accompanied by a change in oxidation states."
+    },
+    {
+      "id": 12,
+      "question": "How does the oxidation state of chlorine change in the reaction 2Na + Cl₂ → 2NaCl?",
+      "options": [
+        "Increases from 0 to -1",
+        "Decreases from 0 to -1",
+        "Increases from 0 to +1",
+        "Remains at 0 throughout"
+      ],
+      "correct": 1,
+      "explanation": "Chlorine atoms in Cl₂ have an oxidation state of 0. In NaCl, they become Cl⁻ with an oxidation state of -1. This decrease indicates reduction."
+    },
+    {
+      "id": 13,
+      "question": "What is the term for a process where a substance gains hydrogen?",
+      "options": [
+        "Oxidation in terms of hydrogen",
+        "Reduction in terms of hydrogen",
+        "Oxidation in terms of electrons",
+        "Reduction in terms of oxygen"
+      ],
+      "correct": 1,
+      "explanation": "Reduction, when defined in terms of hydrogen, is the gain of hydrogen by a substance."
+    },
+    {
+      "id": 14,
+      "question": "What is the oxidation state of sulfur in sulfuric acid, H₂SO₄? (H=+1, O=-2)",
+      "options": [
+        "+2",
+        "+4",
+        "+6",
+        "-2"
+      ],
+      "correct": 2,
+      "explanation": "For neutral H₂SO₄: 2(+1) + x + 4(-2) = 0. Solving gives 2 + x - 8 = 0, so x = +6."
+    },
+    {
+      "id": 15,
+      "question": "Which transformation represents reduction in terms of oxygen?",
+      "options": [
+        "CuO becomes Cu",
+        "C becomes CO₂",
+        "Fe becomes Fe₂O₃",
+        "CH₄ becomes CO₂"
+      ],
+      "correct": 0,
+      "explanation": "Reduction in terms of oxygen involves the loss of oxygen. Copper oxide (CuO) losing oxygen to form copper metal (Cu) is a clear example."
+    }
+  ]
+}
