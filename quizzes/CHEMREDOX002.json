@@ -1,0 +1,188 @@
+{
+  "quizTitle": "Secondary 2 Chemistry: Redox Reactions (Advanced)",
+  "quizCode": "CHEMREDOX002",
+  "instructions": "Answer the following advanced questions on redox concepts. Focus on applying knowledge of oxygen change, hydrogen change, electron transfer, and oxidation state changes to analyze reactions.",
+  "timeLimit": 900,
+  "questions": [
+    {
+      "id": 1,
+      "question": "In the reaction between heated copper(II) oxide and ammonia gas: 3CuO + 2NH₃ → 3Cu + N₂ + 3H₂O, what happens to nitrogen in terms of both hydrogen and oxidation state?",
+      "options": [
+        "Nitrogen gains hydrogen and its oxidation state decreases",
+        "Nitrogen loses hydrogen and its oxidation state increases",
+        "Nitrogen undergoes no change in hydrogen or oxidation state",
+        "Nitrogen gains hydrogen and its oxidation state increases"
+      ],
+      "correct": 1,
+      "explanation": "Nitrogen goes from NH₃ (oxidation state -3) to N₂ (oxidation state 0). It loses hydrogen and its oxidation state increases by 3, indicating oxidation."
+    },
+    {
+      "id": 2,
+      "question": "In the displacement reaction: Mg + 2AgNO₃ → Mg(NO₃)₂ + 2Ag, what is the change in oxidation state for magnesium and silver?",
+      "options": [
+        "Magnesium: 0 to +2; Silver: +1 to 0",
+        "Magnesium: 0 to -2; Silver: -1 to 0",
+        "Magnesium: +2 to 0; Silver: 0 to +1",
+        "Magnesium: 0 to +1; Silver: +2 to 0"
+      ],
+      "correct": 0,
+      "explanation": "Magnesium goes from elemental Mg (oxidation state 0) to Mg²⁺ in Mg(NO₃)₂ (oxidation state +2). Silver goes from Ag⁺ in AgNO₃ (oxidation state +1) to elemental Ag (oxidation state 0)."
+    },
+    {
+      "id": 3,
+      "question": "During the thermal decomposition of lead(II) nitrate: 2Pb(NO₃)₂ → 2PbO + 4NO₂ + O₂, what are the oxidation state changes for nitrogen and lead?",
+      "options": [
+        "Nitrogen: +5 to +4; Lead: +2 to +2",
+        "Nitrogen: +5 to +4; Lead: +2 to +1",
+        "Nitrogen: +4 to +5; Lead: +2 to +1",
+        "Nitrogen: +4 to +5; Lead: +2 to +2"
+      ],
+      "correct": 0,
+      "explanation": "In NO₃⁻, nitrogen has oxidation state +5; in NO₂, nitrogen is +4. Lead remains at +2 in both Pb(NO₃)₂ and PbO. Only nitrogen undergoes reduction, while oxygen is oxidised."
+    },
+    {
+      "id": 4,
+      "question": "In the reaction: 2FeCl₂ + Cl₂ → 2FeCl₃, what are the oxidation state changes?",
+      "options": [
+        "Iron: +2 to +3; Chlorine: 0 to -1",
+        "Iron: +3 to +2; Chlorine: -1 to 0",
+        "Iron: +2 to +2; Chlorine: 0 to -1",
+        "Iron: +2 to +3; Chlorine: -1 to 0"
+      ],
+      "correct": 0,
+      "explanation": "Iron's oxidation state increases from +2 in FeCl₂ to +3 in FeCl₃. Chlorine in Cl₂ decreases from 0 to -1 in FeCl₃."
+    },
+    {
+      "id": 5,
+      "question": "What is the oxidation state of chromium in the dichromate ion, Cr₂O₇²⁻? (Oxygen = -2)",
+      "options": [
+        "+3",
+        "+4",
+        "+6",
+        "+7"
+      ],
+      "correct": 2,
+      "explanation": "Let oxidation state of Cr be x. For Cr₂O₇²⁻: 2x + 7(-2) = -2 → 2x - 14 = -2 → 2x = 12 → x = +6."
+    },
+    {
+      "id": 6,
+      "question": "In the reaction: SO₂ + 2H₂S → 3S + 2H₂O, what is the net change in sulfur's oxidation state?",
+      "options": [
+        "Some sulfur is oxidised from -2 to 0, some is reduced from +4 to 0",
+        "All sulfur is reduced from +4 to 0",
+        "All sulfur is oxidised from -2 to 0",
+        "Sulfur oxidation state does not change"
+      ],
+      "correct": 0,
+      "explanation": "Sulfur in H₂S (oxidation state -2) is oxidised to 0. Sulfur in SO₂ (oxidation state +4) is reduced to 0. This is a comproportionation reaction where sulfur atoms from different oxidation states meet at an intermediate state."
+    },
+    {
+      "id": 7,
+      "question": "What is the oxidation state of manganese in potassium permanganate, KMnO₄? (K = +1, O = -2)",
+      "options": [
+        "+3",
+        "+5",
+        "+7",
+        "+8"
+      ],
+      "correct": 2,
+      "explanation": "Let oxidation state of Mn be x. For KMnO₄: +1 + x + 4(-2) = 0 → 1 + x - 8 = 0 → x - 7 = 0 → x = +7."
+    },
+    {
+      "id": 8,
+      "question": "For the reaction: 2H₂ + O₂ → 2H₂O, analyze the changes in terms of both oxygen and hydrogen.",
+      "options": [
+        "Hydrogen gains oxygen and is oxidised; oxygen gains hydrogen and is reduced",
+        "Hydrogen loses oxygen and is reduced; oxygen loses hydrogen and is oxidised",
+        "Hydrogen gains oxygen and is reduced; oxygen loses hydrogen and is oxidised",
+        "Hydrogen loses oxygen and is oxidised; oxygen gains hydrogen and is reduced"
+      ],
+      "correct": 0,
+      "explanation": "Hydrogen gains oxygen to form water (oxidation). Oxygen gains hydrogen to form water (reduction in terms of hydrogen, which also corresponds to electron gain)."
+    },
+    {
+      "id": 9,
+      "question": "What is the sum of oxidation states of all atoms in the sulfate ion, SO₄²⁻?",
+      "options": [
+        "0",
+        "-1",
+        "-2",
+        "+2"
+      ],
+      "correct": 2,
+      "explanation": "The sum of oxidation states in a polyatomic ion equals the ion's charge. For SO₄²⁻, the sum is -2."
+    },
+    {
+      "id": 10,
+      "question": "In the reaction: 2KMnO₄ + 16HCl → 2KCl + 2MnCl₂ + 8H₂O + 5Cl₂, what happens to chlorine?",
+      "options": [
+        "All chlorine is oxidised from -1 to 0",
+        "All chlorine is reduced from 0 to -1",
+        "Some chlorine is oxidised from -1 to 0, some remains at -1",
+        "Chlorine oxidation state does not change"
+      ],
+      "correct": 2,
+      "explanation": "Some chlorine in HCl (oxidation state -1) is oxidised to Cl₂ (oxidation state 0). Other chlorine remains at -1 in KCl and MnCl₂."
+    },
+    {
+      "id": 11,
+      "question": "For the reaction: 2Al + Fe₂O₃ → Al₂O₃ + 2Fe, which elements undergo oxidation and reduction?",
+      "options": [
+        "Aluminium is oxidised; iron is reduced",
+        "Aluminium is reduced; iron is oxidised",
+        "Both aluminium and iron are oxidised",
+        "Both aluminium and iron are reduced"
+      ],
+      "correct": 0,
+      "explanation": "Aluminium goes from 0 to +3 (oxidation). Iron goes from +3 in Fe₂O₃ to 0 in Fe (reduction)."
+    },
+    {
+      "id": 12,
+      "question": "In hydrogen peroxide (H₂O₂), what is the oxidation state of oxygen? (H = +1)",
+      "options": [
+        "-2",
+        "-1",
+        "0",
+        "+1"
+      ],
+      "correct": 1,
+      "explanation": "Let oxidation state of O be x. For H₂O₂: 2(+1) + 2x = 0 → 2 + 2x = 0 → 2x = -2 → x = -1."
+    },
+    {
+      "id": 13,
+      "question": "During the combustion of methane: CH₄ + 2O₂ → CO₂ + 2H₂O, what happens to carbon?",
+      "options": [
+        "Carbon is oxidised, losing hydrogen and gaining oxygen",
+        "Carbon is reduced, gaining hydrogen and losing oxygen",
+        "Carbon is oxidised, gaining hydrogen and losing oxygen",
+        "Carbon is reduced, losing hydrogen and gaining oxygen"
+      ],
+      "correct": 0,
+      "explanation": "Carbon goes from CH₄ to CO₂. It loses hydrogen and gains oxygen, both of which indicate oxidation. The oxidation state changes from -4 to +4."
+    },
+    {
+      "id": 14,
+      "question": "What is the oxidation state of phosphorus in calcium phosphate, Ca₃(PO₄)₂? (Ca = +2, O = -2)",
+      "options": [
+        "+3",
+        "+4",
+        "+5",
+        "+6"
+      ],
+      "correct": 2,
+      "explanation": "For Ca₃(PO₄)₂: 3(+2) + 2[P + 4(-2)] = 0 → 6 + 2(P - 8) = 0 → 6 + 2P - 16 = 0 → 2P = 10 → P = +5."
+    },
+    {
+      "id": 15,
+      "question": "In the reaction between zinc and sulfuric acid: Zn + H₂SO₄ → ZnSO₄ + H₂, what are the oxidation state changes?",
+      "options": [
+        "Zinc: 0 to +2; Hydrogen: +1 to 0",
+        "Zinc: +2 to 0; Hydrogen: 0 to +1",
+        "Zinc: 0 to +1; Hydrogen: +2 to 0",
+        "Zinc: 0 to 0; Hydrogen: +1 to 0"
+      ],
+      "correct": 0,
+      "explanation": "Zinc goes from elemental Zn (0) to Zn²⁺ in ZnSO₄ (+2). Hydrogen goes from H⁺ in H₂SO₄ (+1) to H₂ (0)."
+    }
+  ]
+}
