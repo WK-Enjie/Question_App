@@ -69,12 +69,12 @@
       "question": "Which integer satisfies: -3 ≤ 2x + 1 < 5?",
       "options": [
         "0",
-        "-2",
+        "2",
         "3",
-        "1"
+        "-3"
       ],
       "correct": 0,
-      "explanation": "Solve: -3 ≤ 2x + 1 → -4 ≤ 2x → -2 ≤ x. And 2x + 1 < 5 → 2x < 4 → x < 2. So -2 ≤ x < 2. Integers: -2, -1, 0, 1. 0 is among them."
+      "explanation": "Solve: -3 ≤ 2x + 1 → -4 ≤ 2x → -2 ≤ x. And 2x + 1 < 5 → 2x < 4 → x < 2. So -2 ≤ x < 2. Integer solutions: -2, -1, 0, 1. Among the options, only 0 is valid."
     },
     {
       "id": 7,

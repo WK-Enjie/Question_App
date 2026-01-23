@@ -1,0 +1,78 @@
+{
+  "quizTitle": "PSLE Mathematics: Fractions, Decimals & Percentages",
+  "quizCode": "PSLEFDP001",
+  "instructions": "Solve these 10 questions without a calculator. Work on speed and accuracy. Choose the correct answer from the options given.",
+  "timeLimit": 600,
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is 3/5 expressed as a percentage?",
+      "options": ["30%", "50%", "60%", "75%"],
+      "correct": 2,
+      "explanation": "3/5 = 3 ÷ 5 = 0.6 = 60%"
+    },
+    {
+      "id": 2,
+      "question": "Calculate 0.125 × 40.",
+      "options": ["4", "5", "6", "8"],
+      "correct": 1,
+      "explanation": "0.125 = 1/8, 1/8 × 40 = 40 ÷ 8 = 5"
+    },
+    {
+      "id": 3,
+      "question": "Which of the following is the largest?",
+      "options": ["65%", "2/3", "0.67", "13/20"],
+      "correct": 2,
+      "explanation": "65% = 0.65, 2/3 ≈ 0.667, 0.67, 13/20 = 0.65. Largest is 0.67."
+    },
+    {
+      "id": 4,
+      "question": "Express 7/8 as a decimal.",
+      "options": ["0.78", "0.875", "0.78", "0.85"],
+      "correct": 1,
+      "explanation": "7 ÷ 8 = 0.875"
+    },
+    {
+      "id": 5,
+      "question": "What is 30% of $80?",
+      "options": ["$18", "$24", "$28", "$30"],
+      "correct": 1,
+      "explanation": "10% = $8, so 30% = 3 × $8 = $24"
+    },
+    {
+      "id": 6,
+      "question": "Find 3/4 of 1.2.",
+      "options": ["0.8", "0.9", "1.0", "1.2"],
+      "correct": 1,
+      "explanation": "3/4 × 1.2 = (3 × 1.2) ÷ 4 = 3.6 ÷ 4 = 0.9"
+    },
+    {
+      "id": 7,
+      "question": "Which fraction is equivalent to 0.375?",
+      "options": ["3/8", "1/4", "5/8", "2/5"],
+      "correct": 0,
+      "explanation": "0.375 = 375/1000 = 3/8 (÷125)"
+    },
+    {
+      "id": 8,
+      "question": "If a dress costs $50 after a 20% discount, what was the original price?",
+      "options": ["$60", "$62.50", "$65", "$70"],
+      "correct": 1,
+      "explanation": "80% = $50, so 1% = $50 ÷ 80 = $0.625, 100% = $62.50"
+    },
+    {
+      "id": 9,
+      "question": "What is 5/6 as a percentage, correct to 1 decimal place?",
+      "options": ["83.3%", "83.0%", "83.5%", "84.0%"],
+      "correct": 0,
+      "explanation": "5 ÷ 6 ≈ 0.83333... ≈ 83.3%"
+    },
+    {
+      "id": 10,
+      "question": "0.45 + 1/4 = ?",
+      "options": ["0.6", "0.65", "0.7", "0.75"],
+      "correct": 2,
+      "explanation": "1/4 = 0.25, so 0.45 + 0.25 = 0.7"
+    }
+  ]
+}

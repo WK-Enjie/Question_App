@@ -1,0 +1,152 @@
+{
+  "quizTitle": "Secondary 2 Simultaneous Equations",
+  "quizCode": "SIMULEQS2001",
+  "instructions": "Solve simultaneous equations using substitution or elimination. Show working.",
+  "timeLimit": 600,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Solve: 2x + y = 10 and x - y = 2",
+      "options": [
+        "x = 4, y = 2",
+        "x = 5, y = 0",
+        "x = 3, y = 4",
+        "x = 6, y = -2"
+      ],
+      "correct": 0,
+      "explanation": "Add equations: 3x = 12 → x = 4. Substitute: 4 - y = 2 → y = 2."
+    },
+    {
+      "id": 2,
+      "question": "Solve: 3a + 2b = 16 and a - b = 2",
+      "options": [
+        "a = 4, b = 2",
+        "a = 5, b = 3",
+        "a = 6, b = 4",
+        "a = 3, b = 1"
+      ],
+      "correct": 0,
+      "explanation": "From second: a = b + 2. Substitute: 3(b+2) + 2b = 16 → 3b+6+2b=16 → 5b=10 → b=2, a=4."
+    },
+    {
+      "id": 3,
+      "question": "In a triangle, the largest angle is 20° more than the smallest. The third angle is twice the smallest. The sum is 180°. Find smallest angle.",
+      "options": [
+        "40°",
+        "50°",
+        "30°",
+        "60°"
+      ],
+      "correct": 0,
+      "explanation": "Let smallest = x. Largest = x+20. Third = 2x. Equation: x+(x+20)+2x=180 → 4x+20=180 → 4x=160 → x=40."
+    },
+    {
+      "id": 4,
+      "question": "A two-digit number's digits sum to 11. Reversing digits gives a number 27 less. Find original number.",
+      "options": [
+        "74",
+        "65",
+        "83",
+        "92"
+      ],
+      "correct": 0,
+      "explanation": "Let tens=t, units=u. t+u=11. Number: 10t+u. Reversed: 10u+t. 10t+u = 10u+t+27 → 9t-9u=27 → t-u=3. Solve: t+u=11, t-u=3 → 2t=14 → t=7, u=4 → 74."
+    },
+    {
+      "id": 5,
+      "question": "Solve: x + y = 5 and x - y = 1",
+      "options": [
+        "x = 2, y = 3",
+        "x = 4, y = 1",
+        "x = 3, y = 2",
+        "x = 5, y = 0"
+      ],
+      "correct": 2,
+      "explanation": "Add equations: 2x = 6 → x = 3. Then y = 5 - x = 2. So x = 3, y = 2."
+    },
+    {
+      "id": 6,
+      "question": "The sum of two numbers is 35. Their difference is 11. Find the numbers.",
+      "options": [
+        "23 and 12",
+        "20 and 15",
+        "18 and 17",
+        "25 and 10"
+      ],
+      "correct": 0,
+      "explanation": "Let x>y. x+y=35, x-y=11. Add: 2x=46 → x=23, y=12."
+    },
+    {
+      "id": 7,
+      "question": "A rectangle's length is 5 cm more than width. Perimeter is 38 cm. Find width.",
+      "options": [
+        "7 cm",
+        "8 cm",
+        "9 cm",
+        "10 cm"
+      ],
+      "correct": 0,
+      "explanation": "Let width=w, length=w+5. Perimeter: 2(w+w+5)=38 → 2(2w+5)=38 → 4w+10=38 → 4w=28 → w=7."
+    },
+    {
+      "id": 8,
+      "question": "Solve: 4x - y = 7 and 3x + 2y = -3",
+      "options": [
+        "x = 1, y = -3",
+        "x = 2, y = 1",
+        "x = 3, y = 5",
+        "x = 0, y = -7"
+      ],
+      "correct": 0,
+      "explanation": "From first: y = 4x - 7. Substitute into second: 3x + 2(4x - 7) = -3 → 3x + 8x - 14 = -3 → 11x = 11 → x = 1, y = -3."
+    },
+    {
+      "id": 9,
+      "question": "In a triangle, one angle is double another, and the third is 30°. Find the largest angle.",
+      "options": [
+        "100°",
+        "80°",
+        "90°",
+        "70°"
+      ],
+      "correct": 0,
+      "explanation": "Let smaller=x, larger=2x. Then x+2x+30=180 → 3x=150 → x=50. Largest=2x=100°."
+    },
+    {
+      "id": 10,
+      "question": "Two pens and three pencils cost $3.10. Four pens and one pencil cost $4.70. Find cost of one pen.",
+      "options": [
+        "$1.00",
+        "$0.90",
+        "$1.10",
+        "$0.80"
+      ],
+      "correct": 2,
+      "explanation": "Let pen=p, pencil=c. 2p+3c=3.10, 4p+c=4.70 → c=4.70-4p. Substitute: 2p+3(4.70-4p)=3.10 → 2p+14.10-12p=3.10 → -10p=-11 → p=1.10."
+    },
+    {
+      "id": 11,
+      "question": "Solve: x/2 + y/3 = 4 and x - y = 3",
+      "options": [
+        "x = 6, y = 3",
+        "x = 5, y = 2",
+        "x = 4, y = 1",
+        "x = 7, y = 4"
+      ],
+      "correct": 0,
+      "explanation": "From second: x = y+3. Substitute: (y+3)/2 + y/3 = 4 → Multiply by 6: 3(y+3)+2y=24 → 3y+9+2y=24 → 5y=15 → y=3, x=6."
+    },
+    {
+      "id": 12,
+      "question": "The sum of ages of parent and child is 50. In 5 years, parent will be 3 times as old as child. Find child's age now.",
+      "options": [
+        "10",
+        "12",
+        "8",
+        "15"
+      ],
+      "correct": 0,
+      "explanation": "Let parent=p, child=c. p+c=50. In 5 years: p+5=3(c+5) → p+5=3c+15 → p=3c+10. Substitute: 3c+10+c=50 → 4c=40 → c=10."
+    }
+  ]
+}

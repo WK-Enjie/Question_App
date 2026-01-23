@@ -1,0 +1,188 @@
+{
+  "quizTitle": "Secondary 4 Chemistry: Metal Reactivity and Reactivity Series",
+  "quizCode": "CHEMMETAL001",
+  "instructions": "Answer the following questions on metal reactivity with acids, water, steam, reactivity series positions, displacement reactions, and applications of reactivity data.",
+  "timeLimit": 900,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which metal reacts violently with cold water, producing an alkaline solution and hydrogen gas?",
+      "options": [
+        "Iron",
+        "Copper",
+        "Sodium",
+        "Magnesium"
+      ],
+      "correct": 2,
+      "explanation": "Sodium reacts vigorously with cold water: 2Na + 2H₂O → 2NaOH + H₂. The solution becomes alkaline due to NaOH formation."
+    },
+    {
+      "id": 2,
+      "question": "Which metal does NOT react with dilute sulfuric acid?",
+      "options": [
+        "Zinc",
+        "Aluminium",
+        "Silver",
+        "Magnesium"
+      ],
+      "correct": 2,
+      "explanation": "Silver is below hydrogen in the reactivity series and cannot displace hydrogen from acids."
+    },
+    {
+      "id": 3,
+      "question": "Which metal reacts with steam but only very slowly with cold water?",
+      "options": [
+        "Potassium",
+        "Iron",
+        "Calcium",
+        "Zinc"
+      ],
+      "correct": 1,
+      "explanation": "Iron reacts with steam to form iron(III) oxide and hydrogen: 3Fe + 4H₂O(g) → Fe₃O₄ + 4H₂, but reacts very slowly or not at all with cold water."
+    },
+    {
+      "id": 4,
+      "question": "What is the correct order of reactivity (most reactive first) for these metals?",
+      "options": [
+        "Zn, Fe, Mg, Cu",
+        "Mg, Zn, Fe, Cu",
+        "Cu, Fe, Zn, Mg",
+        "Fe, Cu, Mg, Zn"
+      ],
+      "correct": 1,
+      "explanation": "From the reactivity series: Mg (most reactive of these) > Zn > Fe > Cu (least reactive)."
+    },
+    {
+      "id": 5,
+      "question": "In a displacement reaction, zinc powder is added to copper(II) sulfate solution. What is observed?",
+      "options": [
+        "Blue solution turns colourless, brown solid forms",
+        "No change",
+        "Gas bubbles produced",
+        "White precipitate forms"
+      ],
+      "correct": 0,
+      "explanation": "Zn + CuSO₄ → ZnSO₄ + Cu. Blue Cu²⁺ ions are replaced by colourless Zn²⁺ ions. Brown copper metal solid forms."
+    },
+    {
+      "id": 6,
+      "question": "A student adds copper to iron(II) sulfate solution and observes no reaction. What does this indicate?",
+      "options": [
+        "Copper is less reactive than iron",
+        "The reaction is too slow to observe",
+        "Copper is more reactive than iron",
+        "Sulfate ions interfere"
+      ],
+      "correct": 0,
+      "explanation": "Copper is below iron in the reactivity series, so it cannot displace iron from its salt solution. Hence, no reaction occurs."
+    },
+    {
+      "id": 7,
+      "question": "Which metal can displace hydrogen from cold water but reacts only moderately?",
+      "options": [
+        "Gold",
+        "Calcium",
+        "Lead",
+        "Mercury"
+      ],
+      "correct": 1,
+      "explanation": "Calcium reacts with cold water moderately to produce calcium hydroxide and hydrogen gas."
+    },
+    {
+      "id": 8,
+      "question": "What is the meaning of a displacement reaction in terms of the reactivity series?",
+      "options": [
+        "A more reactive metal displaces a less reactive metal from its compound",
+        "A less reactive metal displaces a more reactive metal",
+        "Two metals of equal reactivity exchange places",
+        "Non-metals displace metals"
+      ],
+      "correct": 0,
+      "explanation": "Displacement occurs when a more reactive metal takes the place of a less reactive metal in a compound."
+    },
+    {
+      "id": 9,
+      "question": "Aluminium appears less reactive than expected because:",
+      "options": [
+        "It is actually a noble metal",
+        "It forms a protective oxide layer",
+        "It does not conduct electricity well",
+        "It is below hydrogen in the series"
+      ],
+      "correct": 1,
+      "explanation": "Aluminium quickly forms Al₂O₃ on its surface, which prevents further reaction, making it appear less reactive."
+    },
+    {
+      "id": 10,
+      "question": "In the reaction: Metal X + Copper(II) oxide → Metal X oxide + Copper. This occurs readily. What can be deduced?",
+      "options": [
+        "Metal X is less reactive than copper",
+        "Metal X is more reactive than copper",
+        "Metal X is copper",
+        "No conclusion can be drawn"
+      ],
+      "correct": 1,
+      "explanation": "A metal can displace another from its oxide only if it is more reactive. So Metal X is more reactive than copper."
+    },
+    {
+      "id": 11,
+      "question": "Which of these metals will react with steam to give hydrogen but the reaction requires high heat?",
+      "options": [
+        "Sodium",
+        "Zinc",
+        "Gold",
+        "Tin"
+      ],
+      "correct": 1,
+      "explanation": "Zinc reacts with steam when strongly heated to give zinc oxide and hydrogen gas."
+    },
+    {
+      "id": 12,
+      "question": "What gas is produced when a reactive metal reacts with an acid?",
+      "options": [
+        "Oxygen",
+        "Carbon dioxide",
+        "Hydrogen",
+        "Nitrogen"
+      ],
+      "correct": 2,
+      "explanation": "Metal + Acid → Salt + Hydrogen gas (if metal is above hydrogen in reactivity series)."
+    },
+    {
+      "id": 13,
+      "question": "From displacement experiments, metal P displaces metal Q from nitrate solution, and metal Q displaces metal R. What is the reactivity order?",
+      "options": [
+        "R > Q > P",
+        "P > Q > R",
+        "Q > P > R",
+        "P > R > Q"
+      ],
+      "correct": 1,
+      "explanation": "If P displaces Q, then P > Q. If Q displaces R, then Q > R. So overall: P > Q > R."
+    },
+    {
+      "id": 14,
+      "question": "Why is potassium stored under oil?",
+      "options": [
+        "To prevent reaction with oxygen and water vapour",
+        "To make it shine",
+        "To increase its reactivity",
+        "To prevent it from melting"
+      ],
+      "correct": 0,
+      "explanation": "Potassium is so reactive it reacts violently with air (oxygen) and water vapour. Oil excludes these."
+    },
+    {
+      "id": 15,
+      "question": "Which metal could be used to displace silver from silver nitrate solution?",
+      "options": [
+        "Gold",
+        "Platinum",
+        "Copper",
+        "Mercury"
+      ],
+      "correct": 2,
+      "explanation": "Copper is above silver in the reactivity series, so it can displace silver: Cu + 2AgNO₃ → Cu(NO₃)₂ + 2Ag."
+    }
+  ]
+}
