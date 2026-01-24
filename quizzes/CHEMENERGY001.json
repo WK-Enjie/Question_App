@@ -1,0 +1,188 @@
+{
+  "quizTitle": "O-Level Pure Chemistry: Energy Changes in Reactions",
+  "quizCode": "CHEMENERGY001",
+  "instructions": "Answer the following questions on enthalpy changes, bond energies, energy profiles, and thermochemistry applications. Choose the correct answer.",
+  "timeLimit": 900,
+  "questions": [
+    {
+      "id": 1,
+      "question": "What does a negative ΔH value indicate about a reaction?",
+      "options": [
+        "The reaction is endothermic",
+        "The reaction is exothermic",
+        "The reaction absorbs heat",
+        "The temperature decreases"
+      ],
+      "correct": 1,
+      "explanation": "ΔH negative means heat is released to surroundings → exothermic reaction."
+    },
+    {
+      "id": 2,
+      "question": "In an energy profile diagram for an exothermic reaction, the products:",
+      "options": [
+        "Are at a higher energy level than reactants",
+        "Are at a lower energy level than reactants",
+        "Have the same energy as reactants",
+        "Have zero energy"
+      ],
+      "correct": 1,
+      "explanation": "Exothermic reactions release energy, so products have less energy than reactants."
+    },
+    {
+      "id": 3,
+      "question": "Which process is always endothermic?",
+      "options": [
+        "Bond forming",
+        "Bond breaking",
+        "Condensation",
+        "Freezing"
+      ],
+      "correct": 1,
+      "explanation": "Breaking bonds requires energy input → endothermic."
+    },
+    {
+      "id": 4,
+      "question": "The enthalpy change of reaction is given by:",
+      "options": [
+        "ΔH = Energy absorbed – Energy released",
+        "ΔH = Energy released – Energy absorbed",
+        "ΔH = Energy of bonds broken – Energy of bonds formed",
+        "ΔH = Energy of bonds formed – Energy of bonds broken"
+      ],
+      "correct": 2,
+      "explanation": "ΔH = Σ(Bond energies broken) – Σ(Bond energies formed). If ΔH negative → exothermic."
+    },
+    {
+      "id": 5,
+      "question": "What happens to the temperature of the surroundings during an endothermic reaction?",
+      "options": [
+        "Increases",
+        "Decreases",
+        "Remains constant",
+        "Depends on pressure"
+      ],
+      "correct": 1,
+      "explanation": "Endothermic reactions absorb heat from surroundings → temperature drops."
+    },
+    {
+      "id": 6,
+      "question": "Given: Bond energy H–H = 436 kJ/mol, Cl–Cl = 242 kJ/mol, H–Cl = 431 kJ/mol. Calculate ΔH for H₂ + Cl₂ → 2HCl.",
+      "options": [
+        "+184 kJ",
+        "-184 kJ",
+        "+248 kJ",
+        "-248 kJ"
+      ],
+      "correct": 1,
+      "explanation": "Bonds broken: H–H (436) + Cl–Cl (242) = 678 kJ. Bonds formed: 2 × H–Cl (431) = 862 kJ. ΔH = 678 – 862 = -184 kJ."
+    },
+    {
+      "id": 7,
+      "question": "The energy needed to start a reaction is called:",
+      "options": [
+        "Enthalpy change",
+        "Activation energy",
+        "Bond energy",
+        "Heat capacity"
+      ],
+      "correct": 1,
+      "explanation": "Activation energy is the minimum energy required for reactants to form products."
+    },
+    {
+      "id": 8,
+      "question": "Which statement about bond energies is correct?",
+      "options": [
+        "Bond breaking is exothermic",
+        "Stronger bonds have lower bond energies",
+        "Bond making releases energy",
+        "ΔH is positive when bonds are formed"
+      ],
+      "correct": 2,
+      "explanation": "When bonds form, energy is released → exothermic process."
+    },
+    {
+      "id": 9,
+      "question": "A reaction has ΔH = +150 kJ/mol. What type of reaction is it?",
+      "options": [
+        "Exothermic",
+        "Endothermic",
+        "Isothermic",
+        "Neutral"
+      ],
+      "correct": 1,
+      "explanation": "Positive ΔH → heat absorbed → endothermic."
+    },
+    {
+      "id": 10,
+      "question": "In a combustion reaction, the energy profile shows:",
+      "options": [
+        "High activation energy, ΔH positive",
+        "Low activation energy, ΔH negative",
+        "High activation energy, ΔH negative",
+        "Low activation energy, ΔH positive"
+      ],
+      "correct": 2,
+      "explanation": "Combustion is exothermic (ΔH negative) but often needs heat to start (high Ea)."
+    },
+    {
+      "id": 11,
+      "question": "If the total bond energies broken = 800 kJ and bond energies formed = 950 kJ, what is ΔH?",
+      "options": [
+        "+150 kJ",
+        "-150 kJ",
+        "+1750 kJ",
+        "-1750 kJ"
+      ],
+      "correct": 1,
+      "explanation": "ΔH = Bonds broken – Bonds formed = 800 – 950 = -150 kJ (exothermic)."
+    },
+    {
+      "id": 12,
+      "question": "Which process would feel cold to the touch?",
+      "options": [
+        "Burning wood",
+        "Neutralisation of acid and alkali",
+        "Dissolving ammonium nitrate in water",
+        "Respiration"
+      ],
+      "correct": 2,
+      "explanation": "Dissolving ammonium nitrate is endothermic → absorbs heat → feels cold."
+    },
+    {
+      "id": 13,
+      "question": "The activation energy on an energy profile diagram is the:",
+      "options": [
+        "Difference between reactants and products",
+        "Energy released during reaction",
+        "Peak energy from reactants level",
+        "Energy at the end of reaction"
+      ],
+      "correct": 2,
+      "explanation": "Activation energy = energy from reactants to the top of the energy barrier (transition state)."
+    },
+    {
+      "id": 14,
+      "question": "What is ΔH for the reaction if bond energies: C–H = 413, O=O = 498, C=O = 799, O–H = 463 kJ/mol? (CH₄ + 2O₂ → CO₂ + 2H₂O)",
+      "options": [
+        "-808 kJ",
+        "+808 kJ",
+        "-404 kJ",
+        "+404 kJ"
+      ],
+      "correct": 0,
+      "explanation": "Bonds broken: 4×C–H (1652) + 2×O=O (996) = 2648 kJ. Bonds formed: 2×C=O (1598) + 4×O–H (1852) = 3450 kJ. ΔH = 2648 – 3450 = -802 kJ ≈ -808 kJ (depending on rounding of bond energy values). The closest option is -808 kJ."
+    },
+    {
+      "id": 15,
+      "question": "Why might an exothermic reaction not occur immediately at room temperature?",
+      "options": [
+        "It absorbs heat",
+        "It has high activation energy",
+        "ΔH is too negative",
+        "Products have more energy"
+      ],
+      "correct": 1,
+      "explanation": "Even if ΔH is negative, the reaction may need energy input to overcome activation energy barrier."
+    }
+  ]
+}

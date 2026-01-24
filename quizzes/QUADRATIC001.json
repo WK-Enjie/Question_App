@@ -30,15 +30,15 @@
     },
     {
       "id": 3,
-      "question": "Curve: y = x² - 6x + 8 (minimum curve). Intersects y = 1 at:",
+      "question": "Curve: y = x² - 6x + 8 (minimum curve). Intersects y = 0 at:",
       "options": [
         "x = 1 and x = 5",
         "x = 1 and x = 7",
         "x = 2 and x = 4",
         "No intersection"
       ],
-      "correct": 1,
-      "explanation": "Set x² - 6x + 8 = 1 → x² - 6x + 7 = 0 → Use quadratic formula: x = [6 ± √(36-28)]/2 = [6 ± √8]/2 = [6 ± 2√2]/2 = 3 ± √2 ≈ 1.59 and 4.41."
+      "correct": 2,
+      "explanation": "Set x² - 6x + 8 = 0 → (x - 2)(x - 4) = 0 → x = 2 or x = 4. So the curve intersects the x-axis (y=0) at x = 2 and x = 4."
     },
     {
       "id": 4,
@@ -97,8 +97,8 @@
         "No intersection",
         "Cannot determine"
       ],
-      "correct": 0,
-      "explanation": "Minimum is at y=-8. Line y=-10 is BELOW the minimum → Wait, that's wrong. If minimum is -8, line at -10 is below → curve never goes below -8 → NO intersection. Correction: Actually, minimum is -8, line y=-10 is below minimum → no intersection. But my options say 'Two points' is correct? That's an error in my logic. Let's fix: Minimum at -8, line at -10 → no intersection. So answer should be 'No intersection'."
+      "correct": 2,
+      "explanation": "The curve has a minimum at y = -8 (vertex at (-1, -8)). Since y = -10 is below this minimum, the curve never reaches it. Therefore, there is no intersection."
     }
   ]
 }
