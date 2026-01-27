@@ -1,0 +1,188 @@
+{
+  "quizTitle": "O-Level E-Math: Set Language & Notation (Advanced)",
+  "quizCode": "SET002",
+  "instructions": "Answer all questions on sets, subsets, Venn diagrams, and geometric applications.",
+  "timeLimit": 720,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which symbol represents the empty set?",
+      "options": [
+        "∅",
+        "∈",
+        "⊆",
+        "∩"
+      ],
+      "correct": 0,
+      "explanation": "∅ is the symbol for the empty set (set with no elements)."
+    },
+    {
+      "id": 2,
+      "question": "If A = {1, 2, 3}, which is a proper subset of A?",
+      "options": [
+        "{1, 2, 3}",
+        "{1, 2, 3, 4}",
+        "{1, 2}",
+        "∅"
+      ],
+      "correct": 2,
+      "explanation": "A proper subset is not equal to the original set. Both {1, 2} and ∅ are proper subsets, but {1, 2} is listed as an option and is correct."
+    },
+    {
+      "id": 3,
+      "question": "In a Venn diagram, the shaded region outside both circles A and B but inside the universal set ξ represents:",
+      "options": [
+        "A ∩ B",
+        "A ∪ B",
+        "(A ∪ B)'",
+        "A' ∩ B'"
+      ],
+      "correct": 3,
+      "explanation": "Outside A (A') and outside B (B') → A' ∩ B' = (A ∪ B)'."
+    },
+    {
+      "id": 4,
+      "question": "Let ξ = {triangles}, A = {isosceles triangles}, B = {right-angled triangles}. What does A ∩ B represent?",
+      "options": [
+        "Isosceles right-angled triangles",
+        "All right-angled triangles",
+        "All isosceles triangles",
+        "Equilateral triangles"
+      ],
+      "correct": 0,
+      "explanation": "A ∩ B = triangles that are both isosceles AND right-angled → isosceles right-angled triangles."
+    },
+    {
+      "id": 5,
+      "question": "How many subsets does the set {a, b} have?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correct": 2,
+      "explanation": "Subsets: ∅, {a}, {b}, {a, b}. Total = 4 subsets."
+    },
+    {
+      "id": 6,
+      "question": "In a class, ξ = {students}, M = {students who like Math}, S = {students who like Science}. The shaded region in only circle M represents:",
+      "options": [
+        "M ∩ S",
+        "M ∪ S",
+        "M ∩ S'",
+        "M' ∩ S"
+      ],
+      "correct": 2,
+      "explanation": "Only in M means in M but NOT in S → M ∩ S'."
+    },
+    {
+      "id": 7,
+      "question": "Which statement is TRUE about the empty set ∅?",
+      "options": [
+        "∅ ⊆ A for any set A",
+        "∅ ∈ ∅",
+        "n(∅) = 1",
+        "∅ is not a subset of itself"
+      ],
+      "correct": 0,
+      "explanation": "The empty set is a subset of every set, including itself. ∅ ∉ ∅ (empty set is not an element of itself)."
+    },
+    {
+      "id": 8,
+      "question": "Let ξ = {quadrilaterals}, R = {rectangles}, S = {squares}. Which is true?",
+      "options": [
+        "S ⊂ R",
+        "R ⊂ S",
+        "R ∩ S = ∅",
+        "R ∪ S = ξ"
+      ],
+      "correct": 0,
+      "explanation": "All squares are rectangles, but not all rectangles are squares. So S ⊂ R (S is a proper subset of R)."
+    },
+    {
+      "id": 9,
+      "question": "If A = {x: x is a factor of 12} and B = {x: x is a factor of 18}, find A ∩ B.",
+      "options": [
+        "{1, 2, 3, 6}",
+        "{1, 2, 3, 4, 6, 12}",
+        "{1, 2, 3, 6, 9, 18}",
+        "{1, 2, 3, 4, 6, 9, 12, 18}"
+      ],
+      "correct": 0,
+      "explanation": "A = {1, 2, 3, 4, 6, 12}, B = {1, 2, 3, 6, 9, 18}. Intersection = {1, 2, 3, 6}."
+    },
+    {
+      "id": 10,
+      "question": "Which Venn diagram shading represents A' ∪ B?",
+      "options": [
+        "Shade everything except A",
+        "Shade only B",
+        "Shade outside A and also all of B",
+        "Shade overlap of A and B"
+      ],
+      "correct": 2,
+      "explanation": "A' ∪ B = (not A) OR B → shade outside A, plus all of B (including overlap with A)."
+    },
+    {
+      "id": 11,
+      "question": "If A ⊆ B and B ⊆ A, then:",
+      "options": [
+        "A = B",
+        "A = ∅",
+        "B = ∅",
+        "A and B are disjoint"
+      ],
+      "correct": 0,
+      "explanation": "If A is a subset of B AND B is a subset of A, then every element in A is in B and vice versa → A = B."
+    },
+    {
+      "id": 12,
+      "question": "In a survey: n(ξ)=50, n(M)=30, n(E)=25, n(M ∩ E)=10. How many students like neither Math nor English?",
+      "options": [
+        "5",
+        "15",
+        "20",
+        "25"
+      ],
+      "correct": 0,
+      "explanation": "n(M ∪ E) = n(M)+n(E)-n(M ∩ E) = 30+25-10=45. Neither = n(ξ) - n(M ∪ E) = 50-45=5."
+    },
+    {
+      "id": 13,
+      "question": "Which could be the universal set for {x: x is an even number between 1 and 10}?",
+      "options": [
+        "{2, 4, 6, 8}",
+        "{1, 2, 3, 4, 5, 6, 7, 8, 9, 10}",
+        "{2, 4, 6, 8, 10}",
+        "All integers"
+      ],
+      "correct": 1,
+      "explanation": "The universal set must contain the given set {2,4,6,8}. {1,...,10} is the smallest suitable given option."
+    },
+    {
+      "id": 14,
+      "question": "Let P = {parallelograms}, R = {rectangles}, T = {rhombuses}. What is R ∩ T?",
+      "options": [
+        "{squares}",
+        "{rectangles only}",
+        "{rhombuses only}",
+        "∅"
+      ],
+      "correct": 0,
+      "explanation": "Rectangles ∩ Rhombuses = quadrilaterals that are both equiangular and equilateral → squares."
+    },
+    {
+      "id": 15,
+      "question": "Which statement uses the proper subset symbol correctly?",
+      "options": [
+        "{1, 2} ⊂ {1, 2, 3}",
+        "{a, b} ⊂ {a, b}",
+        "∅ ⊂ ∅",
+        "{5} ⊂ {5}"
+      ],
+      "correct": 0,
+      "explanation": "Proper subset (⊂) means the set is contained in but not equal to the other. {1,2} ⊂ {1,2,3} is correct. A set is not a proper subset of itself."
+    }
+  ]
+}
