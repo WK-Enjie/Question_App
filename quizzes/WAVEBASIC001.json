@@ -1,0 +1,188 @@
+{
+  "quizTitle": "O-Level Physics: General Properties of Waves",
+  "quizCode": "WAVEBASIC001",
+  "instructions": "Answer the following questions on wave fundamentals, properties, calculations, and basic ripple tank observations. Choose the correct answer.",
+  "timeLimit": 900,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which statement correctly describes a transverse wave?",
+      "options": [
+        "The particles vibrate parallel to the direction of wave travel",
+        "The particles vibrate perpendicular to the direction of wave travel",
+        "It cannot travel through a vacuum",
+        "It has regions of compression and rarefaction"
+      ],
+      "correct": 1,
+      "explanation": "In transverse waves, particle displacement is perpendicular to wave propagation direction (e.g., water ripples)."
+    },
+    {
+      "id": 2,
+      "question": "In a longitudinal wave, regions where particles are close together are called:",
+      "options": [
+        "Troughs",
+        "Crests",
+        "Rarefactions",
+        "Compressions"
+      ],
+      "correct": 3,
+      "explanation": "Compressions are high-pressure regions where particles are densely packed; rarefactions are low-pressure regions with spread-out particles."
+    },
+    {
+      "id": 3,
+      "question": "The amplitude of a wave is defined as:",
+      "options": [
+        "The distance between two consecutive crests",
+        "The number of waves passing a point per second",
+        "The maximum displacement of a particle from its rest position",
+        "The time taken for one complete wave cycle"
+      ],
+      "correct": 2,
+      "explanation": "Amplitude measures the maximum disturbance from equilibrium and relates to the energy carried by the wave."
+    },
+    {
+      "id": 4,
+      "question": "A wave has a frequency of 8 Hz and wavelength of 0.5 m. What is its speed?",
+      "options": [
+        "4.0 m/s",
+        "8.0 m/s",
+        "16.0 m/s",
+        "0.0625 m/s"
+      ],
+      "correct": 0,
+      "explanation": "Using v = fλ: v = 8 Hz × 0.5 m = 4.0 m/s."
+    },
+    {
+      "id": 5,
+      "question": "In a ripple tank, circular wavefronts are produced when:",
+      "options": [
+        "A straight bar vibrates on the water surface",
+        "A single point dipper vibrates on the water surface",
+        "Waves reflect from a curved barrier",
+        "Two dippers vibrate together"
+      ],
+      "correct": 1,
+      "explanation": "A point source (single dipper) creates circular wavefronts that spread outward equally in all directions."
+    },
+    {
+      "id": 6,
+      "question": "The period of a wave with frequency 25 Hz is:",
+      "options": [
+        "25 seconds",
+        "4.0 seconds",
+        "0.04 seconds",
+        "0.25 seconds"
+      ],
+      "correct": 2,
+      "explanation": "Period T = 1/f = 1/25 = 0.04 s. Period is the time for one complete oscillation."
+    },
+    {
+      "id": 7,
+      "question": "Which wave property is measured in hertz (Hz)?",
+      "options": [
+        "Amplitude",
+        "Wavelength",
+        "Frequency",
+        "Speed"
+      ],
+      "correct": 2,
+      "explanation": "Frequency = number of complete waves passing a point per second. Unit: hertz (Hz) = waves per second."
+    },
+    {
+      "id": 8,
+      "question": "A wave travels 12 m in 4 seconds. Its speed is:",
+      "options": [
+        "0.33 m/s",
+        "3.0 m/s",
+        "16 m/s",
+        "48 m/s"
+      ],
+      "correct": 1,
+      "explanation": "Speed = distance/time = 12 m ÷ 4 s = 3.0 m/s."
+    },
+    {
+      "id": 9,
+      "question": "Which statement about waves is always true?",
+      "options": [
+        "Waves transfer matter from one place to another",
+        "Waves transfer energy without transferring matter",
+        "All waves require a medium to propagate",
+        "Wave speed depends only on frequency"
+      ],
+      "correct": 1,
+      "explanation": "Waves transfer energy through oscillations; particles vibrate about fixed positions but do not travel with the wave."
+    },
+    {
+      "id": 10,
+      "question": "In a displacement-distance graph of a transverse wave, the horizontal axis represents:",
+      "options": [
+        "Time",
+        "Amplitude",
+        "Distance along the wave direction",
+        "Wave speed"
+      ],
+      "correct": 2,
+      "explanation": "Displacement-distance graphs show wave shape at an instant; horizontal axis = position/distance, vertical axis = displacement."
+    },
+    {
+      "id": 11,
+      "question": "A ripple tank shows circular waves spreading from a point source. The wavelength is measured as the distance between:",
+      "options": [
+        "Centre of one circle to centre of next circle",
+        "Edge of one circle to edge of next circle",
+        "Two consecutive crests (bright rings)",
+        "Centre to the first dark ring"
+      ],
+      "correct": 2,
+      "explanation": "Wavelength λ = distance between two consecutive similar points (e.g., crest-to-crest or trough-to-trough), visible as bright-to-bright rings in ripple tanks."
+    },
+    {
+      "id": 12,
+      "question": "If the frequency of a wave doubles while its speed remains constant, what happens to its wavelength?",
+      "options": [
+        "It doubles",
+        "It halves",
+        "It quadruples",
+        "It remains unchanged"
+      ],
+      "correct": 1,
+      "explanation": "From v = fλ, if v constant and f doubles, λ must halve to maintain equality."
+    },
+    {
+      "id": 13,
+      "question": "Which wave type can be demonstrated using a slinky spring stretched horizontally?",
+      "options": [
+        "Transverse waves only",
+        "Longitudinal waves only",
+        "Both transverse and longitudinal waves",
+        "Neither transverse nor longitudinal waves"
+      ],
+      "correct": 2,
+      "explanation": "A slinky can demonstrate transverse waves (side-to-side motion) and longitudinal waves (push-pull motion creating compressions)."
+    },
+    {
+      "id": 14,
+      "question": "The highest point of a transverse wave is called a:",
+      "options": [
+        "Trough",
+        "Compression",
+        "Crest",
+        "Rarefaction"
+      ],
+      "correct": 2,
+      "explanation": "Crest = highest point (maximum positive displacement). Trough = lowest point (maximum negative displacement)."
+    },
+    {
+      "id": 15,
+      "question": "A wave has wavelength 2.0 m and speed 10 m/s. What is its frequency?",
+      "options": [
+        "0.2 Hz",
+        "5.0 Hz",
+        "8.0 Hz",
+        "20 Hz"
+      ],
+      "correct": 1,
+      "explanation": "Using v = fλ → f = v/λ = 10 m/s ÷ 2.0 m = 5.0 Hz."
+    }
+  ]
+}

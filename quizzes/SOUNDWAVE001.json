@@ -1,0 +1,188 @@
+{
+  "quizTitle": "O-Level Physics: Properties of Sound Waves",
+  "quizCode": "SOUNDWAVE001",
+  "instructions": "Answer the following questions on sound wave properties, echo calculations, speed in different media, loudness and pitch. Choose the correct answer.",
+  "timeLimit": 900,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Sound waves are classified as longitudinal waves because:",
+      "options": [
+        "They travel faster than light",
+        "They require a vacuum to propagate",
+        "Air particles vibrate parallel to the direction of wave travel",
+        "They have crests and troughs"
+      ],
+      "correct": 2,
+      "explanation": "In sound waves, air molecules oscillate back-and-forth along the same direction the wave travels, creating compressions and rarefactions."
+    },
+    {
+      "id": 2,
+      "question": "A student stands 170 m from a cliff and hears an echo 1.0 second later. What is the speed of sound in air?",
+      "options": [
+        "85 m/s",
+        "170 m/s",
+        "340 m/s",
+        "680 m/s"
+      ],
+      "correct": 2,
+      "explanation": "Sound travels to cliff AND back: total distance = 2 × 170 m = 340 m. Speed = distance/time = 340 m ÷ 1.0 s = 340 m/s."
+    },
+    {
+      "id": 3,
+      "question": "In which medium does sound travel fastest at room temperature?",
+      "options": [
+        "Air",
+        "Water",
+        "Steel",
+        "Vacuum"
+      ],
+      "correct": 2,
+      "explanation": "Sound speed: solids > liquids > gases. Steel (solid) ≈ 5000 m/s, water ≈ 1500 m/s, air ≈ 340 m/s. Sound cannot travel in vacuum."
+    },
+    {
+      "id": 4,
+      "question": "Loudness of a sound is primarily determined by the wave's:",
+      "options": [
+        "Frequency",
+        "Wavelength",
+        "Amplitude",
+        "Speed"
+      ],
+      "correct": 2,
+      "explanation": "Greater amplitude = greater pressure variations = louder sound. Loudness is subjective perception of sound intensity."
+    },
+    {
+      "id": 5,
+      "question": "Pitch of a sound is related to which wave property?",
+      "options": [
+        "Amplitude",
+        "Wavelength",
+        "Frequency",
+        "Speed"
+      ],
+      "correct": 2,
+      "explanation": "Higher frequency → higher pitch (e.g., whistle). Lower frequency → lower pitch (e.g., drum)."
+    },
+    {
+      "id": 6,
+      "question": "An echo is heard 3.0 seconds after a shout. If sound speed is 340 m/s, how far is the reflecting surface?",
+      "options": [
+        "255 m",
+        "510 m",
+        "1020 m",
+        "2040 m"
+      ],
+      "correct": 1,
+      "explanation": "Total distance = speed × time = 340 m/s × 3.0 s = 1020 m. One-way distance = 1020 ÷ 2 = 510 m."
+    },
+    {
+      "id": 7,
+      "question": "Why does sound travel faster in warm air than in cold air?",
+      "options": [
+        "Warm air has higher density",
+        "Warm air molecules have higher average kinetic energy",
+        "Cold air absorbs sound energy",
+        "Warm air has lower pressure"
+      ],
+      "correct": 1,
+      "explanation": "Higher temperature → faster molecular motion → quicker transmission of vibrations → higher sound speed."
+    },
+    {
+      "id": 8,
+      "question": "A sound wave has frequency 440 Hz. What is its period?",
+      "options": [
+        "440 s",
+        "2.27 s",
+        "0.00227 s",
+        "0.440 s"
+      ],
+      "correct": 2,
+      "explanation": "Period T = 1/f = 1/440 ≈ 0.00227 s (or 2.27 ms). This is the time for one complete vibration cycle."
+    },
+    {
+      "id": 9,
+      "question": "Which statement about the human hearing range is correct?",
+      "options": [
+        "Humans hear frequencies from 20 Hz to 2000 Hz",
+        "Humans hear frequencies from 20 Hz to 20 000 Hz",
+        "Humans hear all frequencies equally well",
+        "Age does not affect hearing range"
+      ],
+      "correct": 1,
+      "explanation": "Typical human hearing range: 20 Hz (low pitch) to 20 000 Hz (high pitch). Sensitivity decreases with age, especially at high frequencies."
+    },
+    {
+      "id": 10,
+      "question": "Two sounds have the same pitch but different loudness. What differs between their waveforms?",
+      "options": [
+        "Frequency only",
+        "Wavelength only",
+        "Amplitude only",
+        "Speed only"
+      ],
+      "correct": 2,
+      "explanation": "Same pitch = same frequency. Different loudness = different amplitudes. Wave speed depends on medium, not source characteristics."
+    },
+    {
+      "id": 11,
+      "question": "Sound cannot travel through a vacuum because:",
+      "options": [
+        "Vacuum absorbs all sound energy",
+        "Sound waves are electromagnetic",
+        "There are no particles to vibrate and transmit energy",
+        "Vacuum has infinite density"
+      ],
+      "correct": 2,
+      "explanation": "Sound is a mechanical wave requiring particles to transfer vibrational energy. Vacuum has no matter → no sound propagation."
+    },
+    {
+      "id": 12,
+      "question": "A ship sends a sonar pulse that returns after 4 seconds. If sound speed in seawater is 1500 m/s, how deep is the sea floor?",
+      "options": [
+        "1500 m",
+        "3000 m",
+        "6000 m",
+        "12 000 m"
+      ],
+      "correct": 1,
+      "explanation": "Total distance = 1500 m/s × 4 s = 6000 m. Depth (one-way) = 6000 ÷ 2 = 3000 m."
+    },
+    {
+      "id": 13,
+      "question": "Compared to air at 0°C, sound travels faster in air at 20°C because:",
+      "options": [
+        "Air density increases with temperature",
+        "Air molecules move more slowly at higher temperatures",
+        "Air molecules move more rapidly at higher temperatures",
+        "Humidity decreases at higher temperatures"
+      ],
+      "correct": 2,
+      "explanation": "Higher temperature → greater molecular kinetic energy → faster collision rate → quicker energy transfer → higher sound speed."
+    },
+    {
+      "id": 14,
+      "question": "Which factor does NOT affect the speed of sound in a gas?",
+      "options": [
+        "Temperature",
+        "Density of the gas",
+        "Amplitude of the sound wave",
+        "Molecular mass of the gas"
+      ],
+      "correct": 2,
+      "explanation": "Sound speed in gases depends on temperature, density and molecular properties—but NOT on amplitude or frequency of the sound itself."
+    },
+    {
+      "id": 15,
+      "question": "A high-pitched sound and a low-pitched sound travel through the same medium. Which statement is true?",
+      "options": [
+        "The high-pitched sound travels faster",
+        "The low-pitched sound travels faster",
+        "Both travel at the same speed",
+        "Speed depends on loudness, not pitch"
+      ],
+      "correct": 2,
+      "explanation": "In a given medium, sound speed is independent of frequency/pitch and amplitude/loudness. All sound frequencies travel at the same speed."
+    }
+  ]
+}
