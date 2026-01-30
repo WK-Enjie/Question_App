@@ -1,0 +1,188 @@
+{
+  "quizTitle": "Secondary 1 Science: Scientific Investigation Skills",
+  "quizCode": "SCISKILLSS1001",
+  "instructions": "Answer all questions about data types, measurement errors, variables, and reliability. Choose the best answer.",
+  "timeLimit": 900,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which is an example of qualitative data?",
+      "options": [
+        "The plant grew 5.2 cm",
+        "The liquid is blue and smells sweet",
+        "Temperature = 28°C",
+        "Reaction time = 1.4 seconds"
+      ],
+      "correct": 1,
+      "explanation": "Qualitative data describes qualities using words (colour, smell, texture). Quantitative data uses numbers and measurements."
+    },
+    {
+      "id": 2,
+      "question": "Measuring the exact height of a plant in centimetres gives:",
+      "options": [
+        "Qualitative data",
+        "Subjective data",
+        "Quantitative data",
+        "Opinion-based data"
+      ],
+      "correct": 2,
+      "explanation": "Quantitative data involves numerical measurements that can be counted or measured objectively."
+    },
+    {
+      "id": 3,
+      "question": "A digital balance shows 0.4 g when the pan is empty. This is:",
+      "options": [
+        "Parallax error",
+        "Human error",
+        "Zero error",
+        "Random error"
+      ],
+      "correct": 2,
+      "explanation": "Zero error occurs when an instrument does not read zero when nothing is being measured. Always check and correct for zero error before taking measurements."
+    },
+    {
+      "id": 4,
+      "question": "Parallax error happens when you:",
+      "options": [
+        "Use a broken ruler",
+        "Read a measuring cylinder from an angle instead of eye level",
+        "Forget to zero the balance",
+        "Measure too quickly"
+      ],
+      "correct": 1,
+      "explanation": "Always position your eye level with the scale (e.g., bottom of meniscus in liquids) to avoid parallax error."
+    },
+    {
+      "id": 5,
+      "question": "In an experiment testing how fertilizer affects plant height, the plant height is the:",
+      "options": [
+        "Independent variable",
+        "Controlled variable",
+        "Dependent variable",
+        "Unreliable variable"
+      ],
+      "correct": 2,
+      "explanation": "The dependent variable is what you measure (plant height). The independent variable is what you change (fertilizer amount)."
+    },
+    {
+      "id": 6,
+      "question": "To make a test fair when testing ramp steepness on toy car speed, you must keep these the SAME:",
+      "options": [
+        "Ramp steepness only",
+        "Car type, ramp surface, starting point",
+        "Only the stopwatch used",
+        "Room temperature only"
+      ],
+      "correct": 1,
+      "explanation": "Controlled variables (like car type, surface) must stay constant so only the independent variable (steepness) affects results."
+    },
+    {
+      "id": 7,
+      "question": "Reliability of results is improved by:",
+      "options": [
+        "Doing the experiment once carefully",
+        "Changing two variables at the same time",
+        "Repeating trials and calculating the average",
+        "Using the most expensive equipment"
+      ],
+      "correct": 2,
+      "explanation": "Repeating experiments reduces random errors. Reliable results are consistent across multiple trials."
+    },
+    {
+      "id": 8,
+      "question": "A student measures the mass of a 50.0 g standard weight three times and gets: 48.2 g, 48.3 g, 48.1 g. These measurements are:",
+      "options": [
+        "Precise and accurate",
+        "Precise but not accurate",
+        "Accurate but not precise",
+        "Neither precise nor accurate"
+      ],
+      "correct": 1,
+      "explanation": "The measurements are close to each other (precise) but far from the true value of 50.0 g (not accurate). This suggests a systematic error like zero error."
+    },
+    {
+      "id": 9,
+      "question": "The same 50.0 g weight is measured by another student who gets: 49.8 g, 50.3 g, 50.1 g. These measurements are:",
+      "options": [
+        "Precise and accurate",
+        "Precise but not accurate",
+        "Accurate but not precise",
+        "Neither precise nor accurate"
+      ],
+      "correct": 0,
+      "explanation": "Measurements are close to each other (precise) AND close to 50.0 g (accurate). The average (50.1 g) is very near the true value."
+    },
+    {
+      "id": 10,
+      "question": "A ruler shows 2 mm at the 'zero' end when its ends are aligned. Before measuring, you should:",
+      "options": [
+        "Ignore it – it's small",
+        "Subtract 2 mm from all readings",
+        "Add 2 mm to all readings",
+        "Use only the middle part of the ruler"
+      ],
+      "correct": 1,
+      "explanation": "This is zero error. If the ruler starts at 2 mm instead of 0 mm, subtract 2 mm from every measurement to get the true length."
+    },
+    {
+      "id": 11,
+      "question": "Reading the meniscus of water in a measuring cylinder from above causes:",
+      "options": [
+        "Zero error",
+        "Parallax error giving a higher volume reading",
+        "Parallax error giving a lower volume reading",
+        "No error if you estimate carefully"
+      ],
+      "correct": 1,
+      "explanation": "Viewing from above makes the meniscus appear higher, leading to an overestimation of volume. Always read at eye level with the bottom of the meniscus."
+    },
+    {
+      "id": 12,
+      "question": "Student A measures a 10.0 cm object five times and gets: 9.2 cm, 10.8 cm, 8.9 cm, 11.1 cm, 10.0 cm. Student B gets: 9.4 cm, 9.5 cm, 9.3 cm, 9.4 cm, 9.5 cm. Which statement is TRUE?",
+      "options": [
+        "Student A is more precise",
+        "Student B is more precise but less accurate",
+        "Student A is more accurate",
+        "Both students are equally precise"
+      ],
+      "correct": 1,
+      "explanation": "Student B's measurements are very close to each other (precise) but average to 9.4 cm (not accurate). Student A's measurements are scattered (not precise) but average to 10.0 cm (accurate)."
+    },
+    {
+      "id": 13,
+      "question": "Three groups measure the boiling point of water (true value = 100°C at sea level):\nGroup X: 100.1°C, 100.2°C, 100.0°C\nGroup Y: 98.5°C, 98.6°C, 98.4°C\nGroup Z: 95.0°C, 102.0°C, 103.0°C\nWhich group has the MOST RELIABLE results?",
+      "options": [
+        "Group X",
+        "Group Y",
+        "Group Z",
+        "All groups are equally reliable"
+      ],
+      "correct": 0,
+      "explanation": "Reliability = consistency across repeated trials. Group X has the smallest spread (most consistent), so most reliable. Group Y is precise but inaccurate (systematic error). Group Z is neither precise nor accurate."
+    },
+    {
+      "id": 14,
+      "question": "Which action improves the accuracy of measuring liquid volume?",
+      "options": [
+        "Repeating the measurement 5 times",
+        "Reading the meniscus at eye level",
+        "Using a beaker instead of a measuring cylinder",
+        "Working quickly to avoid evaporation"
+      ],
+      "correct": 1,
+      "explanation": "Reading at eye level eliminates parallax error, improving accuracy. Repeating improves reliability/precision, not accuracy. Beakers are less accurate than measuring cylinders."
+    },
+    {
+      "id": 15,
+      "question": "Recording 'the solution felt warm' is:",
+      "options": [
+        "Quantitative data",
+        "Precise data",
+        "Qualitative data",
+        "Highly accurate data"
+      ],
+      "correct": 2,
+      "explanation": "Describing sensations (warm, colour, smell) is qualitative. For quantitative: 'Temperature rose by 12°C'."
+    }
+  ]
+}

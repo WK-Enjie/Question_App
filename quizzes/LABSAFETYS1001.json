@@ -1,0 +1,188 @@
+{
+  "quizTitle": "Secondary 1 Science: Laboratory Safety & Hazard Symbols",
+  "quizCode": "LABSAFETYS1001",
+  "instructions": "Answer all questions about lab safety rules, GHS hazard symbols, and Bunsen burner use. Choose the safest/correct answer.",
+  "timeLimit": 900,
+  "questions": [
+    {
+      "id": 1,
+      "question": "What should you always do before starting any experiment?",
+      "options": [
+        "Tie long hair back and wear safety goggles",
+        "Ask a friend to watch your bag",
+        "Start heating chemicals immediately",
+        "Skip reading the procedure to save time"
+      ],
+      "correct": 0,
+      "explanation": "Safety first! Goggles protect eyes. Tied hair prevents fire/contact hazards. Always read instructions first."
+    },
+    {
+      "id": 2,
+      "question": "If you spill a chemical on your skin, you should:",
+      "options": [
+        "Wipe it off with your sleeve",
+        "Rinse immediately under running water for 15+ minutes",
+        "Wait to see if it stings",
+        "Tell the teacher tomorrow"
+      ],
+      "correct": 1,
+      "explanation": "Flush spills immediately with water. Report to teacher right away – even if it seems minor!"
+    },
+    {
+      "id": 3,
+      "question": "A symbol showing a skull and crossbones (☠️) means the chemical is:",
+      "options": [
+        "Flammable",
+        "Corrosive",
+        "Toxic (can cause death if swallowed/inhaled)",
+        "An environmental hazard"
+      ],
+      "correct": 2,
+      "explanation": "☠️ Skull = ACUTE TOXICITY. Even small amounts can be deadly. Never taste chemicals. Use in fume hood with gloves/goggles."
+    },
+    {
+      "id": 4,
+      "question": "A symbol with a flame (🔥) means the substance is:",
+      "options": [
+        "Corrosive",
+        "Toxic",
+        "Flammable (catches fire easily)",
+        "Harmful to aquatic life"
+      ],
+      "correct": 2,
+      "explanation": "🔥 Flame = FLAMMABLE. Keep away from flames, sparks, or heat sources (e.g., ethanol, acetone, petrol)."
+    },
+    {
+      "id": 5,
+      "question": "A symbol showing liquid dripping onto a hand and surface (⚠️ with corrosion) means the chemical is:",
+      "options": [
+        "Toxic",
+        "Flammable",
+        "Corrosive (burns skin/eyes, damages surfaces)",
+        "An irritant only"
+      ],
+      "correct": 2,
+      "explanation": "⚠️ Corrosive chemicals (e.g., sulfuric acid, sodium hydroxide) cause severe burns. ALWAYS wear gloves and goggles!"
+    },
+    {
+      "id": 6,
+      "question": "A symbol showing a dead fish and a dead tree (🌲🐟) means the chemical is:",
+      "options": [
+        "Flammable",
+        "Toxic to humans only",
+        "Harmful to the environment (aquatic toxicity)",
+        "An aspiration hazard"
+      ],
+      "correct": 2,
+      "explanation": "🌲🐟 Environmental hazard = harms rivers, fish, plants. NEVER pour chemicals down the sink. Dispose as directed by teacher."
+    },
+    {
+      "id": 7,
+      "question": "A symbol with an exclamation mark (❗) often means the chemical can:",
+      "options": [
+        "Explode violently",
+        "Cause skin/eye irritation or drowsiness",
+        "Burn through metal",
+        "Kill instantly if touched"
+      ],
+      "correct": 1,
+      "explanation": "❗ Exclamation mark = IRRITANT or mild hazard. May cause itchy skin, red eyes, or headache. Still requires care—wear gloves/goggles."
+    },
+    {
+      "id": 8,
+      "question": "An 'aspiration hazard' means a liquid could:",
+      "options": [
+        "Catch fire if spilled",
+        "Be absorbed through skin easily",
+        "Enter lungs if vomited/swallowed, causing severe damage",
+        "Evaporate instantly at room temperature"
+      ],
+      "correct": 2,
+      "explanation": "Aspiration hazard = if swallowed/vomited, liquid enters lungs (not stomach), causing chemical pneumonia. Examples: some oils, solvents. NEVER induce vomiting—seek help immediately."
+    },
+    {
+      "id": 9,
+      "question": "Which part of the Bunsen burner controls air flow?",
+      "options": [
+        "Gas tap",
+        "Rubber tubing",
+        "Collar (with air holes)",
+        "Base"
+      ],
+      "correct": 2,
+      "explanation": "Rotating the collar opens/closes air holes. More air = hotter blue flame. Less air = cooler yellow flame."
+    },
+    {
+      "id": 10,
+      "question": "Before lighting a Bunsen burner, you should:",
+      "options": [
+        "Open air holes fully",
+        "Close air holes, then light, then adjust",
+        "Light it first, then connect tubing",
+        "Turn gas tap to maximum"
+      ],
+      "correct": 1,
+      "explanation": "SAFETY STEP: Close air holes → light match → turn on gas → light burner → adjust air holes. Prevents 'strike-back' (flame shooting back into barrel)!"
+    },
+    {
+      "id": 11,
+      "question": "If your Bunsen burner flame goes out accidentally, you should:",
+      "options": [
+        "Relight it immediately",
+        "Turn off gas tap, wait 30 seconds, then relight",
+        "Blow on the barrel to clear gas",
+        "Continue the experiment without flame"
+      ],
+      "correct": 1,
+      "explanation": "Gas may accumulate! Turn off gas → wait for gas to disperse → relight safely. Prevents fire/explosion risk."
+    },
+    {
+      "id": 12,
+      "question": "Which two hazard symbols BOTH require you to wear safety goggles?",
+      "options": [
+        "Flammable and environmental hazard",
+        "Irritant (❗) and corrosive",
+        "Toxic and aspiration hazard",
+        "All hazard symbols require eye protection"
+      ],
+      "correct": 3,
+      "explanation": "✅ ALWAYS wear goggles in lab—regardless of hazard type. Splashes, fumes, or flying particles can harm eyes with ANY chemical."
+    },
+    {
+      "id": 13,
+      "question": "The base of the Bunsen burner is important because it:",
+      "options": [
+        "Produces the flame",
+        "Controls gas flow",
+        "Provides stability to prevent tipping",
+        "Filters impurities from gas"
+      ],
+      "correct": 2,
+      "explanation": "Heavy metal base keeps burner stable. Never place near edge of bench—knocking it over causes fire!"
+    },
+    {
+      "id": 14,
+      "question": "Long hair or loose clothing near a Bunsen burner is dangerous because:",
+      "options": [
+        "It looks untidy",
+        "It could catch fire",
+        "It blocks the flame colour",
+        "It makes lighting harder"
+      ],
+      "correct": 1,
+      "explanation": "🔥 FIRE HAZARD! Tie back long hair, secure loose sleeves/jewellery. Safety goggles must be worn at all times near flames."
+    },
+    {
+      "id": 15,
+      "question": "After finishing an experiment with chemicals, you should:",
+      "options": [
+        "Pour leftovers down the sink",
+        "Leave equipment for the next class",
+        "Dispose of waste in labelled containers as instructed",
+        "Take interesting chemicals home to show family"
+      ],
+      "correct": 2,
+      "explanation": "✅ NEVER pour chemicals down sink (environmental hazard!). ✅ NEVER take chemicals home. ✅ ALWAYS follow teacher's disposal instructions."
+    }
+  ]
+}
