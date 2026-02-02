@@ -93,7 +93,7 @@
       "question": "Which statement about bond energies is correct?",
       "options": [
         "Bond breaking is exothermic",
-        "Stronger bonds have lower bond energies",
+        "All single bonds have the same bond energy",
         "Bond making releases energy",
         "ΔH is positive when bonds are formed"
       ],
@@ -164,13 +164,13 @@
       "id": 14,
       "question": "What is ΔH for the reaction if bond energies: C–H = 413, O=O = 498, C=O = 799, O–H = 463 kJ/mol? (CH₄ + 2O₂ → CO₂ + 2H₂O)",
       "options": [
-        "-808 kJ",
-        "+808 kJ",
+        "-802 kJ",
+        "+802 kJ",
         "-404 kJ",
         "+404 kJ"
       ],
       "correct": 0,
-      "explanation": "Bonds broken: 4×C–H (1652) + 2×O=O (996) = 2648 kJ. Bonds formed: 2×C=O (1598) + 4×O–H (1852) = 3450 kJ. ΔH = 2648 – 3450 = -802 kJ ≈ -808 kJ (depending on rounding of bond energy values). The closest option is -808 kJ."
+      "explanation": "Bonds broken: 4×C–H (1652) + 2×O=O (996) = 2648 kJ. Bonds formed: 2×C=O (1598) + 4×O–H (1852) = 3450 kJ. ΔH = 2648 – 3450 = -802 kJ (exothermic)."
     },
     {
       "id": 15,
