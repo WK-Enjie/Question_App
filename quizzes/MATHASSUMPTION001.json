@@ -1,0 +1,128 @@
+{
+  "quizTitle": "Primary 5 Math: Assumption Method",
+  "quizCode": "MATHASSUMPTION001",
+  "instructions": "Solve these word problems using the Assumption Method. Follow these steps:\n1. Assume ALL items are of one type.\n2. Calculate the total based on your assumption.\n3. Find the difference between your assumed total and the actual total.\n4. Find the difference per item when switching types.\n5. Divide to find how many items need to be switched.",
+  "timeLimit": 1200,
+  "questions": [
+    {
+      "id": 1,
+      "question": "A farmer counts 26 heads and 80 legs among his chickens and goats. How many goats does he have?",
+      "options": [
+        "12 goats",
+        "14 goats",
+        "16 goats", 
+        "18 goats"
+      ],
+      "correct": 1,
+      "explanation": "Step 1: Assume all 26 are chickens (2 legs each).\nStep 2: Total legs = 26 × 2 = 52 legs.\nStep 3: Difference from actual = 80 - 52 = 28 extra legs needed.\nStep 4: Each goat has 2 more legs than a chicken (4-2=2).\nStep 5: Number of goats = 28 ÷ 2 = 14 goats.\nCheck: 14 goats + 12 chickens = 26 heads, (14×4)+(12×2)=56+24=80 legs ✓"
+    },
+    {
+      "id": 2,
+      "question": "Sarah has 50 coins worth $6.50. She only has 20¢ and 10¢ coins. How many 20¢ coins does she have?",
+      "options": [
+        "15",
+        "20",
+        "25",
+        "30"
+      ],
+      "correct": 0,
+      "explanation": "Step 1: Assume all 50 are 10¢ coins.\nStep 2: Total value = 50 × $0.10 = $5.00.\nStep 3: Difference from actual = $6.50 - $5.00 = $1.50 extra needed.\nStep 4: Each 20¢ coin gives $0.10 more than a 10¢ coin ($0.20-$0.10=$0.10).\nStep 5: Number of 20¢ coins = $1.50 ÷ $0.10 = 15 coins.\nCheck: 15×$0.20 + 35×$0.10 = $3.00 + $3.50 = $6.50 ✓"
+    },
+    {
+      "id": 3,
+      "question": "In a test, correct answers score 5 points, wrong answers lose 2 points. John answered all 20 questions and scored 58 points. How many questions did he answer correctly?",
+      "options": [
+        "12",
+        "14",
+        "16",
+        "18"
+      ],
+      "correct": 1,
+      "explanation": "Step 1: Assume all 20 are correct (5 points each).\nStep 2: Total points = 20 × 5 = 100 points.\nStep 3: Difference from actual = 100 - 58 = 42 points too many.\nStep 4: Switching a correct to wrong loses 7 points (5 - (-2) = 7).\nStep 5: Number of wrong answers = 42 ÷ 7 = 6.\nStep 6: Number correct = 20 - 6 = 14.\nCheck: 14 correct (70 points), 6 wrong (-12 points) = 58 points ✓"
+    },
+    {
+      "id": 4,
+      "question": "Box A holds 8 pencils, Box B holds 5 pencils. There are 17 boxes containing a total of 112 pencils. How many Box B are there?",
+      "options": [
+        "5 boxes",
+        "6 boxes",
+        "7 boxes",
+        "8 boxes"
+      ],
+      "correct": 3,
+      "explanation": "Step 1: Assume all 17 are Box A (8 pencils each).\nStep 2: Total pencils = 17 × 8 = 136 pencils.\nStep 3: Difference from actual = 136 - 112 = 24 pencils too many.\nStep 4: Switching Box A to Box B reduces by 3 pencils (8-5=3).\nStep 5: Number of Box B = 24 ÷ 3 = 8 boxes.\nCheck: 8 Box B (40 pencils) + 9 Box A (72 pencils) = 112 pencils ✓"
+    },
+    {
+      "id": 5,
+      "question": "Tickets for adults cost $12, children cost $8. A family spent $100 on 10 tickets. How many children are in the family?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correct": 2,
+      "explanation": "Step 1: Assume all 10 are adults ($12 each).\nStep 2: Total cost = 10 × $12 = $120.\nStep 3: Difference from actual = $120 - $100 = $20 too much.\nStep 4: Switching adult to child saves $4 ($12-$8=$4).\nStep 5: Number of children = $20 ÷ $4 = 5 children.\nCheck: 5 children ($40) + 5 adults ($60) = $100 ✓"
+    },
+    {
+      "id": 6,
+      "question": "Bicycles have 2 wheels, tricycles have 3 wheels. There are 15 bicycles and tricycles with 36 wheels altogether. How many tricycles are there?",
+      "options": [
+        "4",
+        "6",
+        "8",
+        "10"
+      ],
+      "correct": 1,
+      "explanation": "Step 1: Assume all 15 are bicycles (2 wheels each).\nStep 2: Total wheels = 15 × 2 = 30 wheels.\nStep 3: Difference from actual = 36 - 30 = 6 wheels too few.\nStep 4: Switching bicycle to tricycle adds 1 wheel (3-2=1).\nStep 5: Number of tricycles = 6 ÷ 1 = 6 tricycles.\nCheck: 6 tricycles (18 wheels) + 9 bicycles (18 wheels) = 36 wheels ✓"
+    },
+    {
+      "id": 7,
+      "question": "Small bags hold 4 marbles, large bags hold 7 marbles. There are 12 bags with 69 marbles. How many large bags are there?",
+      "options": [
+        "3",
+        "5",
+        "7",
+        "9"
+      ],
+      "correct": 2,
+      "explanation": "Step 1: Assume all 12 are small bags (4 marbles each).\nStep 2: Total marbles = 12 × 4 = 48 marbles.\nStep 3: Difference from actual = 69 - 48 = 21 marbles too few.\nStep 4: Switching small to large adds 3 marbles (7-4=3).\nStep 5: Number of large bags = 21 ÷ 3 = 7 large bags.\nCheck: 7 large (49 marbles) + 5 small (20 marbles) = 69 marbles ✓"
+    },
+    {
+      "id": 8,
+      "question": "Ali saves $2 coins and $5 notes in his piggy bank. He has 30 coins/notes worth $108. How many $5 notes does he have?",
+      "options": [
+        "12",
+        "14",
+        "16",
+        "18"
+      ],
+      "correct": 2,
+      "explanation": "Step 1: Assume all 30 are $2 coins.\nStep 2: Total value = 30 × $2 = $60.\nStep 3: Difference from actual = $108 - $60 = $48 extra needed.\nStep 4: Switching $2 coin to $5 note adds $3 ($5-$2=$3).\nStep 5: Number of $5 notes = $48 ÷ $3 = 16 notes.\nCheck: 16×$5 + 14×$2 = $80 + $28 = $108 ✓"
+    },
+    {
+      "id": 9,
+      "question": "A test gives 4 points for correct, -1 for wrong. Lisa answered all 20 questions and scored 65 points. How many did she answer correctly?",
+      "options": [
+        "15",
+        "16",
+        "17",
+        "18"
+      ],
+      "correct": 2,
+      "explanation": "Step 1: Assume all 20 are correct (4 points each).\nStep 2: Total points = 20 × 4 = 80 points.\nStep 3: Difference from actual = 80 - 65 = 15 points too many.\nStep 4: Switching correct to wrong loses 5 points (4 - (-1) = 5).\nStep 5: Number of wrong answers = 15 ÷ 5 = 3.\nStep 6: Number correct = 20 - 3 = 17.\nCheck: 17 correct (68 points), 3 wrong (-3 points) = 65 points ✓"
+    },
+    {
+      "id": 10,
+      "question": "Mr. Tan bought 15 shirts and pants for $510. Shirts cost $30 each, pants cost $40 each. How many pants did he buy?",
+      "options": [
+        "4 pants",
+        "6 pants",
+        "8 pants",
+        "10 pants"
+      ],
+      "correct": 1,
+      "explanation": "Step 1: Assume all 15 are shirts ($30 each).\nStep 2: Total cost = 15 × $30 = $450.\nStep 3: Difference from actual = $510 - $450 = $60 extra needed.\nStep 4: Switching shirt to pant adds $10 ($40-$30=$10).\nStep 5: Number of pants = $60 ÷ $10 = 6 pants.\nCheck: 6 pants ($240) + 9 shirts ($270) = $510 ✓"
+    }
+  ]
+}

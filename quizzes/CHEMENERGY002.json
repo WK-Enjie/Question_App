@@ -1,0 +1,188 @@
+{
+  "quizTitle": "O-Level Pure Chemistry: Energy Changes – Catalysts & Mass Calculations",
+  "quizCode": "CHEMENERGY002",
+  "instructions": "Answer the following questions on enthalpy changes, catalysts, bond energies, and energy calculations involving mass. Choose the correct answer.",
+  "timeLimit": 900,
+  "questions": [
+    {
+      "id": 1,
+      "question": "A catalyst affects a reaction by:",
+      "options": [
+        "Making ΔH more negative",
+        "Increasing the energy of products",
+        "Lowering the activation energy",
+        "Changing the overall enthalpy change"
+      ],
+      "correct": 2,
+      "explanation": "Catalysts provide an alternative reaction pathway with lower activation energy. They do NOT change ΔH or the relative energies of reactants/products."
+    },
+    {
+      "id": 2,
+      "question": "In an energy profile diagram, adding a catalyst will:",
+      "options": [
+        "Raise the peak of the curve",
+        "Lower the peak but keep reactant/product levels unchanged",
+        "Lower the energy of the products",
+        "Make ΔH more exothermic"
+      ],
+      "correct": 1,
+      "explanation": "Catalysts lower the activation energy barrier (peak height) but do not alter the starting (reactants) or ending (products) energy levels, so ΔH remains unchanged."
+    },
+    {
+      "id": 3,
+      "question": "2.0 g of ethanol (C₂H₅OH) is completely combusted. If the enthalpy of combustion is −1370 kJ/mol, how much energy is released? (M_r of ethanol = 46)",
+      "options": [
+        "−29.8 kJ",
+        "−59.6 kJ",
+        "−1370 kJ",
+        "−2740 kJ"
+      ],
+      "correct": 1,
+      "explanation": "Moles of ethanol = 2.0 g ÷ 46 g/mol = 0.0435 mol. Energy released = 0.0435 mol × 1370 kJ/mol = 59.6 kJ. Negative sign indicates exothermic release."
+    },
+    {
+      "id": 4,
+      "question": "During an exothermic reaction in an open beaker, the temperature of the surroundings will:",
+      "options": [
+        "Increase",
+        "Decrease",
+        "Remain constant",
+        "First decrease then increase"
+      ],
+      "correct": 0,
+      "explanation": "Exothermic reactions release heat to the surroundings. In an open system, this causes the temperature of the surroundings (e.g., air, container) to increase."
+    },
+    {
+      "id": 5,
+      "question": "Which statement about catalysts is FALSE?",
+      "options": [
+        "They increase reaction rate",
+        "They are not consumed in the reaction",
+        "They make endothermic reactions exothermic",
+        "They lower activation energy"
+      ],
+      "correct": 2,
+      "explanation": "Catalysts do NOT change the thermodynamics (ΔH) of a reaction. An endothermic reaction remains endothermic; a catalyst only speeds up how fast equilibrium is reached."
+    },
+    {
+      "id": 6,
+      "question": "The combustion of methane has ΔH = −890 kJ/mol. How much energy is released when 8.0 g of methane burns completely? (M_r CH₄ = 16)",
+      "options": [
+        "−223 kJ",
+        "−445 kJ",
+        "−890 kJ",
+        "−1780 kJ"
+      ],
+      "correct": 1,
+      "explanation": "Moles of methane = 8.0 g ÷ 16 g/mol = 0.50 mol. Energy released = 0.50 mol × 890 kJ/mol = 445 kJ (exothermic, so negative sign implied)."
+    },
+    {
+      "id": 7,
+      "question": "An endothermic reaction feels cold to the touch because:",
+      "options": [
+        "It releases cold energy",
+        "It absorbs thermal energy from your hand",
+        "Its products have zero energy",
+        "The activation energy is very high"
+      ],
+      "correct": 1,
+      "explanation": "Endothermic reactions absorb heat from their surroundings. When you touch the container, heat flows from your hand into the reaction mixture, making it feel cold."
+    },
+    {
+      "id": 8,
+      "question": "What happens to ΔH when a catalyst is added to an exothermic reaction?",
+      "options": [
+        "Becomes more negative",
+        "Becomes less negative",
+        "Remains unchanged",
+        "Becomes positive"
+      ],
+      "correct": 2,
+      "explanation": "ΔH is a state function depending only on initial and final states. Catalysts affect kinetics (reaction pathway) but not thermodynamics (ΔH value)."
+    },
+    {
+      "id": 9,
+      "question": "1.6 g of methane (CH₄, M_r = 16) is burned completely. If ΔH_comb = −890 kJ/mol, what is the energy change?",
+      "options": [
+        "−89 kJ",
+        "−178 kJ",
+        "−445 kJ",
+        "−890 kJ"
+      ],
+      "correct": 0,
+      "explanation": "Moles of methane = 1.6 g ÷ 16 g/mol = 0.10 mol. Energy released = 0.10 mol × 890 kJ/mol = 89 kJ (exothermic, so ΔH = −89 kJ)."
+    },
+    {
+      "id": 10,
+      "question": "Which statement correctly describes the effect of a catalyst on an energy profile diagram?",
+      "options": [
+        "It lowers both reactant and product energy levels equally",
+        "It creates a new pathway with a lower 'hill' between reactants and products",
+        "It shifts the entire curve downward",
+        "It eliminates the activation energy barrier completely"
+      ],
+      "correct": 1,
+      "explanation": "Catalysts provide an alternative reaction mechanism with a lower activation energy barrier (smaller 'hill'), but reactant/product energy levels—and therefore ΔH—remain identical."
+    },
+    {
+      "id": 11,
+      "question": "The enthalpy of neutralisation for strong acid + strong alkali is −57 kJ/mol of water formed. What energy change occurs when 0.040 mol of HCl reacts completely with NaOH?",
+      "options": [
+        "−1.14 kJ",
+        "−2.28 kJ",
+        "−5.70 kJ",
+        "−11.4 kJ"
+      ],
+      "correct": 1,
+      "explanation": "0.040 mol HCl produces 0.040 mol water. Energy change = 0.040 mol × 57 kJ/mol = 2.28 kJ released (exothermic, so negative)."
+    },
+    {
+      "id": 12,
+      "question": "A reaction has ΔH = +90 kJ/mol. When 6.8 g of reactant (M_r = 34) decomposes completely, what is the energy change?",
+      "options": [
+        "+9.0 kJ",
+        "+18 kJ",
+        "+90 kJ",
+        "+180 kJ"
+      ],
+      "correct": 1,
+      "explanation": "Moles = 6.8 g ÷ 34 g/mol = 0.20 mol. Energy absorbed = 0.20 mol × 90 kJ/mol = 18 kJ. Positive ΔH means endothermic (energy absorbed)."
+    },
+    {
+      "id": 13,
+      "question": "Which process would feel warm/hot to the touch?",
+      "options": [
+        "Dissolving ammonium nitrate in water",
+        "Photosynthesis in leaves",
+        "Burning magnesium ribbon",
+        "Evaporation of ethanol"
+      ],
+      "correct": 2,
+      "explanation": "Burning magnesium is highly exothermic (ΔH very negative), releasing large amounts of heat to surroundings → feels hot. The other options are endothermic processes that feel cold."
+    },
+    {
+      "id": 14,
+      "question": "2.4 g of carbon (M_r = 12) is burned completely. If ΔH_comb = −394 kJ/mol, what is the energy change?",
+      "options": [
+        "−78.8 kJ",
+        "−157.6 kJ",
+        "−394 kJ",
+        "−788 kJ"
+      ],
+      "correct": 0,
+      "explanation": "Moles C = 2.4 g ÷ 12 g/mol = 0.20 mol. Energy released = 0.20 mol × 394 kJ/mol = 78.8 kJ (exothermic, so ΔH = −78.8 kJ)."
+    },
+    {
+      "id": 15,
+      "question": "Why might a highly exothermic reaction (large negative ΔH) still require heating to start?",
+      "options": [
+        "ΔH becomes positive when heated",
+        "The reaction has a high activation energy barrier",
+        "Catalysts are always needed for exothermic reactions",
+        "Heat is needed to make ΔH more negative"
+      ],
+      "correct": 1,
+      "explanation": "Even highly exothermic reactions may have a large activation energy barrier that must be overcome for bonds to break and rearrange. Initial heating provides this energy; once started, the reaction sustains itself by releasing heat."
+    }
+  ]
+}

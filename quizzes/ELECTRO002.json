@@ -1,128 +1,140 @@
 {
-  "quizTitle": "O-Level Chemistry: Electrolysis & Electroplating",
+  "quizTitle": "O-Level Chemistry: Electrolysis, Electroplating & Electrode Types",
   "quizCode": "ELECTRO002",
-  "instructions": "Answer all questions on electrolysis and electroplating.",
-  "timeLimit": 600,
+  "instructions": "Answer all questions on electrolysis and electroplating. Pay attention to whether electrodes are inert (e.g., graphite) or reactive (e.g., metal electrodes that participate in reactions). No calculations required.",
+  "timeLimit": 660,
   "questions": [
     {
       "id": 1,
-      "question": "What is electroplating?",
+      "question": "In the electrolysis of copper(II) sulfate using REACTIVE copper electrodes, what happens to the mass of the anode and cathode?",
       "options": [
-        "Using electricity to coat an object with a metal",
-        "Extracting metals from ores",
-        "Producing electricity from chemical reactions",
-        "Splitting water into hydrogen and oxygen"
+        "Anode gains mass; cathode loses mass",
+        "Both electrodes gain mass",
+        "Anode loses mass; cathode gains an equal mass",
+        "Both electrodes lose mass"
       ],
-      "correct": 0,
-      "explanation": "Electroplating uses electrolysis to deposit a thin layer of metal onto an object (e.g., silver-plating cutlery)."
+      "correct": 2,
+      "explanation": "Reactive copper anode dissolves: Cu → Cu²⁺ + 2e⁻ (mass decreases). Same Cu²⁺ ions deposit at cathode: Cu²⁺ + 2e⁻ → Cu (mass increases by same amount). Total copper in system remains constant."
     },
     {
       "id": 2,
-      "question": "In silver plating, the object to be plated is placed at the:",
+      "question": "Which statement correctly describes the relationship between electroplating and sacrificial protection?",
       "options": [
-        "Cathode",
-        "Anode",
-        "Both electrodes",
-        "Not connected to circuit"
+        "All electroplating provides sacrificial protection against corrosion",
+        "Chromium plating on steel provides sacrificial protection because chromium is more reactive than iron",
+        "Sacrificial protection requires an external power source like electroplating",
+        "Zinc coating on iron (galvanising) is sacrificial protection; chromium plating is barrier protection only"
       ],
-      "correct": 0,
-      "explanation": "The object to be plated is made the cathode, so positive metal ions (Ag⁺) are attracted and reduced onto it."
+      "correct": 3,
+      "explanation": "Zinc is MORE reactive than iron → oxidizes preferentially (sacrificial protection). Chromium is LESS reactive than iron → only provides barrier protection; if scratched, iron corrodes faster as it becomes the anode relative to chromium."
     },
     {
       "id": 3,
-      "question": "In copper refining, impure copper is made the:",
+      "question": "When INERT graphite electrodes are used to electrolyse concentrated sodium chloride solution, what is produced at the anode?",
       "options": [
-        "Anode",
-        "Cathode",
-        "Electrolyte",
-        "Not used"
+        "Hydrogen gas",
+        "Sodium metal",
+        "Chlorine gas",
+        "Oxygen gas"
       ],
-      "correct": 0,
-      "explanation": "Impure copper is the anode. It dissolves, Cu²⁺ ions go into solution, then pure copper deposits on the cathode."
+      "correct": 2,
+      "explanation": "With inert electrodes in concentrated NaCl: Anode (oxidation): 2Cl⁻ → Cl₂ + 2e⁻ (chlorine gas). Cathode (reduction): 2H₂O + 2e⁻ → H₂ + 2OH⁻ (hydrogen gas). Dilute NaCl would give oxygen at anode."
     },
     {
       "id": 4,
-      "question": "Why is direct current (DC) used in electroplating, not alternating current (AC)?",
+      "question": "What is the PRIMARY purpose of chromium electroplating on car bumpers?",
       "options": [
-        "DC provides one-way flow to deposit metal steadily",
-        "AC is too expensive",
-        "DC is safer",
-        "AC causes overheating"
+        "To reduce the mass of the bumper",
+        "To provide sacrificial protection against rust",
+        "To make the bumper magnetic",
+        "To improve appearance and provide barrier protection against corrosion"
       ],
-      "correct": 0,
-      "explanation": "DC ensures metal ions always move toward the cathode and deposit. AC would reverse direction, preventing steady plating."
+      "correct": 3,
+      "explanation": "Chromium plating provides a shiny decorative finish and forms a protective barrier against moisture and oxygen. It does NOT provide sacrificial protection because chromium is less reactive than iron."
     },
     {
       "id": 5,
-      "question": "Which is a common use of electroplating?",
+      "question": "During silver electroplating using a REACTIVE silver anode, what happens at the anode?",
       "options": [
-        "Chromium plating car bumpers",
-        "Making batteries",
-        "Producing chlorine",
-        "Electrolysis of water"
+        "Silver ions are reduced to silver metal",
+        "Oxygen gas is produced from water",
+        "Silver metal oxidises to silver ions",
+        "Hydrogen gas is produced"
       ],
-      "correct": 0,
-      "explanation": "Chromium plating is used for decoration and corrosion resistance on cars, taps, etc."
+      "correct": 2,
+      "explanation": "With reactive silver anode: Ag → Ag⁺ + e⁻ (oxidation). Silver dissolves to replenish Ag⁺ ions in solution. At the cathode (object), Ag⁺ + e⁻ → Ag deposits as a coating."
     },
     {
       "id": 6,
-      "question": "In electroplating, the electrolyte contains:",
+      "question": "Why is IMPURE copper used as the ANODE in copper refining?",
       "options": [
-        "Ions of the plating metal",
-        "Ions of the object metal",
-        "Only water",
-        "Acid only"
+        "To prevent the cathode from dissolving",
+        "So impurities dissolve and deposit on the cathode",
+        "So pure copper dissolves and leaves impurities behind",
+        "So impure copper dissolves, pure copper deposits on the cathode, and impurities fall as sludge"
       ],
-      "correct": 0,
-      "explanation": "The electrolyte contains ions of the metal to be plated (e.g., Ag⁺ for silver plating)."
+      "correct": 3,
+      "explanation": "Impure copper anode dissolves: Cu → Cu²⁺ + 2e⁻. Pure copper deposits on cathode: Cu²⁺ + 2e⁻ → Cu. Less reactive impurities (e.g., Au, Ag) don't dissolve → fall as 'anode sludge'. More reactive impurities stay in solution."
     },
     {
       "id": 7,
-      "question": "During electroplating, oxidation occurs at the:",
+      "question": "Why does electroplating with a LESS reactive metal (e.g., chromium on iron) NOT provide sacrificial protection?",
       "options": [
-        "Anode",
-        "Cathode",
-        "Both electrodes",
-        "Neither"
+        "Chromium cannot conduct electricity",
+        "The plating process consumes too much energy",
+        "If the coating is scratched, the underlying iron becomes the anode and corrodes faster",
+        "The plating metal reacts too slowly with oxygen"
       ],
-      "correct": 0,
-      "explanation": "Anode = oxidation (loss of electrons). In silver plating, silver anode oxidizes: Ag → Ag⁺ + e⁻."
+      "correct": 2,
+      "explanation": "When scratched, iron (more reactive) and chromium (less reactive) form a galvanic cell. Iron becomes the anode and oxidizes preferentially → accelerated corrosion at the scratch site. This is the opposite of sacrificial protection."
     },
     {
       "id": 8,
-      "question": "What happens if the object to be plated is made the anode instead of cathode?",
+      "question": "In the electrolysis of molten lead(II) bromide using INERT electrodes, what is observed at the cathode?",
       "options": [
-        "It dissolves instead of being coated",
-        "Plating happens faster",
-        "Nothing happens",
-        "It gets plated with wrong metal"
+        "Reddish-brown gas",
+        "Shiny grey droplets of metal",
+        "Colourless gas that pops with a lit splint",
+        "Greenish-yellow gas"
       ],
-      "correct": 0,
-      "explanation": "If object is anode, it loses electrons and dissolves instead of gaining metal coating."
+      "correct": 1,
+      "explanation": "Molten PbBr₂: Cathode (reduction): Pb²⁺ + 2e⁻ → Pb(l) → silvery-grey molten lead droplets. Anode (oxidation): 2Br⁻ → Br₂(g) + 2e⁻ → reddish-brown bromine vapour."
     },
     {
       "id": 9,
-      "question": "Electroplating is used to:",
+      "question": "Which statement about electroplating is TRUE?",
       "options": [
-        "Prevent corrosion and improve appearance",
-        "Generate electricity",
-        "Produce metals from ores",
-        "Decompose compounds"
+        "The object to be plated must be the anode",
+        "The electrolyte must contain ions of the metal to be plated",
+        "Alternating current (AC) gives better plating than direct current (DC)",
+        "The anode must always be inert graphite"
       ],
-      "correct": 0,
-      "explanation": "Main uses: corrosion resistance (e.g., zinc-plating iron) and decorative finish (e.g., gold-plating jewelry)."
+      "correct": 1,
+      "explanation": "The electrolyte must contain ions of the plating metal (e.g., Ag⁺ for silver plating). The object is the CATHODE (to attract positive metal ions). DC is required (AC would reverse plating). Anode can be reactive (same metal) or inert."
     },
     {
       "id": 10,
-      "question": "For successful electroplating, the object must be:",
+      "question": "When INERT graphite electrodes are used to electrolyse copper(II) sulfate solution, why is oxygen produced at the anode instead of copper dissolving?",
       "options": [
-        "Clean and grease-free",
-        "Made of the same metal as the plating",
-        "Very large",
-        "Magnetic"
+        "Copper ions are too stable to oxidise",
+        "The graphite electrode blocks copper oxidation",
+        "Sulfate ions oxidise more easily than copper metal",
+        "The electrode is inert so copper cannot dissolve; instead water/sulfate oxidises to oxygen"
+      ],
+      "correct": 3,
+      "explanation": "Inert electrodes do not participate in reactions. Since the anode isn't copper metal, copper cannot dissolve. Instead, water oxidises: 2H₂O → O₂ + 4H⁺ + 4e⁻ (or OH⁻ oxidises). Sulfate ions are hard to oxidise."
+    },
+    {
+      "id": 11,
+      "question": "What is the key difference between using REACTIVE copper electrodes versus INERT graphite electrodes in copper(II) sulfate electrolysis?",
+      "options": [
+        "With inert electrodes, the blue colour fades; with reactive electrodes, the blue colour remains constant",
+        "With reactive electrodes, oxygen is produced at the anode; with inert electrodes, copper dissolves",
+        "With inert electrodes, the anode gains mass; with reactive electrodes, the anode loses mass",
+        "With reactive electrodes, hydrogen is produced at the cathode; with inert electrodes, copper deposits"
       ],
       "correct": 0,
-      "explanation": "Surface must be clean so metal adheres well. Grease or dirt would cause poor plating."
+      "explanation": "Reactive Cu electrodes: Anode dissolves (Cu → Cu²⁺), cathode deposits Cu → [Cu²⁺] constant → blue colour unchanged. Inert graphite electrodes: Anode produces O₂ (from water), cathode deposits Cu → [Cu²⁺] decreases → blue colour fades."
     }
   ]
 }

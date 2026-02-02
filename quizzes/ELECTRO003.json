@@ -1,0 +1,188 @@
+{
+  "quizTitle": "O-Level Chemistry: Simple Cells & Hydrogen Fuel Cells",
+  "quizCode": "ELECTRO003",
+  "instructions": "Answer all questions on simple electrochemical cells and hydrogen fuel cells. All questions test conceptual understanding only — no charge or mass calculations required.",
+  "timeLimit": 600,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Why do different metal pairs produce different voltages in a simple cell?",
+      "options": [
+        "Different metals have different densities",
+        "Different metals conduct electricity at different speeds",
+        "Different metals have different tendencies to lose electrons (reactivity)",
+        "The electrolyte reacts differently with each metal"
+      ],
+      "correct": 2,
+      "explanation": "Voltage depends on the difference in tendency to lose electrons (reactivity). Larger difference (e.g., magnesium/copper) produces higher voltage than smaller difference (e.g., iron/copper)."
+    },
+    {
+      "id": 2,
+      "question": "In a simple cell made of zinc and copper electrodes in dilute sulfuric acid, which electrode is the negative terminal?",
+      "options": [
+        "Copper, because it gains electrons",
+        "Both are negative",
+        "Zinc, because it loses electrons more readily",
+        "Neither – simple cells have no polarity"
+      ],
+      "correct": 2,
+      "explanation": "Zinc is more reactive than copper → loses electrons (Zn → Zn²⁺ + 2e⁻) → electrons flow OUT from zinc → zinc is the negative terminal. Copper is the positive terminal."
+    },
+    {
+      "id": 3,
+      "question": "How can you experimentally determine which of two unknown metals (X and Y) is more reactive using a simple cell?",
+      "options": [
+        "Measure which metal has higher density",
+        "Add acid and see which produces more bubbles",
+        "Heat both metals and see which melts first",
+        "Connect them in a cell; the metal that becomes the negative terminal is more reactive"
+      ],
+      "correct": 3,
+      "explanation": "In a simple cell, the more reactive metal loses electrons and becomes the negative terminal (anode). Observing which electrode is negative with a voltmeter reveals relative reactivity."
+    },
+    {
+      "id": 4,
+      "question": "What is the overall reaction in a hydrogen fuel cell?",
+      "options": [
+        "2H₂ → 4H⁺ + 4e⁻",
+        "H₂O → H₂ + ½O₂",
+        "2H₂ + O₂ → 2H₂O",
+        "O₂ + 4H⁺ + 4e⁻ → 2H₂O"
+      ],
+      "correct": 2,
+      "explanation": "Overall reaction: 2H₂ + O₂ → 2H₂O. Hydrogen oxidizes at the anode, oxygen reduces at the cathode. The only chemical product is water."
+    },
+    {
+      "id": 5,
+      "question": "Which advantage does a hydrogen fuel cell have over a simple chemical cell (battery)?",
+      "options": [
+        "It uses cheaper materials",
+        "It works without an electrolyte",
+        "It can be recharged by reversing current",
+        "It produces no harmful emissions – only water"
+      ],
+      "correct": 3,
+      "explanation": "Hydrogen fuel cells produce only water as by-product (if H₂ is pure). Batteries may contain toxic metals (e.g., cadmium, lead) requiring special disposal. Fuel cells also operate continuously with fuel supply."
+    },
+    {
+      "id": 6,
+      "question": "In a magnesium/copper simple cell, magnesium is the negative terminal. What happens at the magnesium electrode?",
+      "options": [
+        "No reaction – it only conducts electrons",
+        "Reduction: Mg²⁺ + 2e⁻ → Mg",
+        "Hydrogen gas is produced",
+        "Oxidation: Mg → Mg²⁺ + 2e⁻"
+      ],
+      "correct": 3,
+      "explanation": "Negative terminal = anode = oxidation. Magnesium is more reactive → loses electrons: Mg → Mg²⁺ + 2e⁻. Electrons flow through the external circuit to the copper electrode."
+    },
+    {
+      "id": 7,
+      "question": "Why does a simple cell stop working after some time?",
+      "options": [
+        "Electrons run out",
+        "The metals become magnetized",
+        "One electrode gets used up or reaction products block the surface",
+        "The voltage gradually decreases to zero without reason"
+      ],
+      "correct": 2,
+      "explanation": "Simple cells stop because: (1) The reactive metal anode dissolves completely, OR (2) Hydrogen bubbles form on the cathode ('polarization'), blocking further reaction and stopping electron flow."
+    },
+    {
+      "id": 8,
+      "question": "Which statement about hydrogen fuel cells is TRUE?",
+      "options": [
+        "They store energy chemically like batteries",
+        "They require recharging with electricity",
+        "They produce carbon dioxide as waste",
+        "They convert chemical energy directly to electrical energy continuously with fuel supply"
+      ],
+      "correct": 3,
+      "explanation": "Fuel cells GENERATE electricity continuously as long as hydrogen and oxygen are supplied. Batteries STORE energy and deplete; fuel cells are energy converters, not storage devices."
+    },
+    {
+      "id": 9,
+      "question": "Three metals P, Q, R are tested in simple cells with copper. Results: P/Cu = 1.5 V (P negative), Q/Cu = 0.8 V (Q negative), R/Cu = 0.3 V (R negative). Which is the MOST reactive?",
+      "options": [
+        "Copper",
+        "R",
+        "Q",
+        "P"
+      ],
+      "correct": 3,
+      "explanation": "All three metals are more reactive than copper (all are negative terminals). Larger voltage = greater difference in reactivity from copper → P has the largest voltage difference → P is the most reactive metal."
+    },
+    {
+      "id": 10,
+      "question": "What is the key difference between a simple chemical cell and a hydrogen fuel cell?",
+      "options": [
+        "Fuel cells produce AC current; simple cells produce DC",
+        "Simple cells need an electrolyte; fuel cells do not",
+        "Simple cells use metals; fuel cells use gases",
+        "Simple cells deplete as reactants are used up; fuel cells run continuously with fuel supply"
+      ],
+      "correct": 3,
+      "explanation": "Simple cells (e.g., zinc/copper) stop when the metal anode dissolves or products accumulate. Hydrogen fuel cells keep producing electricity as long as hydrogen and oxygen are continuously supplied."
+    },
+    {
+      "id": 11,
+      "question": "In a simple cell with iron and silver electrodes in sodium chloride solution, which electrode corrodes (loses mass)?",
+      "options": [
+        "Silver, because it is less dense",
+        "Neither corrodes in NaCl solution",
+        "Both corrode equally",
+        "Iron, because it is more reactive and oxidizes"
+      ],
+      "correct": 3,
+      "explanation": "Iron is more reactive than silver → iron oxidizes (Fe → Fe²⁺ + 2e⁻) at the anode → loses mass. Silver acts as the cathode where reduction occurs (e.g., oxygen reduction) → does not corrode."
+    },
+    {
+      "id": 12,
+      "question": "Why is platinum used as electrodes in hydrogen fuel cells?",
+      "options": [
+        "It produces extra voltage",
+        "It is cheap and abundant",
+        "It prevents water formation",
+        "It acts as a catalyst for hydrogen/oxygen reactions"
+      ],
+      "correct": 3,
+      "explanation": "Platinum catalyzes the reactions: hydrogen oxidation at the anode and oxygen reduction at the cathode. Without this catalyst, the reactions would be too slow for practical electricity generation."
+    },
+    {
+      "id": 13,
+      "question": "Two simple cells are set up: Cell A uses magnesium and copper electrodes; Cell B uses zinc and copper electrodes. Which statement is TRUE?",
+      "options": [
+        "Cell B has a higher voltage because zinc is closer to copper in the reactivity series",
+        "Both cells have the same voltage because copper is used in both",
+        "Cell A has a higher voltage because magnesium is much more reactive than zinc",
+        "Cell B has a higher voltage because zinc conducts electricity better"
+      ],
+      "correct": 2,
+      "explanation": "Magnesium is much more reactive than zinc (higher in reactivity series). Magnesium/copper has a larger reactivity difference than zinc/copper → Cell A (Mg/Cu) produces a higher voltage than Cell B (Zn/Cu)."
+    },
+    {
+      "id": 14,
+      "question": "What happens to the electrolyte in a simple cell with zinc and copper electrodes in dilute sulfuric acid?",
+      "options": [
+        "It turns blue immediately",
+        "Its pH remains constant",
+        "It becomes more acidic as H⁺ ions are produced",
+        "It becomes less acidic as H⁺ ions are consumed at the copper cathode"
+      ],
+      "correct": 3,
+      "explanation": "At the copper cathode: 2H⁺ + 2e⁻ → H₂(g). Hydrogen ions are consumed → concentration of H⁺ decreases → pH increases (solution becomes less acidic). At the zinc anode: Zn → Zn²⁺ + 2e⁻ (no H⁺ involved)."
+    },
+    {
+      "id": 15,
+      "question": "Which environmental benefit do hydrogen fuel cells offer for vehicles?",
+      "options": [
+        "They use less rubber for tires",
+        "They reduce noise pollution only",
+        "They work better in cold weather",
+        "They eliminate tailpipe emissions – only water vapour is released"
+      ],
+      "correct": 3,
+      "explanation": "Fuel cell vehicles emit only water vapour from the tailpipe. (Note: Overall environmental benefit depends on how the hydrogen is produced – renewable sources give near-zero carbon footprint.)"
+    }
+  ]
+}
