@@ -1,0 +1,188 @@
+{
+  "quizTitle": "O-Level Chemistry: Basic Atomic Structure",
+  "quizCode": "ATOMICBASIC001",
+  "instructions": "Answer the following questions on fundamental atomic structure concepts. Choose the correct answer.",
+  "timeLimit": 900,
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the smallest particle of an element that retains the chemical properties of that element?",
+      "options": [
+        "Molecule",
+        "Atom",
+        "Proton",
+        "Electron"
+      ],
+      "correct": 1,
+      "explanation": "An atom is the smallest unit of an element that retains its chemical properties. It consists of a nucleus (protons and neutrons) surrounded by electrons."
+    },
+    {
+      "id": 2,
+      "question": "Which subatomic particle has a positive charge?",
+      "options": [
+        "Proton",
+        "Neutron",
+        "Electron",
+        "Nucleus"
+      ],
+      "correct": 0,
+      "explanation": "Protons carry a positive charge (+1). Neutrons are neutral (no charge), and electrons carry a negative charge (-1)."
+    },
+    {
+      "id": 3,
+      "question": "The atomic number of an element represents:",
+      "options": [
+        "The number of neutrons in the nucleus",
+        "The number of protons in the nucleus",
+        "The total number of protons and neutrons",
+        "The number of electrons in a neutral atom"
+      ],
+      "correct": 1,
+      "explanation": "The atomic number is defined as the number of protons in the nucleus. This number uniquely identifies an element."
+    },
+    {
+      "id": 4,
+      "question": "What is the mass number of an atom with 6 protons and 6 neutrons?",
+      "options": [
+        "6",
+        "12",
+        "18",
+        "36"
+      ],
+      "correct": 1,
+      "explanation": "Mass number = number of protons + number of neutrons = 6 + 6 = 12."
+    },
+    {
+      "id": 5,
+      "question": "In a neutral atom, the number of protons is equal to:",
+      "options": [
+        "The number of neutrons",
+        "The number of electrons",
+        "The mass number",
+        "The atomic mass"
+      ],
+      "correct": 1,
+      "explanation": "In a neutral atom, the positive charge of protons balances the negative charge of electrons, so their numbers are equal."
+    },
+    {
+      "id": 6,
+      "question": "Which subatomic particle is found outside the nucleus?",
+      "options": [
+        "Proton",
+        "Neutron",
+        "Electron",
+        "Nucleon"
+      ],
+      "correct": 2,
+      "explanation": "Electrons orbit the nucleus in electron shells. Protons and neutrons are located inside the nucleus."
+    },
+    {
+      "id": 7,
+      "question": "An atom of sodium has atomic number 11. How many electrons does a neutral sodium atom have?",
+      "options": [
+        "1",
+        "11",
+        "12",
+        "23"
+      ],
+      "correct": 1,
+      "explanation": "In a neutral atom, number of electrons = atomic number = 11."
+    },
+    {
+      "id": 8,
+      "question": "The nucleus of an atom contains:",
+      "options": [
+        "Protons and electrons",
+        "Protons and neutrons",
+        "Neutrons and electrons",
+        "Only protons"
+      ],
+      "correct": 1,
+      "explanation": "The nucleus contains protons and neutrons (collectively called nucleons). Electrons exist outside the nucleus."
+    },
+    {
+      "id": 9,
+      "question": "Which of the following has the smallest mass?",
+      "options": [
+        "Proton",
+        "Neutron",
+        "Electron",
+        "Nucleus"
+      ],
+      "correct": 2,
+      "explanation": "Electrons have approximately 1/1840 the mass of a proton or neutron, making them the lightest subatomic particle."
+    },
+    {
+      "id": 10,
+      "question": "The atomic number of carbon is 6. What does this tell us about a carbon atom?",
+      "options": [
+        "It has 6 neutrons",
+        "It has 6 protons",
+        "It has 6 electrons in its outer shell",
+        "Its mass number is 6"
+      ],
+      "correct": 1,
+      "explanation": "The atomic number specifically indicates the number of protons in the nucleus."
+    },
+    {
+      "id": 11,
+      "question": "What is the charge of a neutron?",
+      "options": [
+        "+1",
+        "-1",
+        "0",
+        "+2"
+      ],
+      "correct": 2,
+      "explanation": "Neutrons have no electrical charge; they are neutral particles."
+    },
+    {
+      "id": 12,
+      "question": "An atom has 8 protons, 8 neutrons, and 8 electrons. What is its mass number?",
+      "options": [
+        "8",
+        "16",
+        "24",
+        "32"
+      ],
+      "correct": 1,
+      "explanation": "Mass number = protons + neutrons = 8 + 8 = 16."
+    },
+    {
+      "id": 13,
+      "question": "Which statement is true about the atomic structure of elements?",
+      "options": [
+        "All atoms of the same element have the same number of neutrons",
+        "All atoms of the same element have the same number of protons",
+        "Atoms of different elements can have the same number of protons",
+        "The number of protons can vary in atoms of the same element"
+      ],
+      "correct": 1,
+      "explanation": "The number of protons defines the element. All atoms of the same element must have identical proton numbers."
+    },
+    {
+      "id": 14,
+      "question": "In the standard notation ¹⁴₇N, what does the number 7 represent?",
+      "options": [
+        "Mass number",
+        "Number of neutrons",
+        "Atomic number",
+        "Number of electrons"
+      ],
+      "correct": 2,
+      "explanation": "In standard notation ᴬZX, Z (subscript) is the atomic number (number of protons), and A (superscript) is the mass number. For ¹⁴₇N, 7 is the atomic number."
+    },
+    {
+      "id": 15,
+      "question": "Which of the following correctly describes the structure of a helium atom (atomic number 2, mass number 4)?",
+      "options": [
+        "2 protons, 2 neutrons, 2 electrons",
+        "2 protons, 4 neutrons, 2 electrons",
+        "4 protons, 2 neutrons, 4 electrons",
+        "2 protons, 2 neutrons, 4 electrons"
+      ],
+      "correct": 0,
+      "explanation": "Helium has atomic number 2 (2 protons), mass number 4 (2 protons + 2 neutrons), and in a neutral atom, 2 electrons."
+    }
+  ]
+}

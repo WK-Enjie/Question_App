@@ -1,0 +1,188 @@
+{
+  "quizTitle": "O-Level Chemistry: Mole Concept & Stoichiometry",
+  "quizCode": "MOLECONCEPT001",
+  "instructions": "Answer the following questions on mole calculations, limiting reactants, percentage purity, percentage yield, and mass composition. Choose the correct answer. Assume molar volume of gas at r.t.p. = 24 dm³/mol and molar mass values: H=1, C=12, N=14, O=16, Na=23, Mg=24, S=32, Cl=35.5, K=39, Ca=40, Fe=56.",
+  "timeLimit": 900,
+  "questions": [
+    {
+      "id": 1,
+      "question": "1 mole of Na₂SO₄ dissociates completely in water. How many moles of ions are produced in total?",
+      "options": [
+        "2 moles",
+        "3 moles",
+        "4 moles",
+        "6 moles"
+      ],
+      "correct": 1,
+      "explanation": "Na₂SO₄ → 2Na⁺ + SO₄²⁻. Total ions = 2 moles Na⁺ + 1 mole SO₄²⁻ = 3 moles of ions per mole of Na₂SO₄."
+    },
+    {
+      "id": 2,
+      "question": "3.0 g of hydrogen gas (H₂) reacts with 16.0 g of oxygen gas (O₂) to form water: 2H₂ + O₂ → 2H₂O. Which reactant is limiting?",
+      "options": [
+        "Hydrogen",
+        "Oxygen",
+        "Neither – exact stoichiometric ratio",
+        "Both are completely used up"
+      ],
+      "correct": 1,
+      "explanation": "Moles H₂ = 3.0 ÷ 2 = 1.5 mol; moles O₂ = 16.0 ÷ 32 = 0.5 mol. Reaction requires 2 mol H₂ per 1 mol O₂. For 0.5 mol O₂, 1.0 mol H₂ is needed, but 1.5 mol is available → H₂ in excess. O₂ is limiting."
+    },
+    {
+      "id": 3,
+      "question": "6.5 g of zinc reacts with excess hydrochloric acid: Zn + 2HCl → ZnCl₂ + H₂. What volume of hydrogen gas is produced at r.t.p.? (Ar: Zn=65)",
+      "options": [
+        "1.2 dm³",
+        "2.4 dm³",
+        "12 dm³",
+        "24 dm³"
+      ],
+      "correct": 1,
+      "explanation": "Moles Zn = 6.5 ÷ 65 = 0.10 mol. From equation, 1 mol Zn produces 1 mol H₂ → 0.10 mol H₂. Volume = 0.10 × 24 = 2.4 dm³ at r.t.p."
+    },
+    {
+      "id": 4,
+      "question": "A sample of calcium carbonate has a mass of 12.5 g but contains only 10.0 g of pure CaCO₃. What is its percentage purity?",
+      "options": [
+        "20%",
+        "25%",
+        "80%",
+        "125%"
+      ],
+      "correct": 2,
+      "explanation": "Percentage purity = (10.0 ÷ 12.5) × 100% = 80.0% exactly."
+    },
+    {
+      "id": 5,
+      "question": "In an experiment, the theoretical yield of copper(II) oxide is 8.0 g, but only 6.4 g is obtained. What is the percentage yield?",
+      "options": [
+        "64%",
+        "80%",
+        "125%",
+        "20%"
+      ],
+      "correct": 1,
+      "explanation": "Percentage yield = (6.4 ÷ 8.0) × 100% = 80.0% exactly."
+    },
+    {
+      "id": 6,
+      "question": "What is the maximum mass of oxygen that can be extracted from 100 g of potassium chlorate (KClO₃)? (Ar: K=39, Cl=35.5, O=16)",
+      "options": [
+        "16.0 g",
+        "32.0 g",
+        "39.2 g",
+        "48.0 g"
+      ],
+      "correct": 2,
+      "explanation": "Mr(KClO₃) = 39 + 35.5 + (3×16) = 122.5. Mass of O in 1 mol = 48.0 g. Percentage O = (48.0 ÷ 122.5) × 100 = 39.183673...% → mass from 100 g = 39.183673... g, which rounds to 39.2 g (to 1 decimal place as per option)."
+    },
+    {
+      "id": 7,
+      "question": "20 cm³ of 0.50 mol/dm³ HCl reacts with 15 cm³ of 0.40 mol/dm³ NaOH. Which reactant is in excess? HCl + NaOH → NaCl + H₂O",
+      "options": [
+        "HCl",
+        "NaOH",
+        "Neither – exact neutralization",
+        "Both are limiting"
+      ],
+      "correct": 0,
+      "explanation": "Moles HCl = 0.020 dm³ × 0.50 = 0.010 mol. Moles NaOH = 0.015 dm³ × 0.40 = 0.006 mol. Reaction ratio 1:1, so NaOH is limiting (0.006 mol) and HCl is in excess (0.010 – 0.006 = 0.004 mol)."
+    },
+    {
+      "id": 8,
+      "question": "4.8 g of magnesium burns in oxygen: 2Mg + O₂ → 2MgO. What mass of MgO is produced? (Ar: Mg=24, O=16)",
+      "options": [
+        "4.0 g",
+        "6.4 g",
+        "8.0 g",
+        "12.0 g"
+      ],
+      "correct": 2,
+      "explanation": "Moles Mg = 4.8 ÷ 24 = 0.20 mol. From equation, 2 mol Mg → 2 mol MgO, so 0.20 mol Mg → 0.20 mol MgO. Mr(MgO) = 24 + 16 = 40. Mass MgO = 0.20 × 40 = 8.0 g exactly."
+    },
+    {
+      "id": 9,
+      "question": "A 5.0 g impure sample of sodium carbonate produces 1.1 g of CO₂ when reacted with excess acid. What is the percentage purity? (Mr(Na₂CO₃)=106, Mr(CO₂)=44)",
+      "options": [
+        "53%",
+        "65%",
+        "79%",
+        "106%"
+      ],
+      "correct": 0,
+      "explanation": "Moles CO₂ = 1.1 ÷ 44 = 0.025 mol. From Na₂CO₃ + 2HCl → 2NaCl + H₂O + CO₂, 1 mol Na₂CO₃ → 1 mol CO₂, so moles pure Na₂CO₃ = 0.025 mol. Mass pure = 0.025 × 106 = 2.65 g. % purity = (2.65 ÷ 5.0) × 100% = 53.0% exactly."
+    },
+    {
+      "id": 10,
+      "question": "What volume of CO₂ at r.t.p. is produced when 0.20 mol of calcium carbonate decomposes? CaCO₃ → CaO + CO₂",
+      "options": [
+        "2.4 dm³",
+        "4.8 dm³",
+        "24 dm³",
+        "48 dm³"
+      ],
+      "correct": 1,
+      "explanation": "From equation, 1 mol CaCO₃ → 1 mol CO₂, so 0.20 mol CaCO₃ → 0.20 mol CO₂. Volume = 0.20 × 24 = 4.8 dm³ exactly."
+    },
+    {
+      "id": 11,
+      "question": "3.0 g of carbon reacts with 8.0 g of oxygen to form carbon dioxide: C + O₂ → CO₂. What mass of CO₂ is produced?",
+      "options": [
+        "5.5 g",
+        "8.0 g",
+        "11.0 g",
+        "14.0 g"
+      ],
+      "correct": 2,
+      "explanation": "Moles C = 3.0 ÷ 12 = 0.25 mol; moles O₂ = 8.0 ÷ 32 = 0.25 mol. Ratio required = 1:1, so exact stoichiometric ratio. 0.25 mol C produces 0.25 mol CO₂. Mr(CO₂) = 12 + 32 = 44. Mass CO₂ = 0.25 × 44 = 11.0 g exactly."
+    },
+    {
+      "id": 12,
+      "question": "An experiment has a theoretical yield of 25.0 g but gives an actual yield of 18.8 g. If the product collected is 95% pure, what is the percentage yield of pure product?",
+      "options": [
+        "65%",
+        "71%",
+        "75%",
+        "95%"
+      ],
+      "correct": 1,
+      "explanation": "Mass of pure product obtained = 95% of 18.8 g = 0.95 × 18.8 = 17.86 g. Percentage yield = (17.86 ÷ 25.0) × 100% = 71.44%, which rounds to 71% (nearest whole number as per options)."
+    },
+    {
+      "id": 13,
+      "question": "What mass of iron can be extracted from 200 g of iron(III) oxide (Fe₂O₃)? (Ar: Fe=56, O=16)",
+      "options": [
+        "70 g",
+        "112 g",
+        "140 g",
+        "160 g"
+      ],
+      "correct": 2,
+      "explanation": "Mr(Fe₂O₃) = (2×56) + (3×16) = 112 + 48 = 160. Mass of Fe in 1 mol = 112 g. Percentage Fe = (112 ÷ 160) × 100% = 70.0% exactly. Maximum Fe from 200 g = 70.0% of 200 = 140.0 g exactly."
+    },
+    {
+      "id": 14,
+      "question": "2.4 g of hydrogen reacts with 28.0 g of nitrogen to form ammonia: N₂ + 3H₂ → 2NH₃. What mass of ammonia is produced?",
+      "options": [
+        "6.8 g",
+        "10.2 g",
+        "13.6 g",
+        "17.0 g"
+      ],
+      "correct": 2,
+      "explanation": "Moles H₂ = 2.4 ÷ 2 = 1.2 mol; moles N₂ = 28.0 ÷ 28 = 1.0 mol. Ratio required: 1 mol N₂ : 3 mol H₂. For 1.0 mol N₂, 3.0 mol H₂ needed, but only 1.2 mol available → H₂ limiting. From equation, 3 mol H₂ → 2 mol NH₃, so 1.2 mol H₂ → (2/3)×1.2 = 0.8 mol NH₃. Mr(NH₃) = 14 + 3 = 17. Mass NH₃ = 0.8 × 17 = 13.6 g exactly."
+    },
+    {
+      "id": 15,
+      "question": "A 4.2 g sample of impure magnesium carbonate produces 0.96 dm³ of CO₂ at r.t.p. when reacted with acid. What is the percentage purity? (Mr(MgCO₃)=84)",
+      "options": [
+        "60%",
+        "70%",
+        "80%",
+        "90%"
+      ],
+      "correct": 2,
+      "explanation": "Moles CO₂ = 0.96 ÷ 24 = 0.040 mol exactly. From MgCO₃ + 2HCl → MgCl₂ + H₂O + CO₂, 1 mol MgCO₃ → 1 mol CO₂, so moles pure MgCO₃ = 0.040 mol. Mass pure = 0.040 × 84 = 3.36 g. % purity = (3.36 ÷ 4.2) × 100% = 80.0% exactly."
+    }
+  ]
+}
