@@ -1,0 +1,78 @@
+{
+  "quizTitle": "Primary 5 Mathematics: Excess and Shortage",
+  "quizCode": "P5EXCESS001",
+  "instructions": "Solve these 10 questions using the excess and shortage method. Compare the two scenarios to find the difference per person and the total swing in items. Choose the correct answer from the options given.",
+  "timeLimit": 600,
+  "questions": [
+    {
+      "id": 1,
+      "question": "A teacher has some sweets. If she gives 4 sweets to each pupil, she will have 18 sweets left. If she gives 6 sweets to each pupil, she will have 4 sweets left. How many pupils are there?",
+      "options": ["11 pupils", "9 pupils", "7 pupils", "8 pupils"],
+      "correct": 2,
+      "explanation": "When giving 2 more sweets to each pupil (6 minus 4), the leftover sweets decrease by 14 (18 minus 4). These 14 extra sweets were used to give 2 more to each pupil. Number of pupils: 14 ÷ 2 = 7 pupils."
+    },
+    {
+      "id": 2,
+      "question": "Some cookies are to be shared. If each child gets 3 cookies, there will be 20 cookies left. If each child gets 5 cookies, there will be 4 cookies left. How many cookies are there altogether?",
+      "options": ["42 cookies", "38 cookies", "44 cookies", "40 cookies"],
+      "correct": 2,
+      "explanation": "When giving 2 more cookies to each child (5 minus 3), the leftover cookies decrease by 16 (20 minus 4). Number of children: 16 ÷ 2 = 8 children. Total cookies: 8 children × 3 cookies each + 20 leftover = 24 + 20 = 44 cookies."
+    },
+    {
+      "id": 3,
+      "question": "A group of friends wants to buy a birthday cake. If each contributes $5, they will be short of $8. If each contributes $7, they will have $4 extra. How many friends are there?",
+      "options": ["7 friends", "9 friends", "6 friends", "8 friends"],
+      "correct": 2,
+      "explanation": "When each friend contributes $2 more ($7 minus $5), the group changes from being $8 short to having $4 extra. This is a total swing of $12 ($8 plus $4). This $12 comes from each friend adding $2 more. Number of friends: $12 ÷ $2 = 6 friends."
+    },
+    {
+      "id": 4,
+      "question": "A coach has some basketballs. If he gives 4 basketballs to each team, he will have 15 basketballs left. If he gives 7 basketballs to each team, he will be short of 3 basketballs. How many teams are there?",
+      "options": ["9 teams", "7 teams", "8 teams", "6 teams"],
+      "correct": 3,
+      "explanation": "When giving 3 more basketballs to each team (7 minus 4), the coach uses up the 15 leftover basketballs and needs 3 more. Total basketballs involved: 15 plus 3 equals 18 basketballs. These 18 basketballs are distributed as 3 extra per team. Number of teams: 18 ÷ 3 = 6 teams."
+    },
+    {
+      "id": 5,
+      "question": "Some apples are packed into boxes. If 6 apples are packed in each box, 10 apples are left unpacked. If 9 apples are packed in each box, 1 apple is left unpacked. How many apples are there?",
+      "options": ["32 apples", "26 apples", "30 apples", "28 apples"],
+      "correct": 3,
+      "explanation": "When packing 3 more apples per box (9 minus 6), the leftover apples decrease by 9 (10 minus 1). Number of boxes: 9 ÷ 3 = 3 boxes. Total apples: 3 boxes × 6 apples each + 10 leftover = 18 + 10 = 28 apples."
+    },
+    {
+      "id": 6,
+      "question": "A teacher wants to give stickers to her class. If she gives 5 stickers to each pupil, she needs 6 more stickers. If she gives 3 stickers to each pupil, she has 12 stickers left. How many pupils are there?",
+      "options": ["11 pupils", "10 pupils", "8 pupils", "9 pupils"],
+      "correct": 3,
+      "explanation": "When giving 2 fewer stickers to each pupil (5 minus 3), the teacher changes from needing 6 stickers to having 12 extra. This is a total swing of 18 stickers (6 plus 12). This 18 comes from giving 2 fewer stickers per pupil. Number of pupils: 18 ÷ 2 = 9 pupils."
+    },
+    {
+      "id": 7,
+      "question": "Some books are to be distributed. If each student gets 4 books, 26 books remain. If each student gets 7 books, 5 books remain. How many students are there?",
+      "options": ["6 students", "9 students", "8 students", "7 students"],
+      "correct": 3,
+      "explanation": "When giving 3 more books to each student (7 minus 4), the leftover books decrease by 21 (26 minus 5). These 21 extra books were used to give 3 more to each student. Number of students: 21 ÷ 3 = 7 students."
+    },
+    {
+      "id": 8,
+      "question": "Children are sharing oranges. If each child gets 5 oranges, there will be 3 oranges short. If each child gets 3 oranges, there will be 9 oranges left. How many oranges are there?",
+      "options": ["30 oranges", "24 oranges", "27 oranges", "33 oranges"],
+      "correct": 2,
+      "explanation": "When giving 2 fewer oranges to each child (5 minus 3), the situation changes from 3 short to 9 extra. This is a total swing of 12 oranges (3 plus 9). Number of children: 12 ÷ 2 = 6 children. Total oranges: 6 children × 5 oranges each minus 3 short = 30 – 3 = 27 oranges."
+    },
+    {
+      "id": 9,
+      "question": "A shopkeeper has some muffins. If he packs 8 muffins in each box, he will have 6 muffins left. If he packs 10 muffins in each box, he will be short of 4 muffins. How many boxes does he have?",
+      "options": ["4 boxes", "7 boxes", "6 boxes", "5 boxes"],
+      "correct": 3,
+      "explanation": "When packing 2 more muffins per box (10 minus 8), the shopkeeper uses up the 6 leftover muffins and needs 4 more. Total muffins involved: 6 plus 4 equals 10 muffins. These 10 muffins are distributed as 2 extra per box. Number of boxes: 10 ÷ 2 = 5 boxes."
+    },
+    {
+      "id": 10,
+      "question": "Some pencils are to be given out. If each pupil receives 5 pencils, 15 pencils remain. If each pupil receives 8 pencils, 3 pencils remain. How many pencils are there altogether?",
+      "options": ["40 pencils", "35 pencils", "45 pencils", "50 pencils"],
+      "correct": 1,
+      "explanation": "When giving 3 more pencils to each pupil (8 minus 5), the leftover pencils decrease by 12 (15 minus 3). Number of pupils: 12 ÷ 3 = 4 pupils. Total pencils: 4 pupils × 5 pencils each + 15 leftover = 20 + 15 = 35 pencils."
+    }
+  ]
+}

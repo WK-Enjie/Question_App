@@ -1,0 +1,78 @@
+{
+  "quizTitle": "Primary 5 Mathematics: Assumption Method",
+  "quizCode": "P5ASSUME001",
+  "instructions": "Solve these 10 questions using the assumption method. Assume all items are of one type first, then adjust based on the difference. Choose the correct answer from the options given.",
+  "timeLimit": 600,
+  "questions": [
+    {
+      "id": 1,
+      "question": "A farmer has chickens and rabbits in a cage. There are 12 heads and 38 legs altogether. How many rabbits are there?",
+      "options": ["5 rabbits", "9 rabbits", "7 rabbits", "8 rabbits"],
+      "correct": 2,
+      "explanation": "Assume all 12 animals are chickens. Total legs would be 12 × 2 = 24 legs. But there are actually 38 legs, so we have 38 – 24 = 14 extra legs. Each rabbit has 2 more legs than a chicken (4 – 2 = 2). Number of rabbits: 14 ÷ 2 = 7 rabbits."
+    },
+    {
+      "id": 2,
+      "question": "In a car park, there are cars and motorcycles. There are 15 vehicles with 52 wheels altogether. How many cars are there?",
+      "options": ["13 cars", "10 cars", "12 cars", "11 cars"],
+      "correct": 3,
+      "explanation": "Assume all 15 vehicles are motorcycles. Total wheels would be 15 × 2 = 30 wheels. But there are actually 52 wheels, so we have 52 – 30 = 22 extra wheels. Each car has 2 more wheels than a motorcycle (4 – 2 = 2). Number of cars: 22 ÷ 2 = 11 cars."
+    },
+    {
+      "id": 3,
+      "question": "A quiz has 20 questions. You get 5 points for each correct answer and lose 2 points for each wrong answer. If you answered all questions and scored 58 points, how many questions did you answer correctly?",
+      "options": ["18 questions", "12 questions", "16 questions", "14 questions"],
+      "correct": 3,
+      "explanation": "Assume all 20 answers are correct. Total points would be 20 × 5 = 100 points. But you actually scored 58 points, so you lost 100 – 58 = 42 points. For each wrong answer, you lose 7 points total (5 points not gained plus 2 points deducted). Number of wrong answers: 42 ÷ 7 = 6. Correct answers: 20 – 6 = 14 questions."
+    },
+    {
+      "id": 4,
+      "question": "A bag contains 20 coins. Some are 20¢ coins and some are 50¢ coins. The total value is $7.60. How many 50¢ coins are there?",
+      "options": ["10 coins", "14 coins", "8 coins", "12 coins"],
+      "correct": 3,
+      "explanation": "Assume all 20 coins are 20¢ coins. Total value would be 20 × 20¢ = 400¢ = $4.00. But the actual value is $7.60 = 760¢, so we have 760 – 400 = 360¢ extra. Each 50¢ coin has 30¢ more than a 20¢ coin (50 – 20 = 30). Number of 50¢ coins: 360 ÷ 30 = 12 coins."
+    },
+    {
+      "id": 5,
+      "question": "A farmer has ducks and cows on his farm. There are 25 animals with 70 legs altogether. How many ducks are there?",
+      "options": ["20 ducks", "18 ducks", "15 ducks", "12 ducks"],
+      "correct": 2,
+      "explanation": "Assume all 25 animals are cows. Total legs would be 25 × 4 = 100 legs. But there are actually 70 legs, so we have 100 – 70 = 30 fewer legs. Each duck has 2 fewer legs than a cow (4 – 2 = 2). Number of ducks: 30 ÷ 2 = 15 ducks."
+    },
+    {
+      "id": 6,
+      "question": "A box contains 30 packets of drinks. Some packets contain 250 ml and some contain 500 ml. The total volume is 10.5 litres. How many 500 ml packets are there?",
+      "options": ["10 packets", "6 packets", "12 packets", "8 packets"],
+      "correct": 2,
+      "explanation": "Assume all 30 packets contain 250 ml. Total volume would be 30 × 250 ml = 7500 ml = 7.5 litres. But the actual volume is 10.5 litres = 10 500 ml, so we have 10 500 – 7500 = 3000 ml extra. Each 500 ml packet has 250 ml more than a 250 ml packet (500 – 250 = 250). Number of 500 ml packets: 3000 ÷ 250 = 12 packets."
+    },
+    {
+      "id": 7,
+      "question": "A test has 15 questions. Each correct answer earns 4 marks and each wrong answer loses 1 mark. If James answered all questions and scored 40 marks, how many questions did he answer wrongly?",
+      "options": ["5 questions", "6 questions", "3 questions", "4 questions"],
+      "correct": 3,
+      "explanation": "Assume all 15 answers are correct. Total marks would be 15 × 4 = 60 marks. But James actually scored 40 marks, so he lost 60 – 40 = 20 marks. For each wrong answer, he loses 5 marks total (4 marks not gained plus 1 mark deducted). Number of wrong answers: 20 ÷ 5 = 4 questions."
+    },
+    {
+      "id": 8,
+      "question": "A shop sells pencils in two pack sizes. A small pack contains 4 pencils and a large pack contains 7 pencils. Mr Lim bought 12 packs containing 66 pencils altogether. How many large packs did he buy?",
+      "options": ["8 packs", "10 packs", "6 packs", "9 packs"],
+      "correct": 2,
+      "explanation": "Assume all 12 packs are small packs. Total pencils would be 12 × 4 = 48 pencils. But there are actually 66 pencils, so we have 66 – 48 = 18 extra pencils. Each large pack has 3 more pencils than a small pack (7 – 4 = 3). Number of large packs: 18 ÷ 3 = 6 packs."
+    },
+    {
+      "id": 9,
+      "question": "There are 18 spiders and beetles in a box. Spiders have 8 legs and beetles have 6 legs. There are 128 legs altogether. How many beetles are there?",
+      "options": ["10 beetles", "12 beetles", "6 beetles", "8 beetles"],
+      "correct": 3,
+      "explanation": "Assume all 18 creatures are spiders. Total legs would be 18 × 8 = 144 legs. But there are actually 128 legs, so we have 144 – 128 = 16 fewer legs. Each beetle has 2 fewer legs than a spider (8 – 6 = 2). Number of beetles: 16 ÷ 2 = 8 beetles."
+    },
+    {
+      "id": 10,
+      "question": "A farmer has goats and chickens. There are 30 animals with 88 legs altogether. How many goats are there?",
+      "options": ["12 goats", "16 goats", "18 goats", "14 goats"],
+      "correct": 3,
+      "explanation": "Assume all 30 animals are chickens. Total legs would be 30 × 2 = 60 legs. But there are actually 88 legs, so we have 88 – 60 = 28 extra legs. Each goat has 2 more legs than a chicken (4 – 2 = 2). Number of goats: 28 ÷ 2 = 14 goats."
+    }
+  ]
+}
