@@ -1,0 +1,188 @@
+{
+  "quizTitle": "O-Level Chemistry: Mole & Redox Calculations (Progressive Difficulty)",
+  "quizCode": "ADVREDOX001",
+  "instructions": "Answer the following questions in order of increasing difficulty. All necessary equations are provided. Assume molar volume at r.t.p. = 24 dm³/mol. Use atomic masses: H=1, C=12, N=14, O=16, Na=23, Mg=24, Al=27, S=32, Cl=35.5, K=39, Cr=52, Mn=55, Fe=56, Cu=64, Zn=65, Ag=108, Pb=207.",
+  "timeLimit": 1000,
+  "questions": [
+    {
+      "id": 1,
+      "question": "A solution contains 0.1 mol of sodium sulfate (Na₂SO₄). When dissolved in water, how many moles of sodium ions (Na⁺) are produced?",
+      "options": [
+        "0.1 mol",
+        "0.2 mol",
+        "0.3 mol",
+        "0.4 mol"
+      ],
+      "correct": 1,
+      "explanation": "Na₂SO₄ → 2Na⁺ + SO₄²⁻. 0.1 mol Na₂SO₄ gives 0.2 mol Na⁺. This tests basic dissociation stoichiometry."
+    },
+    {
+      "id": 2,
+      "question": "A 0.1 mol sample of calcium carbonate (CaCO₃) decomposes on heating: CaCO₃ → CaO + CO₂. What mass of carbon dioxide is produced? (Ar: C=12, O=16)",
+      "options": [
+        "2.2 g",
+        "4.4 g",
+        "8.8 g",
+        "11.0 g"
+      ],
+      "correct": 1,
+      "explanation": "1 mol CaCO₃ → 1 mol CO₂. 0.1 mol CO₂ formed. Mr(CO₂) = 44. Mass = 0.1 × 44 = 4.4 g. Single-step mass calculation."
+    },
+    {
+      "id": 3,
+      "question": "A solution contains 0.2 mol of aluminum sulfate, Al₂(SO₄)₃. When dissolved, what is the total number of moles of ions produced?",
+      "options": [
+        "0.4 mol",
+        "0.8 mol",
+        "1.0 mol",
+        "2.0 mol"
+      ],
+      "correct": 2,
+      "explanation": "Al₂(SO₄)₃ → 2Al³⁺ + 3SO₄²⁻. 1 mol compound → 5 mol ions. 0.2 mol → 1.0 mol ions. Requires counting multiple ion types."
+    },
+    {
+      "id": 4,
+      "question": "When 0.1 mol of silver nitrate (AgNO₃) reacts with excess sodium chloride, AgNO₃ + NaCl → AgCl + NaNO₃, what mass of silver chloride precipitate (Mr=143.5) forms?",
+      "options": [
+        "14.35 g",
+        "28.7 g",
+        "43.05 g",
+        "57.4 g"
+      ],
+      "correct": 0,
+      "explanation": "1:1 ratio → 0.1 mol AgCl formed. Mass = 0.1 × 143.5 = 14.35 g. Straightforward single-reaction precipitation."
+    },
+    {
+      "id": 5,
+      "question": "When chlorine gas is passed into hot concentrated sodium hydroxide: 3Cl₂ + 6NaOH → 5NaCl + NaClO₃ + 3H₂O. If 0.3 mol of Cl₂ reacts completely, how many moles of NaCl are produced?",
+      "options": [
+        "0.3 mol",
+        "0.5 mol",
+        "0.6 mol",
+        "0.9 mol"
+      ],
+      "correct": 1,
+      "explanation": "3 mol Cl₂ → 5 mol NaCl. 0.3 mol Cl₂ → (5/3)×0.3 = 0.5 mol NaCl. Introduces non-1:1 stoichiometric ratios."
+    },
+    {
+      "id": 6,
+      "question": "A solution contains 0.1 mol of sulfuric acid (H₂SO₄). It is neutralized with sodium hydroxide: H₂SO₄ + 2NaOH → Na₂SO₄ + 2H₂O. The sodium sulfate produced is then reacted with barium chloride: Na₂SO₄ + BaCl₂ → BaSO₄ + 2NaCl. What mass of barium sulfate (Mr=233) precipitate forms?",
+      "options": [
+        "11.65 g",
+        "23.3 g",
+        "46.6 g",
+        "93.2 g"
+      ],
+      "correct": 1,
+      "explanation": "Step 1: 0.1 mol H₂SO₄ → 0.1 mol Na₂SO₄.\nStep 2: 0.1 mol Na₂SO₄ → 0.1 mol BaSO₄.\nMass = 0.1 × 233 = 23.3 g. First two-step sequential reaction."
+    },
+    {
+      "id": 7,
+      "question": "When 0.1 mol of potassium permanganate (KMnO₄) reacts completely with acidified iron(II) sulfate: 2KMnO₄ + 10FeSO₄ + 8H₂SO₄ → 2MnSO₄ + 5Fe₂(SO₄)₃ + K₂SO₄ + 8H₂O. How many moles of Fe²⁺ ions are oxidized?",
+      "options": [
+        "0.1 mol",
+        "0.2 mol",
+        "0.5 mol",
+        "1.0 mol"
+      ],
+      "correct": 2,
+      "explanation": "2 mol KMnO₄ oxidizes 10 mol Fe²⁺ → 1 mol KMnO₄ oxidizes 5 mol Fe²⁺.\n0.1 mol KMnO₄ oxidizes 0.5 mol Fe²⁺. Introduces redox stoichiometry with electron transfer concepts."
+    },
+    {
+      "id": 8,
+      "question": "When 1.2 g of magnesium ribbon (Mg) reacts with excess hydrochloric acid, Mg + 2HCl → MgCl₂ + H₂, the hydrogen gas produced is collected. This hydrogen is then reacted with 6.4 g of copper(II) oxide, CuO + H₂ → Cu + H₂O. What mass of copper is produced?",
+      "options": [
+        "3.2 g",
+        "6.4 g",
+        "9.6 g",
+        "12.8 g"
+      ],
+      "correct": 0,
+      "explanation": "Step 1: Moles Mg = 1.2 ÷ 24 = 0.05 mol → 0.05 mol H₂.\nStep 2: Moles CuO = 6.4 ÷ 80 = 0.08 mol.\nH₂ limiting (0.05 < 0.08) → 0.05 mol Cu formed.\nMass Cu = 0.05 × 64 = 3.2 g. First limiting reactant problem."
+    },
+    {
+      "id": 9,
+      "question": "A solution contains 0.3 mol of barium chloride (BaCl₂) and 0.2 mol of sodium sulfate (Na₂SO₄). When mixed, BaCl₂ + Na₂SO₄ → BaSO₄ + 2NaCl. What mass of barium sulfate precipitate (Mr=233) forms, and which ions remain in solution?",
+      "options": [
+        "46.6 g BaSO₄; Na⁺, Cl⁻, Ba²⁺",
+        "46.6 g BaSO₄; Na⁺, Cl⁻ only",
+        "23.3 g BaSO₄; Na⁺, Cl⁻, SO₄²⁻",
+        "23.3 g BaSO₄; Na⁺, Cl⁻ only"
+      ],
+      "correct": 0,
+      "explanation": "Na₂SO₄ limiting (0.2 mol) → 0.2 mol BaSO₄ formed.\nMass = 0.2 × 233 = 46.6 g.\nExcess Ba²⁺ (0.1 mol) remains with Na⁺ (0.4 mol) and Cl⁻ (0.6 mol). Combines limiting reactant with ion analysis."
+    },
+    {
+      "id": 10,
+      "question": "When 0.2 mol of sodium peroxide (Na₂O₂) reacts with water: 2Na₂O₂ + 2H₂O → 4NaOH + O₂, and the oxygen produced reacts with sulfur: S + O₂ → SO₂, what maximum mass of sulfur dioxide (Mr=64) can be formed?",
+      "options": [
+        "3.2 g",
+        "6.4 g",
+        "12.8 g",
+        "25.6 g"
+      ],
+      "correct": 1,
+      "explanation": "2 mol Na₂O₂ → 1 mol O₂ → 0.2 mol Na₂O₂ → 0.1 mol O₂.\n1 mol O₂ → 1 mol SO₂ → 0.1 mol SO₂ formed.\nMass = 0.1 × 64 = 6.4 g. Two sequential reactions with gas intermediate."
+    },
+    {
+      "id": 11,
+      "question": "When 4.8 g of magnesium reacts with excess sulfuric acid, Mg + H₂SO₄ → MgSO₄ + H₂, and the hydrogen produced reduces 16.0 g of copper(II) oxide, CuO + H₂ → Cu + H₂O, what is the limiting reactant in the second reaction?",
+      "options": [
+        "Hydrogen is limiting",
+        "Copper(II) oxide is limiting",
+        "Both react completely",
+        "Neither reacts"
+      ],
+      "correct": 2,
+      "explanation": "Moles Mg = 4.8 ÷ 24 = 0.2 mol → 0.2 mol H₂.\nMoles CuO = 16.0 ÷ 80 = 0.2 mol.\n1:1 ratio with equal moles → both react completely. Requires precise stoichiometric comparison."
+    },
+    {
+      "id": 12,
+      "question": "A 0.1 mol sample of iron(III) chloride (FeCl₃) is dissolved in water. Excess silver nitrate is added: FeCl₃ + 3AgNO₃ → 3AgCl + Fe(NO₃)₃. What mass of silver chloride (Mr=143.5) precipitate forms?",
+      "options": [
+        "14.35 g",
+        "28.7 g",
+        "43.05 g",
+        "57.4 g"
+      ],
+      "correct": 2,
+      "explanation": "1 mol FeCl₃ → 3 mol AgCl. 0.1 mol FeCl₃ → 0.3 mol AgCl.\nMass = 0.3 × 143.5 = 43.05 g. Tests ability to handle 1:3 stoichiometric ratios with polyatomic ions."
+    },
+    {
+      "id": 13,
+      "question": "A 0.2 mol sample of ammonium nitrate (NH₄NO₃) decomposes: NH₄NO₃ → N₂O + 2H₂O. The nitrous oxide produced is decomposed further: 2N₂O → 2N₂ + O₂. What total volume of gases (N₂ + O₂) is produced at r.t.p.?",
+      "options": [
+        "4.8 dm³",
+        "7.2 dm³",
+        "9.6 dm³",
+        "14.4 dm³"
+      ],
+      "correct": 1,
+      "explanation": "Step 1: 0.2 mol NH₄NO₃ → 0.2 mol N₂O.\nStep 2: 2N₂O → 2N₂ + O₂ → 0.2 mol N₂O → 0.2 mol N₂ + 0.1 mol O₂ = 0.3 mol gases.\nVolume = 0.3 × 24 = 7.2 dm³. Combines multi-step reactions with gas volume calculations."
+    },
+    {
+      "id": 14,
+      "question": "When 0.15 mol of lead(II) nitrate, Pb(NO₃)₂, is heated: 2Pb(NO₃)₂ → 2PbO + 4NO₂ + O₂. The nitrogen dioxide is dissolved in water: 3NO₂ + H₂O → 2HNO₃ + NO. How many moles of nitric acid (HNO₃) are produced?",
+      "options": [
+        "0.1 mol",
+        "0.2 mol",
+        "0.3 mol",
+        "0.4 mol"
+      ],
+      "correct": 1,
+      "explanation": "Step 1: 2 mol Pb(NO₃)₂ → 4 mol NO₂ → 0.15 mol → 0.3 mol NO₂.\nStep 2: 3 mol NO₂ → 2 mol HNO₃ → 0.3 mol NO₂ → 0.2 mol HNO₃.\nRequires tracking intermediates across two unbalanced reaction sequences."
+    },
+    {
+      "id": 15,
+      "question": "When 0.267 mol of potassium chlorate (KClO₃) decomposes: 2KClO₃ → 2KCl + 3O₂, and the oxygen produced burns phosphorus: 4P + 5O₂ → 2P₂O₅, what mass of phosphorus(V) oxide (P₂O₅, Mr=142) is formed?",
+      "options": [
+        "11.36 g",
+        "22.72 g",
+        "34.08 g",
+        "45.44 g"
+      ],
+      "correct": 1,
+      "explanation": "Step 1: 2 mol KClO₃ → 3 mol O₂ → 0.267 mol → 0.4005 mol O₂.\nStep 2: 5 mol O₂ → 2 mol P₂O₅ → 0.4005 mol O₂ → 0.1602 mol P₂O₅.\nMass = 0.1602 × 142 ≈ 22.72 g. Most complex: fractional mole ratios across two reactions with precise arithmetic."
+    }
+  ]
+}
