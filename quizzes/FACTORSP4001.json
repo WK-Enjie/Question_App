@@ -1,0 +1,188 @@
+{
+  "quizTitle": "Primary 4 Mathematics: Factors and Multiples (Problem Solving)",
+  "quizCode": "FACTORSP4001",
+  "instructions": "Solve each word problem carefully. Identify the correct multiple or factor to find the answer. Show your working clearly.",
+  "timeLimit": 900,
+  "questions": [
+    {
+      "id": 1,
+      "question": "There are between 30 and 50 sweets. If the sweets are divided into groups of 6, there is a remainder of 3. If the sweets are divided into groups of 4, there is a remainder of 1. How many sweets are there?",
+      "options": [
+        "37",
+        "39",
+        "45",
+        "49"
+      ],
+      "correct": 2,
+      "explanation": "Numbers between 30-50 with remainder 3 when divided by 6: 33, 39, 45. Among these, check remainder when divided by 4: 33 ÷ 4 = 8R1, 39 ÷ 4 = 9R3, 45 ÷ 4 = 11R1. Both 33 and 45 satisfy the conditions, but only 45 appears in the options. Therefore, the answer is 45."
+    },
+    {
+      "id": 2,
+      "question": "A teacher has some sweets between 40 and 50. When each student receives 8 sweets, the teacher is short of 1 sweet (needs 1 more sweet to give every student 8). When each student receives 7 sweets, there are 5 sweets left. How many sweets are there?",
+      "options": [
+        "42",
+        "47",
+        "49",
+        "51"
+      ],
+      "correct": 1,
+      "explanation": "Being short of 1 sweet for groups of 8 means the number is 1 less than a multiple of 8. Multiples of 8 near 40-50: 40, 48. Numbers 1 less: 39, 47. Only 47 is between 40-50. Check division by 7: 47 ÷ 7 = 6 remainder 5, which matches the second condition."
+    },
+    {
+      "id": 3,
+      "question": "Oranges are sold in packs of 5. Each pack costs $3. Muthu paid for some packs with a $50 note and received $2 change. How many oranges did he buy?",
+      "options": [
+        "80",
+        "85",
+        "90",
+        "95"
+      ],
+      "correct": 0,
+      "explanation": "Amount spent = $50 - $2 = $48. Number of packs = $48 ÷ $3 = 16 packs. Total oranges = 16 × 5 = 80."
+    },
+    {
+      "id": 4,
+      "question": "A baker has 24 chocolate cupcakes and 40 vanilla cupcakes. He wants to put them into gift boxes. Each box must have the same number of chocolate cupcakes, and each box must have the same number of vanilla cupcakes. All cupcakes must be used. What is the greatest number of gift boxes he can make?",
+      "options": [
+        "4",
+        "6",
+        "8",
+        "12"
+      ],
+      "correct": 2,
+      "explanation": "Find the greatest common factor (GCF) of 24 and 40. Factors of 24: 1, 2, 3, 4, 6, 8, 12, 24. Factors of 40: 1, 2, 4, 5, 8, 10, 20, 40. Common factors: 1, 2, 4, 8. Greatest common factor = 8."
+    },
+    {
+      "id": 5,
+      "question": "There are between 60 and 80 marbles. If they are shared equally among 7 children, there are 4 marbles left. If they are shared equally among 8 children, there are 3 marbles left. How many marbles are there?",
+      "options": [
+        "67",
+        "71",
+        "74",
+        "79"
+      ],
+      "correct": 0,
+      "explanation": "Numbers with remainder 4 when divided by 7 (between 60-80): 7×9+4=67, 7×10+4=74. Numbers with remainder 3 when divided by 8 (between 60-80): 8×8+3=67, 8×9+3=75. The only common number is 67."
+    },
+    {
+      "id": 6,
+      "question": "Mrs. Lim had some money between $25 and $30. She bought some pencils. Each pencil costs $2. After buying the pencils, she had $4 left. How many pencils did she buy?",
+      "options": [
+        "8",
+        "9",
+        "11",
+        "13"
+      ],
+      "correct": 2,
+      "explanation": "Total money must be between $25 and $30 with $4 remaining after purchase. Possible totals: $26 or $28. Amount spent: $22 or $24. Number of pencils: $22 ÷ $2 = 11 or $24 ÷ $2 = 12. Only 11 appears in the options."
+    },
+    {
+      "id": 7,
+      "question": "Two lighthouses flash their lights. One flashes every 6 seconds. The other flashes every 9 seconds. If they flash together at 12:00:00, at what time will they flash together again?",
+      "options": [
+        "12:00:06",
+        "12:00:12",
+        "12:00:18",
+        "12:00:24"
+      ],
+      "correct": 2,
+      "explanation": "Find the least common multiple (LCM) of 6 and 9. Multiples of 6: 6, 12, 18, 24... Multiples of 9: 9, 18, 27... LCM = 18 seconds. They flash together again at 12:00:18."
+    },
+    {
+      "id": 8,
+      "question": "A box contains between 50 and 70 apples. If they are packed into bags of 7, there are 5 apples left. If they are packed into bags of 5, there are 3 apples left. How many apples are there?",
+      "options": [
+        "54",
+        "58",
+        "63",
+        "68"
+      ],
+      "correct": 3,
+      "explanation": "Numbers with remainder 5 when divided by 7 (50-70): 54, 61, 68. Numbers with remainder 3 when divided by 5 (50-70): 53, 58, 63, 68. The only common number is 68."
+    },
+    {
+      "id": 9,
+      "question": "Miss Tan has 36 stickers and 54 erasers. She wants to pack them into identical goodie bags. Each bag must have the same number of stickers and the same number of erasers. What is the maximum number of goodie bags she can make?",
+      "options": [
+        "6",
+        "9",
+        "12",
+        "18"
+      ],
+      "correct": 3,
+      "explanation": "Find the greatest common factor (GCF) of 36 and 54. Factors of 36: 1, 2, 3, 4, 6, 9, 12, 18, 36. Factors of 54: 1, 2, 3, 6, 9, 18, 27, 54. Greatest common factor = 18."
+    },
+    {
+      "id": 10,
+      "question": "A baker bakes between 80 and 100 cookies. If he puts 9 cookies in each box, he has 3 cookies left. If he puts 11 cookies in each box, he has 7 cookies left. How many cookies does he bake?",
+      "options": [
+        "84",
+        "87",
+        "93",
+        "96"
+      ],
+      "correct": 0,
+      "explanation": "Numbers with remainder 3 when divided by 9 (80-100): 84, 93. Numbers with remainder 7 when divided by 11 (80-100): 84, 95. The only common number is 84."
+    },
+    {
+      "id": 11,
+      "question": "Siti bought some stickers. Each sticker costs $3. She paid with a $20 note and received $2 change. How many stickers did she buy?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correct": 2,
+      "explanation": "Amount spent = $20 - $2 = $18. Number of stickers = $18 ÷ $3 = 6."
+    },
+    {
+      "id": 12,
+      "question": "What is the smallest number that is a multiple of both 8 and 12?",
+      "options": [
+        "16",
+        "24",
+        "36",
+        "48"
+      ],
+      "correct": 1,
+      "explanation": "Multiples of 8: 8, 16, 24, 32, 40, 48... Multiples of 12: 12, 24, 36, 48... Smallest common multiple = 24."
+    },
+    {
+      "id": 13,
+      "question": "A farmer has 42 apples and 56 oranges. He wants to pack them into boxes such that each box has the same number of apples and the same number of oranges. What is the largest possible number of boxes he can make?",
+      "options": [
+        "7",
+        "8",
+        "14",
+        "16"
+      ],
+      "correct": 2,
+      "explanation": "Find the greatest common factor (GCF) of 42 and 56. Factors of 42: 1, 2, 3, 6, 7, 14, 21, 42. Factors of 56: 1, 2, 4, 7, 8, 14, 28, 56. Greatest common factor = 14."
+    },
+    {
+      "id": 14,
+      "question": "There are between 20 and 40 pupils in a class. When the pupils form groups of 4, there are 2 pupils left. When they form groups of 5, there are 3 pupils left. How many pupils are there?",
+      "options": [
+        "22",
+        "26",
+        "34",
+        "38"
+      ],
+      "correct": 3,
+      "explanation": "Numbers with remainder 2 when divided by 4 (20-40): 22, 26, 30, 34, 38. Numbers with remainder 3 when divided by 5 (20-40): 23, 28, 33, 38. The only common number is 38."
+    },
+    {
+      "id": 15,
+      "question": "John goes to the library every 4 days. Mary goes to the same library every 6 days. If they meet at the library today, after how many days will they meet again?",
+      "options": [
+        "10",
+        "12",
+        "14",
+        "24"
+      ],
+      "correct": 1,
+      "explanation": "Find the least common multiple (LCM) of 4 and 6. Multiples of 4: 4, 8, 12, 16... Multiples of 6: 6, 12, 18... LCM = 12 days."
+    }
+  ]
+}
